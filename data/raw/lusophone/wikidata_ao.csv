@@ -1,0 +1,2311 @@
+# source_url: https://query.wikidata.org/sparql
+# license: CC0
+# country_qid: Q916
+# note: WDQS label corpus; given/family fields blank when property joins time out
+qid,label,given_name,family_name,country,country_class
+Q1921,Blaise Matuidi,,,ao,ao
+Q3190551,Justino Victoriano,,,ao,ao
+Q3242267,Viriato Clemente da Cruz,,,ao,ao
+Q3268186,Luís Gomes Sambo,,,ao,ao
+Q3286730,Manuel Africano,,,ao,ao
+Q3286744,Manuel António Machado,,,ao,ao
+Q3290141,Marco Paulo Rebelo Lopes,,,ao,ao
+Q3301963,João Mawete,,,ao,ao
+Q1356517,Pedro Luís António,,,ao,ao
+Q1367228,Madjer,,,ao,ao
+Q1373634,Eugénio Salessu,,,ao,ao
+Q1374575,Álvaro Holden Roberto,,,ao,ao
+Q1438803,Luís Lourenço,,,ao,ao
+Q1393099,Luis Pedro Cavanda,,,ao,ao
+Q1399054,Lopo do Nascimento,,,ao,ao
+Q1406691,Fernando Guimarães Kevanu,,,ao,ao
+Q1415445,Filomeno Vieira Dias,,,ao,ao
+Q5274135,Didi,,,ao,ao
+Q5216803,Daniel Chipenda,,,ao,ao
+Q5218278,Daniel Ntongi-Nzinga,,,ao,ao
+Q5232346,David Chingunji,,,ao,ao
+Q5256370,Demosthenes Amos Chilingutila,,,ao,ao
+Q5278316,Dinho Chingunji,,,ao,ao
+Q5283810,Divaldo Alves,,,ao,ao
+Q5288209,Dog Murras,,,ao,ao
+Q2032817,Oscar Lino Lopes Fernandes Braga,,,ao,ao
+Q2032898,Paulo Flores,,,ao,ao
+Q2062862,Miguel Quiame,,,ao,ao
+Q2062857,Ricardo Talu,,,ao,ao
+Q2063438,Vata Matanu Garcia,,,ao,ao
+Q7295916,Rats,,,ao,ao
+Q7312631,Renato Campos,,,ao,ao
+Q7198072,Pirolito,,,ao,ao
+Q7160031,Pedro de Castro van Dúnem,,,ao,ao
+Q7160040,Pedro de Morais Neto,,,ao,ao
+Q7199028,Pitra Neto,,,ao,ao
+Q7351774,Roberto Leal Monteiro,,,ao,ao
+Q7369744,Rossana Quitongo,,,ao,ao
+Q232501,Leila Lopes,,,ao,ao
+Q247454,Zé Kalanga,,,ao,ao
+Q259777,Arlindo Barbeitos,,,ao,ao
+Q3742878,Fernando Alvim,,,ao,ao
+Q3719041,Edgar Bartolomeu,,,ao,ao
+Q3751013,Francisco Jordão,,,ao,ao
+Q3810723,João Melo,,,ao,ao
+Q3810720,Manucho Barros,,,ao,ao
+Q3811208,Julião Kutonda,,,ao,ao
+Q5964146,Hélder Costa,,,ao,ao
+Q5716793,Henrique de Carvalho Santos,,,ao,ao
+Q5934195,Hugo Marques,,,ao,ao
+Q5996066,Iko Carreira,,,ao,ao
+Q6069782,Irina D. França,,,ao,ao
+Q2080201,Nadir Manuel,,,ao,ao
+Q2080211,Sónia Ndoniema,,,ao,ao
+Q57313,José Eduardo dos Santos,,,ao,ao
+Q3462283,Amaro,,,ao,ao
+Q3375330,Carolina Morais,,,ao,ao
+Q3375654,Ilda Bengue,,,ao,ao
+Q3375954,Maria Odeth Tavares,,,ao,ao
+Q3397948,Ruy Duarte de Carvalho,,,ao,ao
+Q3553518,Yuri da Cunha,,,ao,ao
+Q3564471,Victor Carvalho,,,ao,ao
+Q3564477,Vítor Covilhã,,,ao,ao
+Q3565722,Walter Costa,,,ao,ao
+Q3569213,Wilson Constantino Novo Estrela,,,ao,ao
+Q3605699,Adriano Belmiro Duarte Nicolau,,,ao,ao
+Q274495,Edson Nobre,,,ao,ao
+Q282260,Milton Barros,,,ao,ao
+Q301641,Hélder Vieira Dias,,,ao,ao
+Q302262,Alexandre do Nascimento,,,ao,ao
+Q7487064,Simão,,,ao,ao
+Q7486708,Luís Miguel da Fonseca Silva,,,ao,ao
+Q7487015,António João Neto,,,ao,ao
+Q7487002,Nando Fernando Morais,,,ao,ao
+Q7487046,Paulo Jorge da Silva,,,ao,ao
+Q7487050,Simon Lekumburri,,,ao,ao
+Q7487451,Aurélio de Sousa Soares,,,ao,ao
+Q6298375,João Roque,,,ao,ao
+Q6298271,João Mário,,,ao,ao
+Q6293678,José Patrício,,,ao,ao
+Q6294288,Pereira José de Fontes,,,ao,ao
+Q6298234,João Manuel Bernardo,,,ao,ao
+Q6298252,João Maria de Sousa,,,ao,ao
+Q3359430,Isabel Guialo,,,ao,ao
+Q3359429,Azenaide Carlos,,,ao,ao
+Q3372812,Paulo Macedo,,,ao,ao
+Q3337970,Nelson Sardinha,,,ao,ao
+Q3346411,Francisco Álvaro Tuzunguidi Michel,,,ao,ao
+Q3374949,Elzira Tavares,,,ao,ao
+Q3614773,Américo Boavida,,,ao,ao
+Q3638240,Benjamim João Romano,,,ao,ao
+Q3644753,Birgite dos Santos,,,ao,ao
+Q3646792,Dolly Menga,,,ao,ao
+Q3649799,António Dembo,,,ao,ao
+Q456034,Isabel dos Santos,,,ao,ao
+Q455104,Fernando Agostinho da Costa,,,ao,ao
+Q460121,Ana Paula Ribeiro Tavares,,,ao,ao
+Q5369057,Emanuel Fernandes,,,ao,ao
+Q5444698,Fernando Fernandes,,,ao,ao
+Q5408299,Eugenio Manuvakola,,,ao,ao
+Q5428243,Fabrício Mafuta,,,ao,ao
+Q5442103,Felismina Cavela,,,ao,ao
+Q5444720,Fernando Freitas,,,ao,ao
+Q4353874,Pedro Lima,,,ao,ao
+Q3999918,Trésore Quidome,,,ao,ao
+Q4020598,Wlademiro Romero,,,ao,ao
+Q4060754,Kadú,,,ao,ao
+Q4062785,João Luis de Almeida,,,ao,ao
+Q4381715,Neide Van-Dúnem,,,ao,ao
+Q5499586,Fredy,,,ao,ao
+Q5526551,Ismael Martins,,,ao,ao
+Q5561350,Gilberto Buta Lutucuta,,,ao,ao
+Q5607972,Jeremias Chitunda,,,ao,ao
+Q5628265,H. Gil Ingles,,,ao,ao
+Q5705393,Helio André,,,ao,ao
+Q5713736,Hendrick Vaal Neto,,,ao,ao
+Q5716744,Henrique N'zita Tiago,,,ao,ao
+Q1760549,Victor Muzadi,,,ao,ao
+Q1773575,Jean-Jacques Conceição,,,ao,ao
+Q1790831,Lourdes Van-Dúnem,,,ao,ao
+Q1932683,Miguel Francisco Pereira,,,ao,ao
+Q2030256,Tumba Silva,,,ao,ao
+Q8023261,Wilson dos Santos,,,ao,ao
+Q7810164,Tito Chingunji,,,ao,ao
+Q7909370,Valdemar Chidondo,,,ao,ao
+Q7910724,Valentim Amões,,,ao,ao
+Q7917419,Vaumara Rebelo,,,ao,ao
+Q7920679,Venâncio da Silva Moura,,,ao,ao
+Q7937532,Vivaldo Eduardo,,,ao,ao
+Q8068340,Zeca Amaral,,,ao,ao
+Q1442237,Francisco Viti,,,ao,ao
+Q1457599,Georges Chikoti,,,ao,ao
+Q1479462,Lúcio Lara,,,ao,ao
+Q1527454,José Maria Botelho de Vasconcelos,,,ao,ao
+Q2407702,Leonel Paulo,,,ao,ao
+Q2409548,Vladimir Geronimo,,,ao,ao
+Q2410400,Francisco Zuela,,,ao,ao
+Q2471918,Wilson Edgar Pereira Alegre,,,ao,ao
+Q2493654,Ungudi Quiawacana,,,ao,ao
+Q363927,José Eduardo Agualusa,,,ao,ao
+Q369895,Isaías Samakuva,,,ao,ao
+Q373591,Paulo Kassoma,,,ao,ao
+Q7378735,Rui de Sá,,,ao,ao
+Q7407990,Sam Pa,,,ao,ao
+Q7412785,Samuel Tito Armando,,,ao,ao
+Q7467525,Francisco Vicente Assis,,,ao,ao
+Q7467571,Raul António dos Santos Barbosa,,,ao,ao
+Q7478596,Carlos Pedro Pires de Melo,,,ao,ao
+Q7478582,Juan Manuel Pascal Cachaizamba,,,ao,ao
+Q7478611,Osvaldo Paulo João Diniz,,,ao,ao
+Q2080240,Astrida Vicente,,,ao,ao
+Q2167252,Antonio Correia,,,ao,ao
+Q2202664,Christo Bilukidi,,,ao,ao
+Q2210606,Rosa Saul,,,ao,ao
+Q2266756,Giovanni Vemba-Duarte,,,ao,ao
+Q351579,Gabriel Mbilingi,,,ao,ao
+Q362312,Flávio Amado,,,ao,ao
+Q310815,Nandó dos Santos,,,ao,ao
+Q273051,Jonas Malheiro Savimbi,,,ao,ao
+Q264090,França Van-Dúnem,,,ao,ao
+Q6298463,João de Matos,,,ao,ao
+Q6305249,Julião Mateus Paulo,,,ao,ao
+Q6320095,Jérémie Bela,,,ao,ao
+Q6320802,Matumona Lundala,,,ao,ao
+Q6345518,Kadima Mungusso,,,ao,ao
+Q6346289,Kafundanga Chingunji,,,ao,ao
+Q10264455,David Zé,,,ao,ao
+Q10269022,Dulce Braga,,,ao,ao
+Q10273578,Eric Santos,,,ao,ao
+Q10282276,Filipe Mukenga,,,ao,ao
+Q10282288,Filipe Zau,,,ao,ao
+Q10289036,Geraldo Bessa Victor,,,ao,ao
+Q10297783,Hoji-ya-Henda,,,ao,ao
+Q10299152,Hélder Graça Neto,,,ao,ao
+Q3609204,Anselmo Ralph,,,ao,ao
+Q533602,João Ricardo,,,ao,ao
+Q535235,Alda Lara,,,ao,ao
+Q523246,Evandro Brandão,,,ao,ao
+Q523788,Luís Oliveira Gonçalves,,,ao,ao
+Q112415,Alberto de Carvalho,,,ao,ao
+Q133470,Marcelina Vahekeni,,,ao,ao
+Q139186,Zacarias Kamwenho,,,ao,ao
+Q58306,Assunção dos Anjos,,,ao,ao
+Q2715932,Jonathan Buatu Mananga,,,ao,ao
+Q2735060,Adérito Waldemar Alves Carvalho,,,ao,ao
+Q2737513,António Jacinto,,,ao,ao
+Q2757212,Catarina Camufal,,,ao,ao
+Q3493825,Marcelina Kiala,,,ao,ao
+Q3499453,Luisa Kiala,,,ao,ao
+Q3500869,Nair Almeida,,,ao,ao
+Q3544507,Lito Vidigal,,,ao,ao
+Q3815152,Kikas,,,ao,ao
+Q3811382,Jurema Ferraz,,,ao,ao
+Q3867136,Ilídio Machado,,,ao,ao
+Q3874513,Nelsa Alves,,,ao,ao
+Q3898651,Pedro Francisco Miguel,,,ao,ao
+Q3961341,Simão Kikamba,,,ao,ao
+Q2063882,Paulino Fernandes Madeca,,,ao,ao
+Q2066630,Pedro Marcos Ribeiro da Costa,,,ao,ao
+Q2072276,Ricardo Job Estêvão,,,ao,ao
+Q2079565,Fineza Eusébio,,,ao,ao
+Q2080188,Ngiendula Filipe,,,ao,ao
+Q5361841,Elisio,,,ao,ao
+Q5290422,Domingos Culolo,,,ao,ao
+Q5290428,Domingos Manuel Njinga,,,ao,ao
+Q5292913,Don Kikas,,,ao,ao
+Q5347539,Efigênia dos Santos Lima Clemente,,,ao,ao
+Q5350621,Ekuikui IV,,,ao,ao
+Q5360596,Elias Salupeto Pena,,,ao,ao
+Q5368683,Elísio de Figueiredo,,,ao,ao
+Q6709653,Bonga,,,ao,ao
+Q6700828,Luis Matias,,,ao,ao
+Q6710808,Lázaro Fonseca Costa Oliveira,,,ao,ao
+Q6735546,Maieco Domingos Henrique António,,,ao,ao
+Q6752377,Manuel Alexandre Jamuana,,,ao,ao
+Q3375250,Isabel Fernandes,,,ao,ao
+Q3374978,Cristina Branco,,,ao,ao
+Q3374999,Natalia Bernardo,,,ao,ao
+Q3375166,Joelma Viegas,,,ao,ao
+Q3375313,Neyde Barbosa,,,ao,ao
+Q10355561,Puto Português,,,ao,ao
+Q10357750,Raúl Indipwo,,,ao,ao
+Q10364110,Rogério de Carvalho,,,ao,ao
+Q10365296,Ruy Mingas,,,ao,ao
+Q10372258,Sita Valles,,,ao,ao
+Q10373546,Sousa Jamba,,,ao,ao
+Q10378759,Tchikakata Mbalundo,,,ao,ao
+Q10380977,José Quitongo,,,ao,ao
+Q5444871,Fernando Pereira,,,ao,ao
+Q5464025,Fofana,,,ao,ao
+Q5448540,Filipe Abraao,,,ao,ao
+Q5448557,Filipe Nzanza,,,ao,ao
+Q5472829,Fortunato Luis Pacavira,,,ao,ao
+Q5483447,Francisco Lopes Higino Carneiro,,,ao,ao
+Q5483896,Francisco Romão,,,ao,ao
+Q2511025,Vasco Vieira da Costa,,,ao,ao
+Q2514348,Titica,,,ao,ao
+Q2541308,Waldemar Bastos,,,ao,ao
+Q2561141,Henrique Abranches,,,ao,ao
+Q2600598,Yola Semedo,,,ao,ao
+Q2608980,Yamba Asha,,,ao,ao
+Q181665,Agostinho Neto,,,ao,ao
+Q184449,Zeferino Zeca Martins,,,ao,ao
+Q204445,Eduardo André Muaca,,,ao,ao
+Q9374756,Magda Cazanga,,,ao,ao
+Q9709244,Catarina Sousa,,,ao,ao
+Q9586975,Afonso Abel de Campos,,,ao,ao
+Q9611595,Amélia da Lomba,,,ao,ao
+Q4750315,Ana Barros,,,ao,ao
+Q4689392,Afonso Van-Dunem,,,ao,ao
+Q4694559,Aguinaldo Jaime,,,ao,ao
+Q4712054,Alberto Graves Chakussanga,,,ao,ao
+Q4712083,Alberto Joaquim Vinama,,,ao,ao
+Q4726210,Aliceres Mango,,,ao,ao
+Q4733786,Almerindo Jaka Jamba,,,ao,ao
+Q4741928,Ambrósio Lukoki,,,ao,ao
+Q6774171,Marta Santos,,,ao,ao
+Q6765905,Marito,,,ao,ao
+Q6762050,Mariana Henriques,,,ao,ao
+Q6764779,Mario Manuel de Oliveira,,,ao,ao
+Q6787541,Matilde André,,,ao,ao
+Q6794396,Mawete João Baptista,,,ao,ao
+Q6836892,Michelino Mavatiku Visi,,,ao,ao
+Q2278782,Joaquim Gomes,,,ao,ao
+Q2278685,Carlos Almeida,,,ao,ao
+Q2271955,Serafim Shyngo-Ya-Hombo,,,ao,ao
+Q2278706,Eduardo Mingas,,,ao,ao
+Q2343836,Régio Francisco Congo Zalata,,,ao,ao
+Q4382032,Óscar Bento Ribas,,,ao,ao
+Q4668656,Nelson Henriques,,,ao,ao
+Q4669149,Luís Sá Silva,,,ao,ao
+Q4680926,Adawá Mokanga,,,ao,ao
+Q4682839,Adilson da Cruz,,,ao,ao
+Q4685588,Adriano Makevela Mackenzie,,,ao,ao
+Q4689381,Afonso Pedro Canga,,,ao,ao
+Q1624159,Welwitschia dos Santos,,,ao,ao
+Q1709402,José Manuel Imbamba,,,ao,ao
+Q1709494,José Mena Abrantes,,,ao,ao
+Q1709527,José Nambi,,,ao,ao
+Q1729014,Mário Lucunde,,,ao,ao
+Q1748390,Mabi de Almeida,,,ao,ao
+Q2857757,António Santos,,,ao,ao
+Q2857939,Aníbal Moreira,,,ao,ao
+Q2891838,José Sayovo,,,ao,ao
+Q2894219,Mário Chipongue,,,ao,ao
+Q2895973,Benjamim Avô,,,ao,ao
+Q2927773,Buila Katiavala,,,ao,ao
+Q2944008,Hermenegildo da Costa Paulo Bartolomeu,,,ao,ao
+Q7487549,Fernando Gomes Manuel de Sousa,,,ao,ao
+Q7487591,Hélder Vicente de Jesus Serafin,,,ao,ao
+Q7487764,Helmer da Piedade Rosa,,,ao,ao
+Q7555105,Soki N'Zinga,,,ao,ao
+Q7617688,Stiviandra Oliveira,,,ao,ao
+Q7619846,Stopirra,,,ao,ao
+Q7705984,Teta Lando,,,ao,ao
+Q6083115,Manuel Rui,,,ao,ao
+Q6085106,Isménia Júnior,,,ao,ao
+Q6140236,Nito Alves,,,ao,ao
+Q6146335,Tiago Emanuel da Costa Sousa,,,ao,ao
+Q6169090,Jean-Claude Bastos de Morais,,,ao,ao
+Q6185640,Jerónimo Elavoko Wanga,,,ao,ao
+Q13428976,Alexander Christovao,,,ao,ao
+Q13563286,Anica Neto,,,ao,ao
+Q13563290,Elisa Webba,,,ao,ao
+Q13563289,Filomena Trindade,,,ao,ao
+Q13563288,Palmira Barbosa,,,ao,ao
+Q4750340,Ana Crysna da Silva Romero,,,ao,ao
+Q4750344,Ana Dias Lourenço,,,ao,ao
+Q4750416,Ana Maria Teles Carreira,,,ao,ao
+Q4776966,Antonio Sapalo Lohoca Justo,,,ao,ao
+Q4777046,Antonio Fwaminy da Costa Fernandes,,,ao,ao
+Q603173,António Mendonça,,,ao,ao
+Q603442,Luís Maimona João,,,ao,ao
+Q611393,António Setas,,,ao,ao
+Q614876,Miloy,,,ao,ao
+Q2757411,Felizarda Jorge,,,ao,ao
+Q2812145,Dias Caires,,,ao,ao
+Q2812285,Enoque Paulo Guilherme,,,ao,ao
+Q10513682,Lolo,,,ao,ao
+Q10387078,Uanhenga Xitu,,,ao,ao
+Q10390357,Víctor Kajibanga,,,ao,ao
+Q10396323,Érica Chissapa,,,ao,ao
+Q10544045,Hugo Soares,,,ao,ao
+Q10399600,Jacinto Pereira,,,ao,ao
+Q6352503,Kalias Pedro,,,ao,ao
+Q6444389,Kundy Paihama,,,ao,ao
+Q6485316,Landú Mavanga,,,ao,ao
+Q6530564,Lesliana Pereira,,,ao,ao
+Q6671916,Adriano Botelho de Vasconcelos,,,ao,ao
+Q6696242,Lucas Ngonda,,,ao,ao
+Q6752385,Manuel Antonio,,,ao,ao
+Q6752529,Manuel David Afonso,,,ao,ao
+Q6752587,Manuel Franklin da Costa,,,ao,ao
+Q6752601,Manuel Gaspar Costa,,,ao,ao
+Q6752791,Manuel Pedro Pacavira,,,ao,ao
+Q6752858,Manuel Sala,,,ao,ao
+Q941427,Mário Pinto de Andrade,,,ao,ao
+Q798402,Nassecela Mauricio,,,ao,ao
+Q926318,Johnson Monteiro Pinto Macaba,,,ao,ao
+Q953253,António Lebo Lebo,,,ao,ao
+Q508382,Kali,,,ao,ao
+Q516259,Ricardo Teixeira,,,ao,ao
+Q521218,André Macanga,,,ao,ao
+Q424407,Akwá,,,ao,ao
+Q434534,Ana Paula dos Santos,,,ao,ao
+Q435611,Teresa Nzola Meso Ba,,,ao,ao
+Q3186510,José Pedro Alberto,,,ao,ao
+Q3186515,José Pedro de Morais,,,ao,ao
+Q3187284,João Bernardo de Miranda,,,ao,ao
+Q304416,William Carvalho,,,ao,ao
+Q309890,Manucho,,,ao,ao
+Q4865527,Bartolomeu Jacinto Quissanga,,,ao,ao
+Q4893892,Bernardo Cariata,,,ao,ao
+Q4898165,Beto Vidigal,,,ao,ao
+Q4931550,Boaventura Cardoso,,,ao,ao
+Q4936763,Bodunha,,,ao,ao
+Q6271982,Jonas,,,ao,ao
+Q6277976,Jorge Ferreira,,,ao,ao
+Q6292670,José Leal,,,ao,ao
+Q6222208,Osvaldo de Jesus Serra Van-Dúnem,,,ao,ao
+Q6278611,Jorge Sangumba,,,ao,ao
+Q6279399,José João Manuel,,,ao,ao
+Q6280350,Josefina Pitra Diakité,,,ao,ao
+Q580497,Ana Gonçalves,,,ao,ao
+Q573151,Ondjaki,,,ao,ao
+Q578384,Damião António Franklin,,,ao,ao
+Q578820,Miguel Lutonda,,,ao,ao
+Q13563291,Cristina Matiquite,,,ao,ao
+Q14323060,Luzia Simão,,,ao,ao
+Q14324646,Islando Manuel,,,ao,ao
+Q14326793,José Nascimento,,,ao,ao
+Q14327729,Ivo Alfredo,,,ao,ao
+Q14328029,Miguel Kiala,,,ao,ao
+Q14329123,Valdelício Joaquim,,,ao,ao
+Q463073,Antonia Moreira,,,ao,ao
+Q508138,Angela Cardoso,,,ao,ao
+Q463867,Diamondog,,,ao,ao
+Q464815,Mantorras,,,ao,ao
+Q658279,Paulo Figueiredo,,,ao,ao
+Q631312,Arcadi Gaydamak,,,ao,ao
+Q650493,Inacio Manuel Candido,,,ao,ao
+Q654440,Madalena Felix,,,ao,ao
+Q4940755,Bombo Calandula,,,ao,ao
+Q4947866,Maria Celestina Fernandes,,,ao,ao
+Q4971495,Brito Sozinho,,,ao,ao
+Q4979310,Bruno Mauro,,,ao,ao
+Q5041946,Carlos Contreiras,,,ao,ao
+Q5044792,Carolina Cerqueira,,,ao,ao
+Q5097583,Chilala Moco,,,ao,ao
+Q5101047,Chinguila,,,ao,ao
+Q111994638,António Bento Kangulo,,,ao,ao
+Q111994587,Cristóvão Domingos Francisco da Cunha,,,ao,ao
+Q111994576,Ernesto Fernando Kiteculo,,,ao,ao
+Q111994573,Francisco Sozinho Chihuissa,,,ao,ao
+Q111994633,Cordeiro Ernesto Nzakundomba,,,ao,ao
+Q111994559,Manuel Francisco Gomes Maiato,,,ao,ao
+Q111994574,Miji Muachissengue,,,ao,ao
+Q111994591,Norberto Fernandes dos Santos,,,ao,ao
+Q111994543,Simão Mateus Paulo,,,ao,ao
+Q111994790,Lotti Nolika,,,ao,ao
+Q111994858,Nuno Bernabé Mahapi Dala,,,ao,ao
+Q112032218,José Filipe,,,ao,ao
+Q112032225,Lizeth Nawanga Satumbo Pena,,,ao,ao
+Q112032211,Nelson Manuel Cosme,,,ao,ao
+Q112038476,Florêncio Mariano de Almeida,,,ao,ao
+Q112038592,Feliciano António Dos Santos,,,ao,ao
+Q112038620,Condesse de Carvalho,,,ao,ao
+Q112038596,Manuel Quarta Punza,,,ao,ao
+Q2820962,Abdel Aziz Moussa,,,ao,ao
+Q2821497,Abel Epalanga Chivukuvuku,,,ao,ao
+Q2844964,Ana Clara Guerra Marques,,,ao,ao
+Q2857736,António dos Santos França,,,ao,ao
+Q6844661,Miguel Maria N'Zau Puna,,,ao,ao
+Q6844700,Miguel Neto,,,ao,ao
+Q6909055,Morais Abreu,,,ao,ao
+Q7022496,Ngola Kabangu,,,ao,ao
+Q7089322,OmPuff,,,ao,ao
+Q7108285,Osório Carvalho,,,ao,ao
+Q7150765,Paul G,,,ao,ao
+Q12393009,Martín Payero,,,ao,ao
+Q11082410,Pedro Mutindi,,,ao,ao
+Q11728718,João Paulo de Silva,,,ao,ao
+Q11756564,Lidia Nicole Alberto,,,ao,ao
+Q11813839,Paulo Morais,,,ao,ao
+Q11885005,Nádia Cruz,,,ao,ao
+Q12036621,Michael Dymek,,,ao,ao
+Q12471723,Amâncio Fortes,,,ao,ao
+Q659314,Marco Abreu,,,ao,ao
+Q672367,Guilherme Afonso,,,ao,ao
+Q682627,Marco Airosa,,,ao,ao
+Q702870,Nando Rafael,,,ao,ao
+Q10308256,Jorge Varela,,,ao,ao
+Q10303796,Isabel Ferreira,,,ao,ao
+Q10309412,José Filomeno dos Santos,,,ao,ao
+Q10311846,João Maria Vilanova,,,ao,ao
+Q10313807,Kardo Bestilo,,,ao,ao
+Q10317959,Liceu Vieira Dias,,,ao,ao
+Q10321516,Luís Kifas,,,ao,ao
+Q10321659,Luís Sá,,,ao,ao
+Q111974754,Luis Reis Paulo Cuanga,,,ao,ao
+Q111974755,Manso João Miranda Pascoal,,,ao,ao
+Q111974758,Manuel Francisco Tuta,,,ao,ao
+Q111974756,Manuel Augusto Fragata Morais,,,ao,ao
+Q111974757,Manuel Figueira Calunga,,,ao,ao
+Q111974762,Maria Catarina Beúa,,,ao,ao
+Q111974760,Marcelina Huna Alexandre,,,ao,ao
+Q111974763,Maria Do Rosário Amadeu,,,ao,ao
+Q111974761,Maria Buiti Makuala,,,ao,ao
+Q111974764,Maria Isabel Camué,,,ao,ao
+Q111974765,Maria José de Sousa Gouveia Alfredo,,,ao,ao
+Q111974767,Marta Beatriz Do Carmo Issungo,,,ao,ao
+Q111974768,Mfuca António Fuacaca Muzemba,,,ao,ao
+Q536192,Luisa Tomas,,,ao,ao
+Q10323941,Manuel Antonio Rabelais,,,ao,ao
+Q10325444,Marcos Gil,,,ao,ao
+Q10328338,Mel Gambôa,,,ao,ao
+Q10329024,Mestre Kamosso,,,ao,ao
+Q10335872,Nayma Mingas,,,ao,ao
+Q10336646,NGA,,,ao,ao
+Q10346891,Paulo de Carvalho,,,ao,ao
+Q47466789,Ary,,,ao,ao
+Q48868895,Fua,,,ao,ao
+Q47407742,Ninda Baptista,,,ao,ao
+Q47494985,Sylvain Francisco,,,ao,ao
+Q47530558,Sara Fernandes Elizalde,,,ao,ao
+Q47787165,Mawunu Monizi,,,ao,ao
+Q47787709,José Lau Mandombe,,,ao,ao
+Q50347823,Sandra Antonio,,,ao,ao
+Q50414509,Maria Alexandre Dáskalos,,,ao,ao
+Q704669,Love,,,ao,ao
+Q710252,Jamba,,,ao,ao
+Q721279,Sebastião Gilberto,,,ao,ao
+Q742146,Carlos Morais,,,ao,ao
+Q736858,Pepetela,,,ao,ao
+Q768233,José Carlos Guimarães,,,ao,ao
+Q784734,Herlander Coimbra,,,ao,ao
+Q3017773,David Dias,,,ao,ao
+Q3017777,Davíd,,,ao,ao
+Q3023304,Dani Massunguna,,,ao,ao
+Q3032213,Divaldo Mbunga,,,ao,ao
+Q3034832,Domingos Bonifacio,,,ao,ao
+Q963800,Luis Costa,,,ao,ao
+Q973742,Manuel Vicente,,,ao,ao
+Q954183,Locó,,,ao,ao
+Q956123,Manuel Sousa,,,ao,ao
+Q962717,Paulo Teixeira Jorge,,,ao,ao
+Q3064585,Roberto Fortes,,,ao,ao
+Q3047396,Eden Sequeira,,,ao,ao
+Q3047683,Edmar Victoriano,,,ao,ao
+Q3051971,Emanuel José Paulo João,,,ao,ao
+Q3051976,Emanuel Neto,,,ao,ao
+Q3069456,Fernando Faustino Muteka,,,ao,ao
+Q3095340,Garcia Domingos,,,ao,ao
+Q3099284,Joaquim Alberto Silva,,,ao,ao
+Q135371066,Malick Cisse,,,ao,ao
+Q135367294,Cristiano Quicassa Gomes,,,ao,ao
+Q135367313,Jonatao Ndjungu,,,ao,ao
+Q135367822,Benedito Albertino Dala Sambongue,,,ao,ao
+Q135367565,Marinela de Sousa Pinheiro Muxiri,,,ao,ao
+Q135367823,Edvaldo Makangila Andre Simao,,,ao,ao
+Q135367836,Gil Silva,,,ao,ao
+Q135367983,Helder Alberto Jinga Fernandes,,,ao,ao
+Q135368172,Artur Branco Sacarrolha,,,ao,ao
+Q135368171,Delcio Emanuel Ribeiro Da Silva Sebastiao,,,ao,ao
+Q135368174,Dideltino Miguel Eduardo Americo,,,ao,ao
+Q135367984,Shelson Edvanio Bickmann do Carmo Sanjoaneira,,,ao,ao
+Q135368173,Pascoal Konde,,,ao,ao
+Q135368176,Rifen Amilcar Fernandes Miguel,,,ao,ao
+Q135368175,Wilson Cassuende Ambrosio,,,ao,ao
+Q135368291,Canata Miguel,,,ao,ao
+Q135368290,Denise Pascoal,,,ao,ao
+Q135368973,Antonieta da Silva Vidal,,,ao,ao
+Q135369017,Breone Deoclesia Gonçalves Caculo,,,ao,ao
+Q135368988,Geovana Chilombo Gueve Dongua,,,ao,ao
+Q135368989,Irene Cavemba Cafumo,,,ao,ao
+Q135369016,Jaema da Gloria Correia Antonio,,,ao,ao
+Q135368990,Luisa Sasha de Albuquerque João,,,ao,ao
+Q135369101,Levy Mayunga Kavila Miguel,,,ao,ao
+Q135369008,Regina Pequeno,,,ao,ao
+Q135368929,Valeriana Cacolama Moxi,,,ao,ao
+Q135369007,Valeria Francisco de Nascimiento,,,ao,ao
+Q135369718,Domilda Lussati,,,ao,ao
+Q135369716,Esperanca Cassova Marques Nunda,,,ao,ao
+Q135369847,Ayrton José Leitão Dala,,,ao,ao
+Q135369853,Bruno Anderson Ramos Neves,,,ao,ao
+Q135369717,Joana Balanga Bende,,,ao,ao
+Q135369852,Dilson Chissuata da Piedade,,,ao,ao
+Q135369720,Leopoldina Luis Emidio,,,ao,ao
+Q135369842,Jose Panda Reis Neto,,,ao,ao
+Q135369851,Julio Jeronimo Cambudi,,,ao,ao
+Q135369721,Ruth Paim,,,ao,ao
+Q135369850,Martinho Domingos Diogo Paulo,,,ao,ao
+Q135369719,Tatiana Benvinda da Silva Jamba,,,ao,ao
+Q135369849,Simao da Rocha Lutonda,,,ao,ao
+Q135370291,Valdir Alexamdre Victoriano Manuel,,,ao,ao
+Q135371136,Emanuela Mateus,,,ao,ao
+Q135371137,Isabel Mendes Simba,,,ao,ao
+Q135371135,Neusa Madalena Candido,,,ao,ao
+Q135371625,Adriana Naule Goncalves Manuel,,,ao,ao
+Q135371626,Avelina Peso,,,ao,ao
+Q135371630,Cristiana Correia,,,ao,ao
+Q135371629,Eduarda Gabriel,,,ao,ao
+Q135371628,Juda Quindanda,,,ao,ao
+Q135371624,Mariana Natercia Moises Manuel,,,ao,ao
+Q135371631,Miriam Congo da Cruz,,,ao,ao
+Q3179256,Norberto Mulenessa Maurito,,,ao,ao
+Q3179735,Joaquim Pinto de Andrade,,,ao,ao
+Q3181032,John Bella,,,ao,ao
+Q3182883,Johnny Eduardo Pinnock,,,ao,ao
+Q1320275,Micaela Reis,,,ao,ao
+Q1339834,Emílio Sumbelelo,,,ao,ao
+Q1339838,Emílio de Carvalho,,,ao,ao
+Q1342923,Luís Manuel Ferreira Delgado,,,ao,ao
+Q1343949,Titi Buengo,,,ao,ao
+Q112038628,Apolinário Jorge Correia,,,ao,ao
+Q112038654,Augusto da Costa Carneiro,,,ao,ao
+Q112038625,João Garcia Bires,,,ao,ao
+Q112038655,Hélder Fernando Pitta Grós,,,ao,ao
+Q112040244,Félix de Jesus Cala,,,ao,ao
+Q112040296,Edson Ulisses de Carvalho Alves Barreto,,,ao,ao
+Q112040285,Francisco João de Carvalho Neto,,,ao,ao
+Q112040294,Luís Fernando,,,ao,ao
+Q112040291,Maria de Fátima Republicano de Lima Viegas,,,ao,ao
+Q112040242,Sebastião Domingos Gunza,,,ao,ao
+Q112040288,Pedro Fiete Correia Raimundo,,,ao,ao
+Q112040283,Victor Hugo Guilherme,,,ao,ao
+Q112042218,Azevedo Xavier Francisco,,,ao,ao
+Q112042233,Agostinho Andre De Carvalho Fernandes,,,ao,ao
+Q112042334,Cecília Caldeira da Conceição Rosário,,,ao,ao
+Q112042338,Fidelino de Jesus Florentino Pelinganga,,,ao,ao
+Q112042295,Sandro Renato Agostinho de Oliveira,,,ao,ao
+Q4777551,António Dias Cardoso,,,ao,ao
+Q4828012,Avelino Lopes,,,ao,ao
+Q4777519,António Alberto Neto,,,ao,ao
+Q4777533,António Bento Bembe,,,ao,ao
+Q4777578,António Luís dos Santos Serrado,,,ao,ao
+Q4778486,Anália de Victória Pereira,,,ao,ao
+Q4792237,Arlindo Pena Ben-Ben,,,ao,ao
+Q4794372,Arménio Ferreira,,,ao,ao
+Q135361429,Carlos Soares,,,ao,ao
+Q135360612,Edmilson Francisco,,,ao,ao
+Q135360613,Elton Mangueira,,,ao,ao
+Q135360606,Francisco Rosario,,,ao,ao
+Q135361370,Ana Mbuende,,,ao,ao
+Q135361428,Aloisio Andrade,,,ao,ao
+Q135361371,Domingas Dembos,,,ao,ao
+Q135361383,Elisameria Junte,,,ao,ao
+Q135361389,Edmilson Neto,,,ao,ao
+Q135361450,Fabio Antonio,,,ao,ao
+Q135361390,Julio Neto,,,ao,ao
+Q135361430,Joshua Guilherme Antunes Texeira,,,ao,ao
+Q135361384,Leontina Ngunga,,,ao,ao
+Q135361451,José Mansila Nseka,,,ao,ao
+Q135361382,Maria Rosenio,,,ao,ao
+Q135361387,Marta Sebastiao,,,ao,ao
+Q135361385,Nadejda Domingos,,,ao,ao
+Q135361449,Lutwima Fausto,,,ao,ao
+Q135361386,Teresa Mbemba,,,ao,ao
+Q135361909,Aldemiro Joao,,,ao,ao
+Q135361388,Valdemar Avelino,,,ao,ao
+Q135361955,Antonio Dinis,,,ao,ao
+Q135361956,Eliseu Ventura,,,ao,ao
+Q135361952,Geovanne Kibinga,,,ao,ao
+Q135361953,Kenni Biongo,,,ao,ao
+Q135362005,Magda Mussol,,,ao,ao
+Q135362004,Maria Chicola Boavida,,,ao,ao
+Q135362006,Marioneth Silva,,,ao,ao
+Q135362008,Tatiana Miguel,,,ao,ao
+Q135362285,Rafaela Henriques,,,ao,ao
+Q135362730,Antonia Luis Miguel,,,ao,ao
+Q135363139,Maria Margarida Macedo,,,ao,ao
+Q135363686,Gilson de Freitas Martins,,,ao,ao
+Q135364184,Conceicao Francisco Caetano,,,ao,ao
+Q135364603,Cristina João Lourenço,,,ao,ao
+Q135364683,Angelo Gouveia Alexandre,,,ao,ao
+Q135364585,Elizete Elias,,,ao,ao
+Q135364589,Helena Pululo,,,ao,ao
+Q135364586,Isidora Pedro Augusto,,,ao,ao
+Q135364684,Elcane Paca,,,ao,ao
+Q135364682,Emanuel Sebastiao,,,ao,ao
+Q135364602,Julia Francisco,,,ao,ao
+Q135364584,Maria Quipaca,,,ao,ao
+Q135364601,Nara Miguel André,,,ao,ao
+Q135364587,Paula Caîtão Andre,,,ao,ao
+Q135364588,Tcheuzia Gonçalves,,,ao,ao
+Q135365807,Adalberta Juliana Firmino Candeias,,,ao,ao
+Q135365655,Malcolm Diacivi Augusto Tungo,,,ao,ao
+Q135366394,Geraldo Chassungu Lucas Santos,,,ao,ao
+Q135366393,Ismael Vieira Monteiro,,,ao,ao
+Q135366392,Tarcio Deniro Fernandes Domingos,,,ao,ao
+Q135367002,Fidel Cabita,,,ao,ao
+Q135361954,Francisco Gomes,,,ao,ao
+Q112043554,Maria Isabel,,,ao,ao
+Q111974716,Elsa Maria da Conceição Ambriz,,,ao,ao
+Q111974717,Emílio José Homem Gomes,,,ao,ao
+Q111974718,Eugénia Tamar Semente Chiaca Ngandalo,,,ao,ao
+Q111974719,Eugênio Antonino Ngolo Manuvakola,,,ao,ao
+Q111974720,Eva Quibuba Cangudi,,,ao,ao
+Q111974721,Exalgina Reneé Vicente Olavo Gambôa,,,ao,ao
+Q111974722,Fernando Domingos Heitor da Costa Francisco,,,ao,ao
+Q111974723,Filipe Domingos,,,ao,ao
+Q112043546,Luís Wachihassa Maiajala,,,ao,ao
+Q112043549,Lúcia Maria Tomás,,,ao,ao
+Q112043551,Manuel Lourenço Rocha da Silva,,,ao,ao
+Q112043552,Manuel Pedro de Oliveira,,,ao,ao
+Q112043553,Maria Eulália Andrade Camilo,,,ao,ao
+Q105408090,Yolanda Tati,,,ao,ao
+Q105491239,Adelina Manassas,,,ao,ao
+Q105491240,Adriano Pereira dos Santos,,,ao,ao
+Q105491269,Ambrosio Antonio de Oliveira Silvestre,,,ao,ao
+Q105491290,Anastacio Ruben Sikatu,,,ao,ao
+Q105491294,Antenio Jose Ferreira Neto,,,ao,ao
+Q105491292,Andre Pitra,,,ao,ao
+Q105491295,Antonio Boletim da Silva,,,ao,ao
+Q105491298,António Burity da Silva Neto,,,ao,ao
+Q105491296,Antonio Henriques da Silva,,,ao,ao
+Q105491302,Augusto Lopes Teixeira,,,ao,ao
+Q105491300,Antônio da Costa Lopes da Camara,,,ao,ao
+Q105491303,Augusto Teixeira de Matos,,,ao,ao
+Q105491301,Artur Vidal Gomes,,,ao,ao
+Q105491306,Carlos Alberto van Dunem,,,ao,ao
+Q105491307,David Aires Machado,,,ao,ao
+Q105491311,Domingos Coelho da Cruz,,,ao,ao
+Q105491309,Diogenes de Assis Boavida,,,ao,ao
+Q105491312,Domingos Jose Ramos da Cruz,,,ao,ao
+Q105491313,Emilio Geurra,,,ao,ao
+Q44462183,Helena Paulo,,,ao,ao
+Q42566262,Eugénio Katombi,,,ao,ao
+Q42611323,Ana Isabel Elias,,,ao,ao
+Q42890123,Bernardo Manuel,,,ao,ao
+Q44460026,Manuela Paulino,,,ao,ao
+Q44461466,Vilma Silva,,,ao,ao
+Q44462173,Natália Kamalandua,,,ao,ao
+Q556457,Carlos Fernandes,,,ao,ao
+Q544365,Felizardo Ambrosio,,,ao,ao
+Q552823,Djalma Campos,,,ao,ao
+Q558950,José Luandino Vieira,,,ao,ao
+Q112042649,Beatriz Antónia Manuel de Morais,,,ao,ao
+Q112042642,João Salvador dos Santos Neto,,,ao,ao
+Q112042671,Joao Miguel Vahekeni,,,ao,ao
+Q112042715,Toko Diakenda Serão,,,ao,ao
+Q112043495,Adelino Marques de Almeida,,,ao,ao
+Q112043498,Afonso Domingos Pedro Van-Dúnem,,,ao,ao
+Q112043496,Adriana Sofia Cacuassa Bento,,,ao,ao
+Q112043497,Adélia Maria Pires da Conceição de Carvalho,,,ao,ao
+Q112043502,Alice Paulina Dombolo Chivaca,,,ao,ao
+Q112043500,Alda Juliana Paulo Sachiambo,,,ao,ao
+Q112043501,Alfredo Furtado de Azevedo Júnior,,,ao,ao
+Q112043503,Amaro Cacoma da Silva,,,ao,ao
+Q112043506,Ana Maria de Oliveira,,,ao,ao
+Q112043507,Ana Paula Cristóvão de Lemos dos Santos,,,ao,ao
+Q112043505,Ana Maria da Silva Sousa e Silva,,,ao,ao
+Q112043508,Anabela Trindade Jordão da Silva,,,ao,ao
+Q112043509,Anabela da Graça Alexandre Leitão,,,ao,ao
+Q112043514,António Daniel Ventura de Azevedo,,,ao,ao
+Q112043515,António Sambuquila,,,ao,ao
+Q112043517,Beatriz Aurora Neves Salucombo,,,ao,ao
+Q112043518,Carla Maria Leitão Ribeiro de Sousa,,,ao,ao
+Q112043519,Carlito Roberto,,,ao,ao
+Q112043522,Catarina Pedro Domingos,,,ao,ao
+Q112043520,Carlos Francisco Conde,,,ao,ao
+Q112043521,Carlos Magalhães,,,ao,ao
+Q112043524,Delfina Helena Inácio,,,ao,ao
+Q112043526,Edite Livila V. L. Manuel,,,ao,ao
+Q112043527,Elias Satyohamba,,,ao,ao
+Q52224026,Eugénia Gaspar,,,ao,ao
+Q52423198,Chico Banza,,,ao,ao
+Q52782062,António Olímpio Gonçalves,,,ao,ao
+Q52782144,Maria Luísa Morais,,,ao,ao
+Q53850376,Maria Mutunda,,,ao,ao
+Q53858072,Nélson da Luz,,,ao,ao
+Q53858110,Manuel Cafumana,,,ao,ao
+Q1029480,Rafael Marques de Morais,,,ao,ao
+Q1035087,Helder Martins de Carvalho,,,ao,ao
+Q978689,Freddy,,,ao,ao
+Q983542,Marcolino Moco,,,ao,ao
+Q3100882,Gentil Ferreira Viana,,,ao,ao
+Q3104376,Gerson Monteiro,,,ao,ao
+Q3140188,Honorato Trosso,,,ao,ao
+Q3160575,Jaime Miguel Linares,,,ao,ao
+Q3177532,Jerson Monteiro,,,ao,ao
+Q1041993,João N'Tyamba,,,ao,ao
+Q1112457,Olimpio Cipriano,,,ao,ao
+Q5101055,Chinho,,,ao,ao
+Q5186293,Cristiano André,,,ao,ao
+Q7155168,Paulo António Alves,,,ao,ao
+Q7159868,Pedro Pinotes,,,ao,ao
+Q135355559,Carlos Mata,,,ao,ao
+Q135357671,Paulo Fernandes,,,ao,ao
+Q135357670,Sandra Gomes,,,ao,ao
+Q135354980,Alexandra Koji,,,ao,ao
+Q135354974,Ana Servico,,,ao,ao
+Q135354981,Arminda Lino Vaz Contreiras,,,ao,ao
+Q135354971,Celestino Augusto,,,ao,ao
+Q135354969,Cheille Costa,,,ao,ao
+Q135354966,Daniel Guilherme,,,ao,ao
+Q135354982,Eliana Ventura Vilola,,,ao,ao
+Q135354970,Garcia Kabemba,,,ao,ao
+Q135354977,Filomena David,,,ao,ao
+Q135354968,Graciano N'Thona,,,ao,ao
+Q135354972,Josemar Cesar,,,ao,ao
+Q135354967,Marcelo Paulino,,,ao,ao
+Q135354978,Manata Kibuabua,,,ao,ao
+Q135354976,Miraldina Buitchi,,,ao,ao
+Q135354964,Ousmane José da Encarnacao Sanoh,,,ao,ao
+Q135354979,Osemilda Rodrigues,,,ao,ao
+Q135354975,Rayana Capapinha,,,ao,ao
+Q135355471,Bamba Joao Cisse,,,ao,ao
+Q135354973,Wellingthon Barros,,,ao,ao
+Q135355593,Arminda Sindalawa,,,ao,ao
+Q135355492,Elezandra Costa,,,ao,ao
+Q135355650,Anatole Inacio,,,ao,ao
+Q135355651,Helga Ramos,,,ao,ao
+Q135355649,Sara Kondaponi,,,ao,ao
+Q135356324,Jeronimo Luis,,,ao,ao
+Q135356322,Keneth Manuel,,,ao,ao
+Q135357669,Angelina Joao,,,ao,ao
+Q135357667,Antonia Ngungui,,,ao,ao
+Q135357678,Andrew Lucas Da Silva Zacarias,,,ao,ao
+Q135357665,Bênçao Vungo,,,ao,ao
+Q135357685,Antonio Nkama Rodrigues,,,ao,ao
+Q135357674,Delvia Valongo,,,ao,ao
+Q135357672,Eduardo Simao,,,ao,ao
+Q135357679,Herve Mutu Bilo,,,ao,ao
+Q135357800,Clesio Castro,,,ao,ao
+Q135357673,Khadijah Tungo,,,ao,ao
+Q135357680,Manuel Fernando Cunha,,,ao,ao
+Q135357681,Marcelo Joao,,,ao,ao
+Q135357668,Paula Gomes,,,ao,ao
+Q135357684,Rai Morais,,,ao,ao
+Q135357666,Veronica Epalanga,,,ao,ao
+Q135357683,Valentina Chinhama,,,ao,ao
+Q135358876,Joshua Pereira Kashila,,,ao,ao
+Q135360383,Dilangue Cruz,,,ao,ao
+Q135360332,Juscelino Ricardo,,,ao,ao
+Q135360382,Mara Antonio,,,ao,ao
+Q135359487,Sadraque Nganga,,,ao,ao
+Q105491350,Salomão José Luheto Xirimbimbi,,,ao,ao
+Q105491349,Saíde Mingas,,,ao,ao
+Q105491351,Venancio de Moura,,,ao,ao
+Q105491353,Victorino Domingos Hossi,,,ao,ao
+Q105532793,Fredy Costa,,,ao,ao
+Q105675505,Salomão Coxi,,,ao,ao
+Q105702356,Exalgina Gambôa,,,ao,ao
+Q105747220,Americo Gonçalves,,,ao,ao
+Q105946336,Lopes Tony do Nascimento Malange,,,ao,ao
+Q106233985,Suzana Sousa,,,ao,ao
+Q106239986,Indira Mateta,,,ao,ao
+Q106261374,Loide Augusto,,,ao,ao
+Q111974724,Florentino Gabriel Sambundo,,,ao,ao
+Q111974726,Francisco Alberto Carlos Mendes,,,ao,ao
+Q111974727,Francisco de Castro Maria,,,ao,ao
+Q111974725,Francisca de Fátima Do Espírito Santo Carvalho,,,ao,ao
+Q111974728,Francisco José Ramos da Cruz,,,ao,ao
+Q111974729,Francisco Magalhães Paiva,,,ao,ao
+Q111974731,Gabinete Local Do Moxico,,,ao,ao
+Q111974732,Garcia Vieira,,,ao,ao
+Q111974733,Gerdina Ulipamue Didalelwa,,,ao,ao
+Q111974734,Graciana Eugénia Manuel Pedro Neves Caetano,,,ao,ao
+Q111974735,Guilhermina Fundanga Manuel Mayer Alkaim,,,ao,ao
+Q111974737,Irene Alexandra da Silva Neto,,,ao,ao
+Q111974738,Joana Meta Fernandes dos Santos,,,ao,ao
+Q1145687,Armando Costa,,,ao,ao
+Q1145590,Angelo Victoriano,,,ao,ao
+Q1200650,Desiderio Costa,,,ao,ao
+Q1227032,Dionisio Hisilenapo,,,ao,ao
+Q1290688,Eduardo Nascimento,,,ao,ao
+Q724232,Rui Marques,,,ao,ao
+Q725439,Mateus Galiano da Costa,,,ao,ao
+Q726582,Mário Hipólito,,,ao,ao
+Q99955340,Capita,,,ao,ao
+Q99050852,Laurinda Hoygaard,,,ao,ao
+Q99196117,Irene Gonçalves,,,ao,ao
+Q99197817,Suzana Mendes,,,ao,ao
+Q99695402,Kalaf Angelo,,,ao,ao
+Q99731796,Aldaír Ferreira,,,ao,ao
+Q99937744,Kevin Bukusu,,,ao,ao
+Q99676748,Conductor,,,ao,ao
+Q98919008,Celson,,,ao,ao
+Q51883316,Amélia Judith Ernesto,,,ao,ao
+Q51883317,Ana Ndala Fernando,,,ao,ao
+Q51883318,Arlete Chimbinda,,,ao,ao
+Q59102995,Jose Antonio Dias,,,ao,ao
+Q59102914,Anibal Lopes Rocha,,,ao,ao
+Q59102933,Álvaro Arnaldo Craveiro,,,ao,ao
+Q59102953,Idalino Manuel Mendes,,,ao,ao
+Q59102975,Isaac Maria dos Anjos,,,ao,ao
+Q59103051,Maria Monteiro Jardim,,,ao,ao
+Q59155786,André Luís Brandão,,,ao,ao
+Q59156960,Augusto da Silva Tomás,,,ao,ao
+Q105491314,Emmanuel Moreira Carneiro,,,ao,ao
+Q105491318,Florencio Gamaleal Gaspar Martins,,,ao,ao
+Q105491319,Francisco Antonio Magalaes Paiva “Nvunda”,,,ao,ao
+Q105491317,Flávio João Fernandes,,,ao,ao
+Q105491322,Isalino Manuel Medes,,,ao,ao
+Q105491321,Isaac Francisco Maria dos Anjos,,,ao,ao
+Q105491330,Jose Carlos Victor de Carvalho,,,ao,ao
+Q105491329,Joaquim Gerreiro Dias,,,ao,ao
+Q105491332,Julio Bessa,,,ao,ao
+Q105491333,Justino José Fernandes,,,ao,ao
+Q105491334,Lazaro Manuel Dias,,,ao,ao
+Q105491335,Manuel Alexandre Eduardo Rodrigues,,,ao,ao
+Q105491339,Mario Alfonso de Almeida,,,ao,ao
+Q105491336,Manuel Diamantino Borges Duque,,,ao,ao
+Q105491342,Martinho Sanches Epalanga,,,ao,ao
+Q105491340,Mario de Alcantara Monteiro,,,ao,ao
+Q105491343,Paulino Pinto Joao,,,ao,ao
+Q105491346,Pedro Sebastião,,,ao,ao
+Q105491344,Paulo Chipilica,,,ao,ao
+Q105491345,Pedro Maria Tonha Pedale,,,ao,ao
+Q105491348,Rafael Caseiro,,,ao,ao
+Q106774438,Aboubakar Gakou,,,ao,ao
+Q106817859,Selton Miguel,,,ao,ao
+Q106830627,Carlos Valdez,,,ao,ao
+Q50928622,Belita Palma,,,ao,ao
+Q51077235,Victória Izata,,,ao,ao
+Q51120233,Amilna Estevão,,,ao,ao
+Q51120777,Pedro Luís da Fonseca,,,ao,ao
+Q51883162,Aldina da Lomba,,,ao,ao
+Q51883207,Adelina Chilica,,,ao,ao
+Q51883033,Isabel Peliganga,,,ao,ao
+Q51883330,Mariana Afonso,,,ao,ao
+Q51883331,Michaela Kopumi,,,ao,ao
+Q51883332,Miraldina Jamba,,,ao,ao
+Q51883334,Odete Domingos dos Santos,,,ao,ao
+Q51883333,Nazaré Mendes,,,ao,ao
+Q51883335,Ruth Adriano Mendes,,,ao,ao
+Q51883339,Suzana Augusto de Melo,,,ao,ao
+Q51883340,Teresa Chipia,,,ao,ao
+Q51883342,Yolanda de Sousa,,,ao,ao
+Q51883329,Maria Correia,,,ao,ao
+Q51883319,Clarice Mukinda,,,ao,ao
+Q51883320,Eduarda Magalhães,,,ao,ao
+Q51883321,Elvira Van-Dúnem,,,ao,ao
+Q51883322,Josefa da Assunção,,,ao,ao
+Q51883324,Júlia Agostinho Celeste,,,ao,ao
+Q51883327,Madalena Hanosike,,,ao,ao
+Q51883325,Luísa Damião,,,ao,ao
+Q51883328,Maria Ornelas,,,ao,ao
+Q60736546,Manuel Gomes,,,ao,ao
+Q60865113,Manuel Domingos Augusto,,,ao,ao
+Q60868951,Maria de Jesus dos Reis Ferreira,,,ao,ao
+Q60918484,Archer Mangueira,,,ao,ao
+Q60983576,Cândido Van-Dúnem,,,ao,ao
+Q61000511,Kanguimbu Ananaz,,,ao,ao
+Q61014621,Henrique Júnior,,,ao,ao
+Q61014623,Joaquim David,,,ao,ao
+Q51883208,Albertina Navemba Ngolo,,,ao,ao
+Q51883210,Cândida Celeste da Silva,,,ao,ao
+Q51883209,Carolina Cristina Elias,,,ao,ao
+Q51883315,Amélia Calumbo Quinta,,,ao,ao
+Q51883212,Helena Bonguela Abel,,,ao,ao
+Q51883214,Josefina Gomes,,,ao,ao
+Q51883215,Luzia Inglês Van-Dúnem,,,ao,ao
+Q56825003,Ana Joaquina dos Santos e Silva,,,ao,ao
+Q56825265,Simão Gonçalves Toko,,,ao,ao
+Q56886154,Manel Kape,,,ao,ao
+Q58009844,Orlando Fortunato de Oliveira,,,ao,ao
+Q58778281,Jone Lopes Pedro,,,ao,ao
+Q58795992,Ricardo De Melo,,,ao,ao
+Q59102882,Pedro Pedalé,,,ao,ao
+Q59102896,Santana André Pitra,,,ao,ao
+Q54824097,Maria Fernandes,,,ao,ao
+Q54824082,Maria Fortes,,,ao,ao
+Q54824083,Odeth Ludovina Baca Joaquim,,,ao,ao
+Q54824084,Rebeca Muaca,,,ao,ao
+Q54824085,Teresa de Jesus Gonçalves,,,ao,ao
+Q54861215,José Ndele,,,ao,ao
+Q54913987,Paula Francisco Coelho,,,ao,ao
+Q55079806,Carmen Van-Dúnem Santos,,,ao,ao
+Q55354131,Belmiro Cuica Chissengueti,,,ao,ao
+Q55356864,Ana Liliana Avião,,,ao,ao
+Q112043541,José Augusto,,,ao,ao
+Q112043528,Eufrazina Teresa da Costa Lopes Gomes Maiato,,,ao,ao
+Q112043530,Felisbina Bento dos Santos,,,ao,ao
+Q112043531,Fernando Jonasse,,,ao,ao
+Q112043529,Feliciano Lizana Ozar,,,ao,ao
+Q112043535,Guilherme Cango,,,ao,ao
+Q112043536,Inês Baca Cassule Camela,,,ao,ao
+Q112043538,Isabel Nlandu Morena,,,ao,ao
+Q112043537,Isabel Helena da Costa Dala,,,ao,ao
+Q112043543,João Manuel Pinto,,,ao,ao
+Q112043540,Joaquim Wanga,,,ao,ao
+Q112043542,José Manuel Chiwale,,,ao,ao
+Q112043545,Júlio Tungo,,,ao,ao
+Q106857263,Jomo Fortunato,,,ao,ao
+Q107109818,Samuel Pungi,,,ao,ao
+Q107315296,Paulina Bazolau da Silva,,,ao,ao
+Q107315534,Stélvia Pascoal,,,ao,ao
+Q107343336,Joaquim do Espírito Santo,,,ao,ao
+Q107357004,Jobel Mokonzi,,,ao,ao
+Q107363789,Anabela Leitão,,,ao,ao
+Q107379026,Aveni Miguel,,,ao,ao
+Q107542361,Dizzy Diddy,,,ao,ao
+Q65133006,Francisco Almeida,,,ao,ao
+Q65029978,Ndulo,,,ao,ao
+Q64853143,Christian Baya,,,ao,ao
+Q65164677,Humberto Machado,,,ao,ao
+Q65718457,Alexia Dizeko,,,ao,ao
+Q66049968,Jo Ann von Haff,,,ao,ao
+Q66050248,Maria João Chipalavela,,,ao,ao
+Q66360839,Adilson Diogo,,,ao,ao
+Q66360840,Dorivaldo Francisco,,,ao,ao
+Q108792191,Manuel Pereira,,,ao,ao
+Q108792193,Candido Monteiro,,,ao,ao
+Q108792192,Daniel Leonardo Zietogo,,,ao,ao
+Q108792189,Pedro Luabo,,,ao,ao
+Q108792248,Marcelino Agostinho,,,ao,ao
+Q108792243,Walter Manuel Osvaldo,,,ao,ao
+Q108792245,Vicente Lello Ngolo,,,ao,ao
+Q55364000,Kaporal,,,ao,ao
+Q55361278,João de Souza,,,ao,ao
+Q55820196,José-Junior Matuwila,,,ao,ao
+Q55872263,Elsa Eduardo,,,ao,ao
+Q55872963,Helena Viegas,,,ao,ao
+Q55873059,Artémis Afonso,,,ao,ao
+Q55873099,Ângelina Golome,,,ao,ao
+Q56072768,Olbis Futo Andrè,,,ao,ao
+Q135351380,Sandra Santos,,,ao,ao
+Q135353693,Luciano Ferreira,,,ao,ao
+Q135247074,Keliano Mewa,,,ao,ao
+Q135248270,Doishy Manuel,,,ao,ao
+Q135248762,Melvyn Da Silva,,,ao,ao
+Q135261522,Blésnya Minher,,,ao,ao
+Q135343302,Joao Prado,,,ao,ao
+Q135343429,Joao Panzo,,,ao,ao
+Q135343581,Cleiton Azevedo,,,ao,ao
+Q135343579,Edson De Sousa Silva,,,ao,ao
+Q135343931,Érica Agostinho da Cunha Daniel,,,ao,ao
+Q135344714,Carlos Alberto Salamanca,,,ao,ao
+Q135344993,Jessica Dinara Sousa Dos Reis E Almeida,,,ao,ao
+Q135344944,Raquel Maria Chevela Jamanca,,,ao,ao
+Q135345378,Bertilde Paula Pinheiro Muxiri,,,ao,ao
+Q135345724,Catalina Giselda Correia Monteiro,,,ao,ao
+Q135345725,Nadia Filipa Gonçalves Palongo,,,ao,ao
+Q135345728,Nádia Rafaela Miranda Tavares,,,ao,ao
+Q135346657,Helder Seabra,,,ao,ao
+Q135347415,Grace Adeyanju,,,ao,ao
+Q135347665,Indira Vilolo Dos Santos,,,ao,ao
+Q135347887,El Nissi Muanangani Soki Mafuta,,,ao,ao
+Q135348332,Christian Tukama,,,ao,ao
+Q135351397,Adilson Muandumba,,,ao,ao
+Q135351377,Daniela Gongo,,,ao,ao
+Q135351387,David Youdela,,,ao,ao
+Q135351384,Elizabete Raúl,,,ao,ao
+Q135351382,Franciany Cavula,,,ao,ao
+Q135351385,Fernando Maquina,,,ao,ao
+Q135351379,Ketcha Nganga,,,ao,ao
+Q135351393,Leandro Sola De Carvalho,,,ao,ao
+Q135351383,Luisa Amaral,,,ao,ao
+Q135351378,Margarida Moniz,,,ao,ao
+Q135351388,Mateus Abraem,,,ao,ao
+Q135352156,Luis Pereira,,,ao,ao
+Q135353013,Isaquiel Paulo Vuaka,,,ao,ao
+Q135352871,William Agostinho Luciano Jose,,,ao,ao
+Q135353180,Manuel Barreto Francisco Camboma,,,ao,ao
+Q135353188,Sansao Afonso Januario Wika,,,ao,ao
+Q135353697,Cidalia José,,,ao,ao
+Q135353695,Dicla Alberto,,,ao,ao
+Q135353692,Gerao Liberdage,,,ao,ao
+Q135353694,Joana Jeronimo,,,ao,ao
+Q135353696,Margarida Solunga,,,ao,ao
+Q135354193,Braz Macachi,,,ao,ao
+Q135354191,Walter Luzolo,,,ao,ao
+Q135354198,Wilson Cassav,,,ao,ao
+Q135354880,Keven Albino,,,ao,ao
+Q135348030,Germán Kasanzi,,,ao,ao
+Q135347557,Yverline Da Silva,,,ao,ao
+Q59283394,Alberto Paulino,,,ao,ao
+Q59209555,Alcides Sakala Simões,,,ao,ao
+Q59209560,Alexandre Sebastião André,,,ao,ao
+Q59209566,Alfredo Junqueira Dala,,,ao,ao
+Q59283395,Alicerces Paulo Bartolomeu,,,ao,ao
+Q59283398,Amilcar Campos Colela,,,ao,ao
+Q59285907,Mestre Kapela,,,ao,ao
+Q59572131,Victor Hugo Mendes,,,ao,ao
+Q59655910,Tony Cabaça,,,ao,ao
+Q59660256,Américo António Cuononoca,,,ao,ao
+Q100199907,Raúl Correia Mendes,,,ao,ao
+Q100268168,Teodolinda Rosa Rodrigues Coelho,,,ao,ao
+Q100454932,Edeltrudes Costa,,,ao,ao
+Q100575931,Tete António,,,ao,ao
+Q100925714,Carlos Paulo,,,ao,ao
+Q100936941,Orlando Sérgio,,,ao,ao
+Q101241922,Francisco Maiato Pedro Gonçalves,,,ao,ao
+Q51883409,Maria Valente,,,ao,ao
+Q52005253,Silvio De Sousa,,,ao,ao
+Q52086607,Acácio Quifucussa,,,ao,ao
+Q52183073,Ewa Bankowska,,,ao,ao
+Q52224001,Cesinanda Narciso,,,ao,ao
+Q52224023,Eulália Silva,,,ao,ao
+Q52224006,Maria Vitória Chivukuvuku,,,ao,ao
+Q52224014,Regina Eduardo Txipoia,,,ao,ao
+Q112042375,Alcino dos Prazeres Izata Francisco da Conceição,,,ao,ao
+Q112042401,Augusto da Silva Cunha,,,ao,ao
+Q112042437,Carlos Alberto Saraiva de Carvalho Fonseca,,,ao,ao
+Q112042396,Eduardo Octávio,,,ao,ao
+Q112042535,Baltazar Diogo Cristóvão,,,ao,ao
+Q112042382,Frederico Manuel dos Santos e Silva Cardoso,,,ao,ao
+Q112042348,Maria Cuandina Tchipepa de Carvalho,,,ao,ao
+Q112042391,Joaquim Duarte Pombo,,,ao,ao
+Q112042410,Manuel Eduardo dos Santos e Silva Bravo,,,ao,ao
+Q112042509,Eustáquio Januário Quibato,,,ao,ao
+Q112042545,Edgar Gaspar Martins,,,ao,ao
+Q112042591,Eduardo Ruas de Jesus Manuel,,,ao,ao
+Q112042526,Jovelina A.A. Imperial e Costa,,,ao,ao
+Q112042515,Maria Isabel Gomes Godinho de Resende Encoge,,,ao,ao
+Q112042597,Hermínio Joaquim Escórcio,,,ao,ao
+Q112042585,João Baptista Domingos Quiosa,,,ao,ao
+Q112042568,Rui Orlando Xavier,,,ao,ao
+Q112042634,Vicente Muanda,,,ao,ao
+Q101413939,Jorge Cohen,,,ao,ao
+Q103734582,Maria de Jesus Pereira Issungo,,,ao,ao
+Q104783342,Luísa Rogério,,,ao,ao
+Q104783602,Christian Yulu,,,ao,ao
+Q104791713,Amândio Luís Gomes,,,ao,ao
+Q105072183,Paula Simons,,,ao,ao
+Q105077085,Nary,,,ao,ao
+Q105077044,Vado Kitenga,,,ao,ao
+Q105394551,Maria do Carmo Medina,,,ao,ao
+Q93920282,Maria Elizabeth Simbrão de Carvalho,,,ao,ao
+Q94501923,Adolfo Maria,,,ao,ao
+Q94970990,Alberto Correia Neto,,,ao,ao
+Q95448598,Mário Augusto Caetano João,,,ao,ao
+Q95682685,Pedro Hossi,,,ao,ao
+Q96002051,João Bachi,,,ao,ao
+Q96150795,Maria Luísa Fançony,,,ao,ao
+Q96181234,Josefa Sacko,,,ao,ao
+Q96195107,Hildegarda Oliveira,,,ao,ao
+Q135376960,Agostinho Marques Coelho,,,ao,ao
+Q135377123,André Temo João,,,ao,ao
+Q135377128,Analzira de Fatima Augusto Americo,,,ao,ao
+Q135377124,Arsénio Zola,,,ao,ao
+Q135377126,Benvido Adolfo Quimbamba,,,ao,ao
+Q135377019,Erickson Silva,,,ao,ao
+Q135377118,Claudia Alexandra Fornutato Manuel,,,ao,ao
+Q135377122,Delvio João Lima,,,ao,ao
+Q135377120,Edivaldo Feliciano José,,,ao,ao
+Q135377133,Esmeraldina Ventura Pedro,,,ao,ao
+Q135377125,Joaquim Baptista Xaussuale,,,ao,ao
+Q135377132,Lizeth Lutonadia N'Dombele,,,ao,ao
+Q135377127,Luyana Patricia Touré Filipe,,,ao,ao
+Q135377131,Madalena Saka Nsumbo,,,ao,ao
+Q135377119,Miguel Mbala André Maconda,,,ao,ao
+Q135377130,Rosa Helina Sebastião Bouandzi,,,ao,ao
+Q135377121,Tomy Mapangula Castelo,,,ao,ao
+Q135377655,Edivaldo Nelson Cacumba Cardoso,,,ao,ao
+Q135377658,Emmanuel Pedro Antonio,,,ao,ao
+Q135377626,João Elisa Simba Filho,,,ao,ao
+Q135377656,Josemar Jorge M. de Carvalho,,,ao,ao
+Q135377675,Rosaria Fernando Queta,,,ao,ao
+Q135377657,Yury A. de Brito Demba,,,ao,ao
+Q135378854,Elisabete Margareth Sebastião Pascoal,,,ao,ao
+Q135378861,Elsa Bando Manuel,,,ao,ao
+Q135378860,Flora Muzangueno Peso Bernardo,,,ao,ao
+Q135378858,Javete Pedro Lusilanovo,,,ao,ao
+Q135378862,Kiaku Adriana Dongala,,,ao,ao
+Q135378855,Marilia Bernise Sebastião Pascoal,,,ao,ao
+Q135378859,Merciana Fernandes,,,ao,ao
+Q135378852,Mireille Mavula Matondo,,,ao,ao
+Q135378856,Suridia Constância Francisco Mateus,,,ao,ao
+Q135378857,Tatiana Francesca Cristina Marques,,,ao,ao
+Q135380566,Alfredo Jesus Kangel Simões,,,ao,ao
+Q135380517,Claudia Elisa João Dundão,,,ao,ao
+Q135380529,Conceiçao Antonio Estevao,,,ao,ao
+Q135380518,Eugenia Patricia Antonio Bento,,,ao,ao
+Q135380523,Esperança Miguel Antonio,,,ao,ao
+Q135380520,Felicia Francisco da Silva,,,ao,ao
+Q135380530,Joana Sofia B. Baptista,,,ao,ao
+Q135380564,Izequiel Iniacio João da Silva,,,ao,ao
+Q135380456,Rosada Diakanomua Ilda,,,ao,ao
+Q135380519,Quilosa Carvalho,,,ao,ao
+Q135377129,Helena Francisco,,,ao,ao
+Q63303634,Chico,,,ao,ao
+Q63398562,Zito Luvumbo,,,ao,ao
+Q60736209,Alberto Coelho,,,ao,ao
+Q59660258,Anastácio Artur Ruben Sicato,,,ao,ao
+Q59660259,André Gaspar Mendes de Carvalho,,,ao,ao
+Q59660331,Antónino Filipe Tchiyulo Jeremias,,,ao,ao
+Q59738810,Maria Teresa Cárcomo Lobo,,,ao,ao
+Q60194858,Abílio Cabral,,,ao,ao
+Q60440504,Raúl Danda,,,ao,ao
+Q60676056,Apolinário de Silveira,,,ao,ao
+Q60676083,Adão N'Zuzi,,,ao,ao
+Q60693820,Salomão Manuel Troco,,,ao,ao
+Q60734133,Lulas,,,ao,ao
+Q106451292,Paulo Domingos Manquele,,,ao,ao
+Q106461601,Ricardo Nkosi,,,ao,ao
+Q106543154,Cef Tanzy,,,ao,ao
+Q106543157,Engrácia Cabenha,,,ao,ao
+Q106543893,Eddy Tussa,,,ao,ao
+Q106547938,Sílvio Nascimento,,,ao,ao
+Q106615088,Augusto Makuta Nkondo,,,ao,ao
+Q106647204,António Segunda Amões,,,ao,ao
+Q106729769,Henrique Lopes Guerra,,,ao,ao
+Q106773424,Aristóteles Kandimba,,,ao,ao
+Q14329497,Yanick Moreira,,,ao,ao
+Q54612739,José Maria de Jesús,,,ao,ao
+Q54805444,Elyzeu Sawandi Etapalalo,,,ao,ao
+Q54805471,Dinalolo da Conceição,,,ao,ao
+Q54805454,Valentin Belchior,,,ao,ao
+Q54824055,Amália Maria Alexandre,,,ao,ao
+Q54824056,Anabela Caiovo Gunga,,,ao,ao
+Q54824057,Angélica Nené Curita,,,ao,ao
+Q54824060,Ansia Camuanga Correia,,,ao,ao
+Q54824061,Bibiana Nandombua,,,ao,ao
+Q47407652,Pedro Vaz Pinto,,,ao,ao
+Q44462876,Marta Alberto,,,ao,ao
+Q44462882,Ríssia Oliveira,,,ao,ao
+Q44812203,Maria Filomena de Fátima Lobão Telo Delgado,,,ao,ao
+Q45192087,Amaral Aleixo,,,ao,ao
+Q45762729,Acilene Sebastiao,,,ao,ao
+Q45826783,Maria Raimundo,,,ao,ao
+Q47006274,Bruno Fernando,,,ao,ao
+Q108792249,Manuel Betilson,,,ao,ao
+Q108799960,Fineza Teta,,,ao,ao
+Q108861676,Zeferina Elsa Caupe,,,ao,ao
+Q108876885,Lia Ana Lima,,,ao,ao
+Q108876879,Maria Lopes de Freitas,,,ao,ao
+Q108877022,Rafaela Santo,,,ao,ao
+Q108922790,Henrique Mascarenhas,,,ao,ao
+Q108922764,N'Hara Fernandes,,,ao,ao
+Q108939071,Augusto Carneiro,,,ao,ao
+Q109037545,José-Antonio Alvez,,,ao,ao
+Q54310826,Helder de Carvalho,,,ao,ao
+Q54165714,Luis Fortunato,,,ao,ao
+Q54098013,Abbão Bartolomeu,,,ao,ao
+Q54203019,Lotuala N'Dombassy,,,ao,ao
+Q54221656,Ricardo José Boy,,,ao,ao
+Q54232966,José António Inácio,,,ao,ao
+Q54291048,Moisés Torres,,,ao,ao
+Q54318149,Francisco de Souza,,,ao,ao
+Q54824062,Dulce Ginga,,,ao,ao
+Q54824063,Emília Dias,,,ao,ao
+Q54824064,Ermelinda Máquina,,,ao,ao
+Q54824065,Evelize Fresta,,,ao,ao
+Q54824066,Joana Conceição,,,ao,ao
+Q54824078,Maria Taveya,,,ao,ao
+Q54824077,Luciana Rafael,,,ao,ao
+Q54824081,Maria Escovalo,,,ao,ao
+Q110852775,Jesus,,,ao,ao
+Q109984875,Ana Paula Sacramento Neto,,,ao,ao
+Q109984874,António Francisco de Assis,,,ao,ao
+Q109984935,António Egídio de Sousa Santos,,,ao,ao
+Q109984873,Eugênio César Laborinho,,,ao,ao
+Q110051105,Nélson Almeida,,,ao,ao
+Q110236348,Depú,,,ao,ao
+Q110255077,Carlos Mann,,,ao,ao
+Q110292355,João Francisco Mendonça Júnior,,,ao,ao
+Q110682514,Camilo Rodrigues,,,ao,ao
+Q110682555,Camilo José Rodrigues,,,ao,ao
+Q110682559,Jorge Rodrigues,,,ao,ao
+Q110838671,Zia Soares,,,ao,ao
+Q135374245,Carlos Cabral,,,ao,ao
+Q135371730,Alexandre Jungo,,,ao,ao
+Q135371982,Aires Braulio Quissanga Goubel,,,ao,ao
+Q135371989,Avelino Izebelmo Pires Do,,,ao,ao
+Q135371633,Neuma Vunge Ambriz Avelino,,,ao,ao
+Q135371988,Bruno Lucelio Sebastiao Dos Santos,,,ao,ao
+Q135371978,Cley Wagner Ramiro Cabanga,,,ao,ao
+Q135371979,Cristiano Cabral Xavier,,,ao,ao
+Q135371980,Daniel Amilton Francisco Manuel,,,ao,ao
+Q135371983,Edmilson Daniel Antonio Seueira Miranda,,,ao,ao
+Q135371985,Eric Amandio,,,ao,ao
+Q135371632,Teresa Ngueve Sacato,,,ao,ao
+Q135372294,Antonia Cruz,,,ao,ao
+Q135371987,Teodoro Manuel Bento Hilario,,,ao,ao
+Q135373400,Dalsan Hulia José Kuto,,,ao,ao
+Q135373437,Duneth Elsa da Silva,,,ao,ao
+Q135373504,Cecilia Adao Vilolo Andre,,,ao,ao
+Q135373436,Feliciana Elsa Massaqui Zuluca,,,ao,ao
+Q135373426,Joaquim Patricio Menezes Pedro,,,ao,ao
+Q135373428,Joel Vladimir Francisco,,,ao,ao
+Q135373438,Mycollette Mokeina Sangueve Ndozuawu,,,ao,ao
+Q135373896,Benia Conceiçao Sebastiao Casua,,,ao,ao
+Q135373550,Mutau Fonseca,,,ao,ao
+Q135373427,Valter de Oliveira Malheiro dos Sanos,,,ao,ao
+Q135373429,Yanick Madoda Mateus Quimuanga,,,ao,ao
+Q135373891,Emilia Mulei Mucuta,,,ao,ao
+Q135373897,Elsa Tatiana Alberto,,,ao,ao
+Q135373893,Erica Agostinho Guilherme,,,ao,ao
+Q135373898,Francisca Valeria Neto Mateus,,,ao,ao
+Q135373895,Helena Matuca Txahua Malange,,,ao,ao
+Q135373892,Joana Balanga Bendi,,,ao,ao
+Q135373683,Reginaldo Manguani Kanza,,,ao,ao
+Q135373894,Madalena Joao da Silva,,,ao,ao
+Q135373902,Luisa Adamar da Silva Domingos,,,ao,ao
+Q135374244,Fernando Aleino Tamussamba Kambuandi,,,ao,ao
+Q135373900,Vania José Vicente,,,ao,ao
+Q135374454,José Leonardo Tumba Kipanda,,,ao,ao
+Q135374781,Aldair Josemar Cafumo Carlos,,,ao,ao
+Q135374782,Antonio Paulo Congo,,,ao,ao
+Q135374453,Moises Gabriel Satewa César,,,ao,ao
+Q135374455,Ngombo Rogerio,,,ao,ao
+Q135375776,Eliandro Inacio,,,ao,ao
+Q135376055,Faustino Chalomba Victor Dos Santos,,,ao,ao
+Q135376186,Celestino Malcolm Bastos Neto,,,ao,ao
+Q135376185,Godalfim Gomes Carlos Freitas,,,ao,ao
+Q135376187,Joel José Domingos,,,ao,ao
+Q135376228,Madalena Munquendenque Valentim,,,ao,ao
+Q135376184,Miezi José Francisco,,,ao,ao
+Q135376229,Victoria Antonio da Cruz,,,ao,ao
+Q135376785,Ivanàdio de Jesus Soares Menezes,,,ao,ao
+Q135376786,Pedro Manbuini Kavungo,,,ao,ao
+Q135371984,Milton Valente,,,ao,ao
+Q111974742,José Diogo Ventura,,,ao,ao
+Q111974746,João Muatonguela,,,ao,ao
+Q111974743,José Mangovo Tomé,,,ao,ao
+Q111974739,Josefa José,,,ao,ao
+Q111974741,José da Costa Uamuhana,,,ao,ao
+Q111974745,João Marques Ntiama,,,ao,ao
+Q111974744,José Mário Katiti,,,ao,ao
+Q111974740,Josefina Pandeinge Haleinge,,,ao,ao
+Q111974747,Julião Francisco Teixeira,,,ao,ao
+Q111974748,Larissa Chiola Rosa José,,,ao,ao
+Q111974750,Leonor Esperança Gaspar,,,ao,ao
+Q111974751,Leonora Mbimbi de Morais,,,ao,ao
+Q111974752,Lourenço Diogo Contreiras Neto,,,ao,ao
+Q135388906,Rui Paulo,,,ao,ao
+Q135758220,Oliver Manuel,,,ao,ao
+Q135388908,Carlos Martins,,,ao,ao
+Q135387966,Sardinha Caetano,,,ao,ao
+Q135388536,Francisco Marcolino Fernandes,,,ao,ao
+Q135388530,Urbino Fonseca,,,ao,ao
+Q135388902,Carlos Antonio,,,ao,ao
+Q135389014,Admar da Silva Sousa Barros,,,ao,ao
+Q135388907,Ernesto Tchiengo,,,ao,ao
+Q135388905,Gaspar Neto,,,ao,ao
+Q135388903,Sergio Morais,,,ao,ao
+Q135388904,Silvio Ferreira,,,ao,ao
+Q135389280,Elisa Francisco,,,ao,ao
+Q135389279,Etelvina Santana,,,ao,ao
+Q135389272,Georgina Abrao,,,ao,ao
+Q135389271,Leonor Costa,,,ao,ao
+Q135389278,Licinia Velho,,,ao,ao
+Q135389274,Ludovina Ténis,,,ao,ao
+Q135389275,Maria Judite Barbosa Afonso,,,ao,ao
+Q135389270,Telma Gourgel,,,ao,ao
+Q135389276,Tumba Mayassi,,,ao,ao
+Q135389273,Vanda Fernandes,,,ao,ao
+Q135880943,Alex Sola,,,ao,ao
+Q135676910,José Belo Chipenda,,,ao,ao
+Q135826776,Mestre Espinho Remoso,,,ao,ao
+Q135880952,João Gastão,,,ao,ao
+Q136192574,Núria Lemos,,,ao,ao
+Q136276564,Sandra Batalha,,,ao,ao
+Q136276878,Natacha Massano,,,ao,ao
+Q136380074,Benilde Cauco,,,ao,ao
+Q136380075,Alegria Yana Malala Tayeye,,,ao,ao
+Q136380078,Cristina Mayingi,,,ao,ao
+Q136380076,Evalina Fernando,,,ao,ao
+Q136380079,Belviana Ndombasi,,,ao,ao
+Q136380077,Sara Mavungo,,,ao,ao
+Q136380083,Gervasio Dias,,,ao,ao
+Q136380080,Siro Carvalho,,,ao,ao
+Q136380081,Domingos Chaves,,,ao,ao
+Q107643060,Egas Cacintura,,,ao,ao
+Q77450418,Helena Sousa,,,ao,ao
+Q81940226,João Fernandes,,,ao,ao
+Q71313492,Sergio Miguel,,,ao,ao
+Q72219310,Elliot Simões,,,ao,ao
+Q72932356,Maria da Piedade de Jesus,,,ao,ao
+Q73634243,Julio de Assis,,,ao,ao
+Q75017006,Carlos Calado,,,ao,ao
+Q75837385,Diamantino Pedro Azevedo,,,ao,ao
+Q77229785,Alda Manuel,,,ao,ao
+Q77452992,Óscar Jaime António,,,ao,ao
+Q79787172,Marília Quizelete,,,ao,ao
+Q83750011,Mário Bastos,,,ao,ao
+Q122451827,Andreza Antonio,,,ao,ao
+Q122491596,Manuel Keliano,,,ao,ao
+Q111994437,José Martins,,,ao,ao
+Q111994450,Adriano Mendes de Carvalho,,,ao,ao
+Q111994504,Albino Malungo,,,ao,ao
+Q111994493,António Didalelwa,,,ao,ao
+Q111994389,José Amaro Tati,,,ao,ao
+Q111994387,Luís Paulino dos Santos,,,ao,ao
+Q111994425,Jorge Fernando Biwango,,,ao,ao
+Q111994428,João Baptista Chindandi,,,ao,ao
+Q111994516,Luís da Fonseca Nunes,,,ao,ao
+Q120267248,Eddie Cardoso,,,ao,ao
+Q121689194,Daniel Paiva,,,ao,ao
+Q121833319,Eduardo Francisco,,,ao,ao
+Q121850250,Baptista Miranda,,,ao,ao
+Q69760384,Salvador Gordo,,,ao,ao
+Q66360842,Argentino Agostinho,,,ao,ao
+Q66360841,Josemar Tavares,,,ao,ao
+Q66495706,Rosemira Daniel,,,ao,ao
+Q67365647,Margarida Rosa da Silva Izata,,,ao,ao
+Q69503434,Neide Dias,,,ao,ao
+Q70564974,Manuel José Miego António,,,ao,ao
+Q70567241,Aldair Domingos Paulo Neto,,,ao,ao
+Q70644858,Benilson Sanda,,,ao,ao
+Q114373293,Maya,,,ao,ao
+Q114182998,Euclides Chingui,,,ao,ao
+Q114182999,Hélvio Lemos,,,ao,ao
+Q114332154,Dalva Ringote,,,ao,ao
+Q114342772,Pascoal Luvualo,,,ao,ao
+Q114842149,Skelly Alvero,,,ao,ao
+Q114854421,Nuno Reis,,,ao,ao
+Q114941189,Keyezua,,,ao,ao
+Q115683136,Dia Kassembe,,,ao,ao
+Q115857630,Edmilson Pedro,,,ao,ao
+Q115973475,Príncipe Ouro Negro,,,ao,ao
+Q111954416,Paulino Domingos Baptista,,,ao,ao
+Q111954417,Pedro Jose van Dunem,,,ao,ao
+Q111954423,Rosa Pedro Pacavira de Matos,,,ao,ao
+Q111954420,Rosa Luís de Sousa Micolo,,,ao,ao
+Q111954421,Rosa Maria Martins da Cruz e Silva,,,ao,ao
+Q111954424,Salviano de Jesus Sequeira,,,ao,ao
+Q111954425,Sebastião Antonio Martins,,,ao,ao
+Q111954426,Victoria Francisco Lopes de Barros Neto,,,ao,ao
+Q111969523,Glofate Buiamba,,,ao,ao
+Q111974236,Agostinho Ndjaka,,,ao,ao
+Q111974238,António Evaristo,,,ao,ao
+Q111974239,António Feliciano Ferreira Júnior,,,ao,ao
+Q111974237,António dos Santos Filipe,,,ao,ao
+Q111974240,Araújo Macyke Pena,,,ao,ao
+Q84498959,Matungu Ma Ntomi,,,ao,ao
+Q85854537,Sinclética Torres,,,ao,ao
+Q85861055,Francisco Ngonda,,,ao,ao
+Q85877053,Rose Palhares,,,ao,ao
+Q85927418,José Dimitri Maconda,,,ao,ao
+Q85970605,Amália Pinto,,,ao,ao
+Q85970654,Ruth João,,,ao,ao
+Q86348431,Matamba Joaquim,,,ao,ao
+Q85713481,Hélder Silva,,,ao,ao
+Q87350226,Raquel Lima,,,ao,ao
+Q109849168,Lépua,,,ao,ao
+Q109984643,Luísa Maria Alves Grilo,,,ao,ao
+Q109984622,Teresa Rodrigues Dias,,,ao,ao
+Q109984862,Francisco Manuel Monteiro de Queiroz,,,ao,ao
+Q109984872,Faustina Fernandes Inglês de Almeida Alves,,,ao,ao
+Q109984869,João Ernesto dos Santos,,,ao,ao
+Q109984867,Marcy Cláudio Lopes,,,ao,ao
+Q109984868,Manuel Tavares de Almeida,,,ao,ao
+Q109984865,Maria do Rosário Teixeira de Alva Sequeira Bragança Sambo,,,ao,ao
+Q109984863,Ricardo Daniel Sandão Queirós Viegas de Abreu,,,ao,ao
+Q109984861,Victor Francisco dos Santos Fernandes,,,ao,ao
+Q56248756,Mona,,,ao,ao
+Q56779507,Carlinhos,,,ao,ao
+Q56823475,Kiluanje Liberdade,,,ao,ao
+Q56240995,José Panzo,,,ao,ao
+Q56308440,Emmanuel Nzita,,,ao,ao
+Q56347304,Pedro Agostinho de Neri,,,ao,ao
+Q56348654,Mário António Fernandes de Oliveira,,,ao,ao
+Q56349378,Aires Walter Francisco,,,ao,ao
+Q56433763,Kuagica David,,,ao,ao
+Q56804654,Carolina Gasparinho,,,ao,ao
+Q56822733,Henda Ducados,,,ao,ao
+Q111974770,Mário António Quexigina Luandanda,,,ao,ao
+Q111974771,Mártires Correia Victor,,,ao,ao
+Q111974772,Nicolau Sapalo,,,ao,ao
+Q111974774,Panzo Joaquim,,,ao,ao
+Q111974773,Palmira Domingos Pascoal Bernardo,,,ao,ao
+Q111974775,Piedoso Chipindo Bonga,,,ao,ao
+Q111974776,Rodolfo da Ressurreição Bernardo,,,ao,ao
+Q111974777,Rosária Ernesto da Silva,,,ao,ao
+Q111974778,Sabina Napolo,,,ao,ao
+Q111974779,Serafina Miguel Emilia Pinto,,,ao,ao
+Q111974782,Simão Geremias Boa Carroba,,,ao,ao
+Q111974781,Silvestre Gabriel Samy,,,ao,ao
+Q111974783,Sofia Profírio Kassungo Mussonguela,,,ao,ao
+Q111975113,Álvaro Manuel de Boavida Neto,,,ao,ao
+Q111975104,João Marcelino Tyipinge,,,ao,ao
+Q111975106,Manuel Muteba Muxito,,,ao,ao
+Q111975107,Manuel Teodoro de Jesus Quarta,,,ao,ao
+Q111975105,Manuel Domingos Taby,,,ao,ao
+Q111975108,Maria Augusta Leonel Correia,,,ao,ao
+Q111975109,Maria de Lourdes Roque Caposso Fernandes,,,ao,ao
+Q111975110,Paulo Horácio de Sequeira E Carvalho,,,ao,ao
+Q111975111,Rui Luís Falcão Pinto de Andrade,,,ao,ao
+Q111993703,Armando Mateus Cadete,,,ao,ao
+Q111993636,Emilio Jose de Carvalho Guerra,,,ao,ao
+Q111993752,António Luvualu de Carvalho,,,ao,ao
+Q111993630,Josefina Perpetua Pitra Diakidi,,,ao,ao
+Q111993666,Leovigildo Da Costa Silva,,,ao,ao
+Q111993727,Miguel da Costa,,,ao,ao
+Q111993766,Rui Jorge C. Mangueira,,,ao,ao
+Q111994368,Dumilde das Chagas Rangel,,,ao,ao
+Q111974790,Ágata Maria Florinda Mbaka Raimundo,,,ao,ao
+Q111975093,Agostinho de Carvalho dos Santos Van-Dúnem,,,ao,ao
+Q111975094,Amadeu Timóteo Malheiros de Amorim,,,ao,ao
+Q111975096,António Rodrigues Afonso Paulo,,,ao,ao
+Q111974785,Sónia Moisés Nele,,,ao,ao
+Q111974784,Suzana Pereira Bravo,,,ao,ao
+Q111974786,Valeriano Chimo Cassuaué,,,ao,ao
+Q111974787,Yaba Pedro Alberto,,,ao,ao
+Q111975097,Deolinda Tchocondoca Valiangula,,,ao,ao
+Q111975098,Djamila Huguette da Silva de Almeida,,,ao,ao
+Q111975099,Eduardo Songuile Endome Faustino,,,ao,ao
+Q111975100,Eusébio de Brito Teixeira,,,ao,ao
+Q111975101,Ginga Afonso Miguel dos Santos,,,ao,ao
+Q111975103,José Maria Ferraz dos Santos,,,ao,ao
+Q112043627,Tito Chimona,,,ao,ao
+Q112043663,Víctor Pedro,,,ao,ao
+Q112164399,Pedro Lubamba,,,ao,ao
+Q112167235,Maria Niangi,,,ao,ao
+Q112195055,Elber Binha,,,ao,ao
+Q112252126,Artur Nunes,,,ao,ao
+Q112253997,Carlos Lamartine,,,ao,ao
+Q112255955,Maya Cool,,,ao,ao
+Q112256282,Heavy C,,,ao,ao
+Q112256110,Puto Prata,,,ao,ao
+Q112256494,Cabo Snoop,,,ao,ao
+Q112256587,Avozinho,,,ao,ao
+Q112258586,Lilly Tchiumba,,,ao,ao
+Q112259734,Paulino Pinheiro,,,ao,ao
+Q112269577,Qim Dos Santos,,,ao,ao
+Q111974254,Eduardo Dumbo Delfino,,,ao,ao
+Q111974255,Eduardo Gomes Nelumba,,,ao,ao
+Q111974256,Elias Piedoso Chimuco,,,ao,ao
+Q111974261,Estevão José Pedro Kachiungo,,,ao,ao
+Q111974266,Felino Job,,,ao,ao
+Q111974267,Fernando Bartolomeu Cativa,,,ao,ao
+Q111974265,Fele António,,,ao,ao
+Q111974271,Félix Simão Lucas,,,ao,ao
+Q111974270,Franco Meneses Marcolino Nhani,,,ao,ao
+Q111974268,Francisco Boaventura Canjongo Chitapa,,,ao,ao
+Q111974269,Francisco Gaio Kakoma António,,,ao,ao
+Q111974272,Gabriel Hilifavali,,,ao,ao
+Q111974273,Gilberto Manuel Pereira,,,ao,ao
+Q87618788,Ndola Prata,,,ao,ao
+Q87723106,Gerson Domingos,,,ao,ao
+Q87777627,Gerson Gonçalves,,,ao,ao
+Q87920161,Jacques Conceição,,,ao,ao
+Q88650966,Sílvia Lutucuta,,,ao,ao
+Q90910362,Carlos Garrocho,,,ao,ao
+Q93250283,Germano Penemote,,,ao,ao
+Q93877345,Diepretty Mercédes,,,ao,ao
+Q87781571,Jose Antonio,,,ao,ao
+Q93658952,Rui Andrade,,,ao,ao
+Q90567380,Carla Prata,,,ao,ao
+Q112583327,Ana Silva,,,ao,ao
+Q112269673,Elias Dia Kimuezo,,,ao,ao
+Q112274005,Antonio Paulino,,,ao,ao
+Q112274059,Minguito,,,ao,ao
+Q112274206,Gutty Duarte,,,ao,ao
+Q112290727,Vum Vum,,,ao,ao
+Q112299185,Bruno M,,,ao,ao
+Q112299308,Dede Veza,,,ao,ao
+Q112299393,Kid Sebastião Manuel,,,ao,ao
+Q112391671,Maria Eugénia Neto,,,ao,ao
+Q112534268,Custòdia Chineva,,,ao,ao
+Q112535074,Cinosanda Sandele,,,ao,ao
+Q112535834,Jocelyne Nkiambi,,,ao,ao
+Q112536656,Soraya Da Piedade,,,ao,ao
+Q112571484,N’Dilo Mutima,,,ao,ao
+Q112571571,Paulo Kussy,,,ao,ao
+Q112625465,Paulino Baptista,,,ao,ao
+Q124435182,Arminda Paulina Lopes,,,ao,ao
+Q124435115,Laurinda Verónica Quinguengo Maonte,,,ao,ao
+Q124435273,Teresa João Evaristo,,,ao,ao
+Q124435418,Jacinta Danilo António,,,ao,ao
+Q124435384,Rita Gabriela Luís José,,,ao,ao
+Q124448438,Helena Ngueve Nachiuíssa Sassoma,,,ao,ao
+Q124448488,Ilda Luzia Da Costa Pedro,,,ao,ao
+Q124589051,Luz Feliz,,,ao,ao
+Q124604950,Ariel Silva,,,ao,ao
+Q124604896,Jaroslav Aguiar,,,ao,ao
+Q124604924,Feliciano Couveiro,,,ao,ao
+Q124604982,Mário Tati,,,ao,ao
+Q124605084,Edgar Abreu,,,ao,ao
+Q124605062,Mayomona Panzo,,,ao,ao
+Q124605094,Ruben José,,,ao,ao
+Q124629046,Maria Cândida Pereira Teixeira,,,ao,ao
+Q124629042,Paula Cristina Francisco Coelho,,,ao,ao
+Q124631938,Bernarda Gonçalves Martins,,,ao,ao
+Q124632009,Ricardo Viegas D'Abreu,,,ao,ao
+Q111974292,José Eduardo,,,ao,ao
+Q111974276,Jesuíno Manuel da Silva,,,ao,ao
+Q111974279,Joaquim António Carlos Reis Júnior,,,ao,ao
+Q111974282,Joaquim Nafoia,,,ao,ao
+Q111974283,Job Pedro Castelo Capapinha,,,ao,ao
+Q111974280,Joaquim Frederico D'almeida,,,ao,ao
+Q111974281,Joaquim José Migueis,,,ao,ao
+Q111974286,Jorge Vitorino,,,ao,ao
+Q111974284,Jorge Miguêns Augusto,,,ao,ao
+Q111974285,Jorge Ribeiro Uefu,,,ao,ao
+Q111974290,José Artur Carmo Manuel,,,ao,ao
+Q111974291,José Carlos Ilenga,,,ao,ao
+Q111974288,José Alberto Quipungo,,,ao,ao
+Q111974289,José António Lopes Semedo,,,ao,ao
+Q122763740,Elizabeth Ceita Vera Cruz,,,ao,ao
+Q123096611,Luis Veríssimo,,,ao,ao
+Q123115952,Anastácia Carvalho,,,ao,ao
+Q123116084,Fernanda Renée Samuel,,,ao,ao
+Q123143794,Ana Coimbra,,,ao,ao
+Q123246834,Renata Torres,,,ao,ao
+Q123280660,Zeferino Epalanga,,,ao,ao
+Q123326776,José Bunga Marcos,,,ao,ao
+Q123348525,Oksanna Dias,,,ao,ao
+Q123702943,Chelcia Gabriel,,,ao,ao
+Q123778297,Cacia Antonio,,,ao,ao
+Q124000100,Nádia Yracema,,,ao,ao
+Q124021417,Zolana Joao,,,ao,ao
+Q124082000,Pedro Banga,,,ao,ao
+Q111954395,José Luís de Matos,,,ao,ao
+Q111954399,José dos Santos da Silva Ferreira,,,ao,ao
+Q111954396,José Vieira Dias Van-Duném,,,ao,ao
+Q111954400,Licinio Tavares Ribeiro,,,ao,ao
+Q111954402,Mankenda Ambroise,,,ao,ao
+Q111954401,Luis Filipe da Silva,,,ao,ao
+Q111954407,Manuel Bunjo,,,ao,ao
+Q111954404,Manuel António Africano,,,ao,ao
+Q111954410,Manuel da Costa Aragão,,,ao,ao
+Q111954411,Marcos Alexandre Nhunga,,,ao,ao
+Q111954408,Manuel Francisco Queirós,,,ao,ao
+Q111954409,Manuel Nunes Junior,,,ao,ao
+Q111954414,Maria Ângela Teixeira Bragança,,,ao,ao
+Q111954412,Maria de Cândida Pereira Teixeira,,,ao,ao
+Q111974326,Manuel Fernandes,,,ao,ao
+Q111974327,Manuel Lopes Moniz Dembo,,,ao,ao
+Q111974328,Manuel Sampaio Mucanda,,,ao,ao
+Q111974331,Maria Do Carmo Assis Do Nascimento,,,ao,ao
+Q111974329,Manuel Savihemba,,,ao,ao
+Q111974339,Maria Teresa da Felicidade Cardoso,,,ao,ao
+Q111974336,Maria Luísa de Andrade,,,ao,ao
+Q111974342,Maurílio Luciano Sabino Luiele,,,ao,ao
+Q111974341,Mateus Isabel Júnior,,,ao,ao
+Q111974343,Mendes Bartolomeu,,,ao,ao
+Q111974347,Monteiro Pinto Kapunga,,,ao,ao
+Q111974348,Morais António Neves Tomás,,,ao,ao
+Q112043563,Meneses Clemente Cambinda,,,ao,ao
+Q112043564,Nimi Ya Simbi,,,ao,ao
+Q112043565,Nzola Pierre Mamona,,,ao,ao
+Q112043566,Paulo Gime,,,ao,ao
+Q112043567,Pedrito Cuchiri,,,ao,ao
+Q112043568,Pedro Domingos Peterson,,,ao,ao
+Q112043569,Quintino António Moreira,,,ao,ao
+Q112043571,Raul José de Barcelos,,,ao,ao
+Q112043572,Raul Manuel Danda,,,ao,ao
+Q112043575,Rosa Pedro Afonso Garcia,,,ao,ao
+Q112043586,Sabonete Muancopotola,,,ao,ao
+Q112043588,Sapalo António,,,ao,ao
+Q112043589,Sara Luísa Mateus,,,ao,ao
+Q112043626,Teresa de Jesus Cohen dos Santos,,,ao,ao
+Q125132671,Nkula Zau,,,ao,ao
+Q125166497,Joana Tomás,,,ao,ao
+Q125166741,Paula Esteves,,,ao,ao
+Q125167159,Rossana Miranda,,,ao,ao
+Q125167388,Josefa Lamberga,,,ao,ao
+Q125167640,Ana Jenário,,,ao,ao
+Q125167361,Paulina Kakonga,,,ao,ao
+Q125167477,Luzia Moniz,,,ao,ao
+Q125167436,Teresa Fukiady,,,ao,ao
+Q125167569,Sara Fialho,,,ao,ao
+Q112043555,Maria José,,,ao,ao
+Q112043558,Maria Sebastião Inácio Jerónimo,,,ao,ao
+Q112043559,Maria da Conceição Wimbo Pinto,,,ao,ao
+Q112043556,Maria Madalena da Costa Narciso,,,ao,ao
+Q112043557,Maria Rosa de Lourdes,,,ao,ao
+Q112043560,Maria de Assunção Vahekeni do Rosário,,,ao,ao
+Q112043561,Maria de Fátima Munhica António,,,ao,ao
+Q62960177,Eduardo Camavinga,,,ao,ao
+Q63146063,Custódio Gouveia,,,ao,ao
+Q63146076,Claúdio Chicola,,,ao,ao
+Q63146107,Cláudio Lopes,,,ao,ao
+Q16146532,João Aguiar,,,ao,ao
+Q15875677,Gigli Ndefe,,,ao,ao
+Q15919955,Afonso Silva,,,ao,ao
+Q15993139,Kamu de Almeida,,,ao,ao
+Q16017443,Kambamba Kulaxingo,,,ao,ao
+Q16017725,Zezé Assis,,,ao,ao
+Q16146175,Mayzer Alexandre,,,ao,ao
+Q111974349,Mário Salomão,,,ao,ao
+Q111974351,Nuno dos Anjos Caldas Albino,,,ao,ao
+Q111974352,Nvunda Benvindo Das Neves Salucombo,,,ao,ao
+Q111974354,Ovídio Pahula,,,ao,ao
+Q111974355,Paulino Nzuzi Mpoloantinu,,,ao,ao
+Q111974358,Pedro Diavova,,,ao,ao
+Q111974359,Pedro Makita Armando Júlia,,,ao,ao
+Q111974356,Paulo Pombolo,,,ao,ao
+Q111974357,Pedro Augusto Conga,,,ao,ao
+Q111974360,Pereira Alfredo,,,ao,ao
+Q111974363,Raúl Tati,,,ao,ao
+Q111974361,Raúl Augusto Lima,,,ao,ao
+Q111974365,Rosa Cacuhu,,,ao,ao
+Q63870505,Graciano Domingos,,,ao,ao
+Q64006633,Filipe de Castro Soeiro,,,ao,ao
+Q64627997,David Russell Samuel,,,ao,ao
+Q64736395,José Macaia,,,ao,ao
+Q64736340,Wilson Gaspar,,,ao,ao
+Q64736535,Isaac Correia,,,ao,ao
+Q64736605,Eddie Afonso,,,ao,ao
+Q64759527,Florence Chitacumbi,,,ao,ao
+Q64771489,Manuela Sambo,,,ao,ao
+Q96195210,Conceição Legot,,,ao,ao
+Q96201181,Felício Milson,,,ao,ao
+Q96309736,Maurício Agostinho Camuto,,,ao,ao
+Q96441964,Vera Daves,,,ao,ao
+Q96585303,Eliseu Ganda,,,ao,ao
+Q96585274,Luvambu Filipe,,,ao,ao
+Q96269893,Manuel Homem,,,ao,ao
+Q97174341,Mamy,,,ao,ao
+Q124153700,Celma Messi,,,ao,ao
+Q124155317,Abel Liluala,,,ao,ao
+Q124246630,Ruth Neto,,,ao,ao
+Q124249547,André Rodrigues Mingas Júnior,,,ao,ao
+Q124313169,Sapiyossi,,,ao,ao
+Q124375680,Thomas Tumba,,,ao,ao
+Q124376935,Hariana Verás Victória,,,ao,ao
+Q124377047,Isabel Makitoko,,,ao,ao
+Q124241067,DUC,,,ao,ao
+Q124326325,Gilberto,,,ao,ao
+Q124345580,Sara Bilumbu Luvunga,,,ao,ao
+Q111517205,Pinda Simão,,,ao,ao
+Q111519251,Telma T-Von,,,ao,ao
+Q111610812,Laurinda Cardoso,,,ao,ao
+Q111626688,Branca Manuel Espirito Santo,,,ao,ao
+Q111626730,Fiel Domingos Constantino,,,ao,ao
+Q111629705,José da Rocha,,,ao,ao
+Q111677169,Kiluanje Liberdade,,,ao,ao
+Q111731315,Girinha,,,ao,ao
+Q111731346,Imanni da Silva,,,ao,ao
+Q111732182,Kamy Lara,,,ao,ao
+Q111732217,Mamã Kuiba,,,ao,ao
+Q124395283,Carlos Taveira,,,ao,ao
+Q124424921,Ladaínha Haufiku,,,ao,ao
+Q124428055,Margarete Mendes Salvador,,,ao,ao
+Q124428190,Domingas Kinanga,,,ao,ao
+Q124427963,Vanuza António Francisco,,,ao,ao
+Q124428403,Beatriz dos Santos Augusto,,,ao,ao
+Q124428234,Lídia Yolanda Agostinho Lubano,,,ao,ao
+Q124428372,Indira Vissolela Fernandes Luís,,,ao,ao
+Q124428279,Sandrina Buenatelue António,,,ao,ao
+Q124428417,Ladaínha Ndanema Silyomunu Haufiku,,,ao,ao
+Q124428469,Irene Maria Duarte Gonçalves,,,ao,ao
+Q124428613,Cristina Makua,,,ao,ao
+Q124428760,Francisca de Azevedo José Gaspar,,,ao,ao
+Q124429108,Germana Lurena Lopes Fernandes,,,ao,ao
+Q111974241,Armando Capunda,,,ao,ao
+Q111974242,Augusto Pedro Makuta Nkondo,,,ao,ao
+Q111974243,Benedito Daniel,,,ao,ao
+Q111974244,Bento Raimundo Kandala,,,ao,ao
+Q111974245,Carlos Tiago Kandanda,,,ao,ao
+Q111974248,Cândida Maria Guilherme Narciso,,,ao,ao
+Q111974246,Celso Eduardo Torres Capingãla,,,ao,ao
+Q111974249,Daniel António,,,ao,ao
+Q111974250,Diamantino Domingos Mussocola,,,ao,ao
+Q111974251,Diógenes Do Espírito Santo Oliveira,,,ao,ao
+Q111974252,Domingos Afonso,,,ao,ao
+Q111974253,Domingos Oliveira,,,ao,ao
+Q59164229,Abel Xavier Nzuzi Lubota,,,ao,ao
+Q59164305,Adalberto Costa Júnior,,,ao,ao
+Q59180322,Carlos António Fernandes,,,ao,ao
+Q59180409,Abel Lourenço Chocolate,,,ao,ao
+Q59180465,Adriano Abel Sapinãla,,,ao,ao
+Q59180317,Mateus de Brito Júnior,,,ao,ao
+Q59180833,Manuel Bernardo de Sousa,,,ao,ao
+Q59209455,Adriano Meireles Patrocínio,,,ao,ao
+Q59209460,Adérito Jaime Fernandes Kandambo,,,ao,ao
+Q59209550,Alberto Francisco Ngalanela,,,ao,ao
+Q16491593,António Fonseca,,,ao,ao
+Q16497857,Bento Joaquim Sebastião Francisco Bento,,,ao,ao
+Q16498315,Big Nelo,,,ao,ao
+Q16528434,Armando Queirós Manuel,,,ao,ao
+Q16588899,Luis Cão,,,ao,ao
+Q16643153,Igor Silva,,,ao,ao
+Q16647686,Justina Lopes Praça,,,ao,ao
+Q16661538,Luis Ranque Franque,,,ao,ao
+Q135387956,José Santos,,,ao,ao
+Q135387414,José Neto,,,ao,ao
+Q135380567,Adilson Moises Ramos,,,ao,ao
+Q135380569,Eduardo Do Nascimento B. Ferreira,,,ao,ao
+Q135380571,Francisco Luano,,,ao,ao
+Q135380568,Helder Antonio Francisco Gonçalves,,,ao,ao
+Q135380570,Simão Francisco João,,,ao,ao
+Q135381456,Fàtima Damião Quizele,,,ao,ao
+Q135381654,Bokomba Masela,,,ao,ao
+Q135381679,Barbara Joana Francisco Guimarães,,,ao,ao
+Q135381457,Judith José Queta,,,ao,ao
+Q135381598,Fernando Jorge Albano,,,ao,ao
+Q135381678,Domitila Henrique Ventura,,,ao,ao
+Q135381656,Ernestina Chilomba Rodrigues Neto,,,ao,ao
+Q135381655,Isabel Chimino Francisco,,,ao,ao
+Q135381676,Irene Da Conceição Inacio Guerreiro,,,ao,ao
+Q135381677,Jaquelina Dos Prazeres Francisco,,,ao,ao
+Q135381765,Nivaldo Manuel Franqui Sumbo,,,ao,ao
+Q135382373,Denise Lisete Cardoso da Fonseca,,,ao,ao
+Q135382699,Catarina Da Silva Eusébio,,,ao,ao
+Q135382698,Claudia Patricia Félix Antonio,,,ao,ao
+Q135382697,Etelvina Rebeca Mrtins Cristiano,,,ao,ao
+Q135382704,Eva Brandão da Silva,,,ao,ao
+Q135382709,Francisco Domingos Gomes Horacio,,,ao,ao
+Q135382694,Guiomar Mussaxe Mizalaque,,,ao,ao
+Q135382707,José Do Nascimento Dos Santos,,,ao,ao
+Q135382780,Joaquim Adolfo B. Xavier,,,ao,ao
+Q135382700,Marisa Da Natividade Benção Nsiame,,,ao,ao
+Q135382799,José Diangienda Garcia,,,ao,ao
+Q135382705,Marta Beatriz Catolo Perestrelo,,,ao,ao
+Q135382702,Samba Clotilde Franga Eduardo,,,ao,ao
+Q135382695,Solange Sodré Bumba,,,ao,ao
+Q135382708,Simao Pedro Manuel Panzo,,,ao,ao
+Q135382696,Vera Steilla Alexandre João,,,ao,ao
+Q135382701,Vera Solange Domingos Miguel,,,ao,ao
+Q135382703,Yara Catila Paixão Lopes Dos Santos,,,ao,ao
+Q135383537,Luis Mario João,,,ao,ao
+Q135383539,Manuel António Mariano,,,ao,ao
+Q135383538,Romualdo António Chibunduca,,,ao,ao
+Q135383817,Idelfonso Carlos Antonio Kiteculo,,,ao,ao
+Q135383839,Maria Manuela M. B. Cardoso,,,ao,ao
+Q135384246,Jose Sebastiao Dos Santos,,,ao,ao
+Q135384491,Clarisse Mpaka,,,ao,ao
+Q135384242,Michel Chico Dos Santos,,,ao,ao
+Q135384522,Cristovao Joao Suingui,,,ao,ao
+Q135384245,Paulo Joao Muquixe,,,ao,ao
+Q135384241,Sanu Zola Joao Maria,,,ao,ao
+Q135384243,Tsheke Koffi Mvumbi,,,ao,ao
+Q135384239,Wilson Bartolomeu Francisco Manuel,,,ao,ao
+Q135385840,Luisa Maria Miguel,,,ao,ao
+Q135386374,Monica P. Pilartes da Silva,,,ao,ao
+Q135387075,Paula Odete Da Cruz e Silva,,,ao,ao
+Q135387958,Almerindo Osvaldo Celestino,,,ao,ao
+Q135387964,Armando Binge,,,ao,ao
+Q135387962,Carlos Alberto Mendes,,,ao,ao
+Q135387961,Cardoso Casimiro,,,ao,ao
+Q135387806,Rui Guimarães,,,ao,ao
+Q135387959,João Calei,,,ao,ao
+Q135387965,Pedro Kialunda,,,ao,ao
+Q135387963,Simão Cunga,,,ao,ao
+Q135387957,Vicente Jorge Neto,,,ao,ao
+Q116233994,Nagrelha,,,ao,ao
+Q116681385,Beni Mukendi,,,ao,ao
+Q116681423,Jermain Nischalke,,,ao,ao
+Q117010089,Massoji Canhanga,,,ao,ao
+Q117311859,José Van-Dúnem,,,ao,ao
+Q117311889,João Jacob Caetano,,,ao,ao
+Q118145019,Firmino David,,,ao,ao
+Q118194656,Milca Caquesse,,,ao,ao
+Q118250118,Joseph Nduquidi,,,ao,ao
+Q118279139,Kevin Kokila,,,ao,ao
+Q118353178,Tina Calamba,,,ao,ao
+Q110885436,Maestro,,,ao,ao
+Q110870723,Balbina Malheiros Dias da Silva,,,ao,ao
+Q110900781,Angelina Vunge,,,ao,ao
+Q110972480,Eunice Nangueve Inácio,,,ao,ao
+Q111215188,Chelsy Shantel,,,ao,ao
+Q111459428,Franslyn Nsingi,,,ao,ao
+Q111517202,Virgílio Ferreira de Fontes Pereira,,,ao,ao
+Q97181377,Adjany Costa,,,ao,ao
+Q97343114,Jabez Makanda,,,ao,ao
+Q97482111,Jorge Inocêncio Dombolo,,,ao,ao
+Q97482106,Mara Baptista Quiosa,,,ao,ao
+Q97482147,Isalino Samuel Mendes,,,ao,ao
+Q97482185,Domingos Hungo,,,ao,ao
+Q97495999,António Ventura de Azevedo,,,ao,ao
+Q97496017,Pedro Benga Lima,,,ao,ao
+Q97496874,Daniel Félix Neto,,,ao,ao
+Q97496861,Ernesto Muangala,,,ao,ao
+Q97355745,Nazar,,,ao,ao
+Q109776080,Twist,,,ao,ao
+Q109375694,Estevao Binga,,,ao,ao
+Q109378414,Helder Fortes,,,ao,ao
+Q109378419,Paulo Rebelo,,,ao,ao
+Q109553241,Pedro Bondo Francisco,,,ao,ao
+Q109554649,Irene Bandeira,,,ao,ao
+Q109554532,Silvio Lopes,,,ao,ao
+Q109605907,Domingos Andrade,,,ao,ao
+Q109609537,Mário Balbúrdia,,,ao,ao
+Q109779317,Suzette Ilda Mendes,,,ao,ao
+Q109781011,Maria Carolina Nogueira dos Santos Soares,,,ao,ao
+Q109781214,Julieta Licumbi,,,ao,ao
+Q111974367,Santa Simão Pedro,,,ao,ao
+Q111974370,Serafim Maria Do Prado,,,ao,ao
+Q111974369,Sediangani Mbimbi,,,ao,ao
+Q111974371,Sikonda Lulendo Alexandre,,,ao,ao
+Q111974374,Sérgio Luther Rescova Joaquim,,,ao,ao
+Q111974373,Sérgio Leonardo Vaz,,,ao,ao
+Q111974372,Simão Albino António Dembo,,,ao,ao
+Q111974376,Tomás Simão da Silva,,,ao,ao
+Q111974378,Vicente José da Costa Pinto de Andrade,,,ao,ao
+Q111974379,Victorino Nhany,,,ao,ao
+Q111974377,Veríssimo Sapalo,,,ao,ao
+Q111974382,Víctor Mário Chicua Kajibanga,,,ao,ao
+Q111974381,Virgílio Pedro Samussongo,,,ao,ao
+Q108479016,Pongo,,,ao,ao
+Q108314467,Pedro Paulo Lubamba,,,ao,ao
+Q108323188,Juddy da Conceição,,,ao,ao
+Q108391566,Sérgio de Sousa Mendes dos Santos,,,ao,ao
+Q108413796,Teotonio Dò,,,ao,ao
+Q108451955,Zini,,,ao,ao
+Q108464191,Jilson Bango,,,ao,ao
+Q108477422,Kiluanji Kia Henda,,,ao,ao
+Q108532960,Childe Dundão,,,ao,ao
+Q108565862,Luís de Assunção Pedro da Mouta Liz,,,ao,ao
+Q108567544,Ednasia Junior,,,ao,ao
+Q108622475,Erickson Carvalho,,,ao,ao
+Q108756456,Luanda Lozano,,,ao,ao
+Q108761927,Gilmário Vemba,,,ao,ao
+Q108792188,Bruno André,,,ao,ao
+Q108792186,Cruz Lima,,,ao,ao
+Q108792185,Ivan Andrei,,,ao,ao
+Q108792187,Manuel Jacinto Osvaldo,,,ao,ao
+Q108792184,Marcio Guevara,,,ao,ao
+Q16198545,Romeu Filemón,,,ao,ao
+Q16211572,Rosa Gala,,,ao,ao
+Q16216783,Cristóvão Swingue,,,ao,ao
+Q16221973,Maria Pedro,,,ao,ao
+Q16223296,Lurdes Monteiro,,,ao,ao
+Q16224031,Elizabeth Viegas,,,ao,ao
+Q16232336,Liliana Paixão,,,ao,ao
+Q109228966,Prado,,,ao,ao
+Q109228878,Sandrinha,,,ao,ao
+Q109228829,Yara,,,ao,ao
+Q109116256,Gaspar,,,ao,ao
+Q109057872,Manuela João Simão,,,ao,ao
+Q109299870,António Lungieki Pedro Bengui,,,ao,ao
+Q109300309,Fernando Francisco,,,ao,ao
+Q109354029,Plamedi Buni Jorge,,,ao,ao
+Q109358856,Ludy Kissassunda,,,ao,ao
+Q16668379,Osvaldo da Fonseca,,,ao,ao
+Q16728988,Filhão,,,ao,ao
+Q16732641,Rodrigues Mingas,,,ao,ao
+Q16735054,Raúl Martins,,,ao,ao
+Q16739406,Filipe Correia de Sá,,,ao,ao
+Q16755985,Valdinho,,,ao,ao
+Q16873138,Mussasa,,,ao,ao
+Q61017245,José Joana André,,,ao,ao
+Q61020491,João Kussumua,,,ao,ao
+Q61215835,Agnelo Quitongo,,,ao,ao
+Q61216201,Aguinaldo Tati,,,ao,ao
+Q61216206,Declerck Sibo,,,ao,ao
+Q61216703,Elsemar Pedro,,,ao,ao
+Q61216867,Otiniel Pascoal,,,ao,ao
+Q61609137,Esperança Zinga,,,ao,ao
+Q61680442,Panzu Ernesto,,,ao,ao
+Q61960012,Roberto Francisco de Almeida,,,ao,ao
+Q61971582,Fidelino Loy de Jesus Figueiredo,,,ao,ao
+Q61998440,Leopoldino Fragoso do Nascimento,,,ao,ao
+Q111974294,José Maria Jamba,,,ao,ao
+Q111974298,João António Lineha Muhembo,,,ao,ao
+Q111974295,José Miúdo,,,ao,ao
+Q111974299,João de Almeida Azevedo Martins,,,ao,ao
+Q111974293,José Francisco Tingão Pedro,,,ao,ao
+Q111974302,João Garcia Quitas,,,ao,ao
+Q111974303,João José Guerra de Freitas,,,ao,ao
+Q111974296,José Miúdo Ndambuca,,,ao,ao
+Q111974300,João Diogo Gaspar,,,ao,ao
+Q111974297,José Moisés Cipriano,,,ao,ao
+Q111974301,João Fernando Mucanda,,,ao,ao
+Q111974306,João Muzaza Caweza,,,ao,ao
+Q111974304,João Luís Neto,,,ao,ao
+Q111974305,João Manuel Francisco,,,ao,ao
+Q136622723,Marcia Guimaraes,,,ao,ao
+Q136380701,Ana Neto,,,ao,ao
+Q136381317,Ariel Vicente,,,ao,ao
+Q136380697,Luisa Servico,,,ao,ao
+Q136380702,Alicia Muondo,,,ao,ao
+Q136380700,Ana Tekadiomona,,,ao,ao
+Q136382091,Mario Almeida,,,ao,ao
+Q136465151,Thaís Lima,,,ao,ao
+Q136616321,Antonio Cristo Coelho Da Cruz,,,ao,ao
+Q136616439,António Agostinho Gerónimo,,,ao,ao
+Q136616440,Santos Zua,,,ao,ao
+Q136618356,Joao Filipe Neto,,,ao,ao
+Q136618420,Euclides B. Santos Camacho,,,ao,ao
+Q136619499,Francisco Domingos Mendes Machado,,,ao,ao
+Q136619497,Feliciano Dilson Benardo Camacho,,,ao,ao
+Q136619529,Wilson Mata,,,ao,ao
+Q136620117,Helder Joao Domingos,,,ao,ao
+Q136620192,Helder King Samuel Ortet,,,ao,ao
+Q136620636,Mariana Rafael,,,ao,ao
+Q136620703,Roly Mayombo,,,ao,ao
+Q136620706,Manuel Neto Martins,,,ao,ao
+Q136620704,Edmundo Ventura Ambrosio,,,ao,ao
+Q136620707,Antonio Claudio Andrade Silva,,,ao,ao
+Q136620705,Geraldo Francisco Da Silva Tondela,,,ao,ao
+Q136620741,Eugénio Antonio Do Amaral,,,ao,ao
+Q136620828,Muamba Ilunga,,,ao,ao
+Q136621014,Sofia Antonio Capinga,,,ao,ao
+Q136621039,Luisa Maria De Oliveira Mouzinho,,,ao,ao
+Q136621038,Nadia Tatiana Francisco Guimarães,,,ao,ao
+Q136621036,Neusa Correia Afonso,,,ao,ao
+Q136621037,Ane De Lemos Mendes Machado,,,ao,ao
+Q136621042,Celina Bela Muxito Nzadi Da Conceição,,,ao,ao
+Q136621041,Teresa Da Piedade Duarte Gonçalves,,,ao,ao
+Q136621252,Indira Mariana Sotto José,,,ao,ao
+Q136621678,Dario Ribeiro De Carvalho,,,ao,ao
+Q136621710,Adilson Ferreira Da Camãra,,,ao,ao
+Q136621875,Edna Marisa De Oliveira Pedro,,,ao,ao
+Q136621877,Luisa Chissola Capalo,,,ao,ao
+Q136622003,Adilson Carlos Micano Baza,,,ao,ao
+Q136622067,Cristovão Dos Santos De Oliveira,,,ao,ao
+Q136622070,Wilson De Jesus Teixeira De Carvalho,,,ao,ao
+Q136622071,Francisco Da Gama Gançalves,,,ao,ao
+Q136622068,Zola Tecassala Paulo,,,ao,ao
+Q136622069,Abdel Magalhaes Gomes,,,ao,ao
+Q136622074,Afonso Cristovão Pina Rodrigues,,,ao,ao
+Q136622073,Carlos Correia Quibato,,,ao,ao
+Q136622478,Vladimir Miguel De Santana Pontes,,,ao,ao
+Q136622502,Yuri João Da Silva Suingue,,,ao,ao
+Q136622501,Rui Filipe Ventura Matias,,,ao,ao
+Q136622576,Ezequiel Inacio Joao Da Silva,,,ao,ao
+Q136622577,José Manuel Miguel,,,ao,ao
+Q136622679,Delcio Ricardo Gomes Ucuahamba,,,ao,ao
+Q136622687,Jose Vemba Manuel Salvador,,,ao,ao
+Q136622946,Francisco Martins De Sousa,,,ao,ao
+Q136622954,Escorcio Pedro Cuaia Antonio,,,ao,ao
+Q136622967,Luisa Da Conceicao Ferreira Cutano,,,ao,ao
+Q111954371,Bernarda Goncalves da Silva,,,ao,ao
+Q111954373,Branca Manuel da Costa Neto do Espírito Santo,,,ao,ao
+Q111954376,Diekumpuna Sita Jose,,,ao,ao
+Q111954377,Emanuela Afonso Vieira Lopes,,,ao,ao
+Q111954378,Fernando Alberto de Lemos Soares da Fonseca,,,ao,ao
+Q111954380,Genoveva da Conceição Lino,,,ao,ao
+Q111954386,João Baptista Ngandagina,,,ao,ao
+Q111954387,Joaquim Ekuma Muafumua,,,ao,ao
+Q111954384,Jesus Faria Maiato,,,ao,ao
+Q111954390,Jose Marcos Barrica,,,ao,ao
+Q111954388,Joffre Van-Dunem Junior,,,ao,ao
+Q111954389,Jorge Alicerces Valentim,,,ao,ao
+Q111954393,José António da Conceição e Silva,,,ao,ao
+Q111954382,Manuel Gonçalves Muandumba,,,ao,ao
+Q111737056,Sofia Lucas,,,ao,ao
+Q111747640,Sizaltina Cutaia,,,ao,ao
+Q111781929,Daniel António Rosa,,,ao,ao
+Q111916352,Carlos Alberto Lopes,,,ao,ao
+Q111916354,Eduardo Leopoldo Severin de Morais,,,ao,ao
+Q111937234,Agostinho Fernandes Nelumb,,,ao,ao
+Q111937228,Armando da Cruz Neto,,,ao,ao
+Q111937240,Francisco Pereira Furtado,,,ao,ao
+Q111954166,Adao Francisco Correia de Almeida,,,ao,ao
+Q111954167,Adão do Nascimento,,,ao,ao
+Q111954168,Albertina Julia Hamukuya,,,ao,ao
+Q111954170,Ana Paula Elias,,,ao,ao
+Q111954367,Ana Paula Chantre Luna de Carvalho,,,ao,ao
+Q111954368,Angelo Barros da Veiga Tavares,,,ao,ao
+Q16146663,Jorge Antunes,,,ao,ao
+Q16198226,Paulo Barros,,,ao,ao
+Q16146651,Valdemar António Almeida,,,ao,ao
+Q16149489,Apolinário Paquete,,,ao,ao
+Q16189418,Ndunguidi,,,ao,ao
+Q16190785,Armando Manuel,,,ao,ao
+Q16195058,Lopito Feijóo,,,ao,ao
+Q16197137,Jerónimo Neto,,,ao,ao
+Q20666602,Hugo Garcia,,,ao,ao
+Q20478804,Amilcar Barca Martins da Cruz,,,ao,ao
+Q20534202,Alexandre Dáskalos,,,ao,ao
+Q20559814,Joaquim Augusto de Lemos,,,ao,ao
+Q112654755,Helga Gamboa,,,ao,ao
+Q112654998,Paulo Kussy Anatomilias,,,ao,ao
+Q112661863,Yonamine,,,ao,ao
+Q113000795,Tatiana Kukanova,,,ao,ao
+Q113026809,Francisco Veludo,,,ao,ao
+Q113084520,Ruth Lara,,,ao,ao
+Q113461286,Swelia Antonio,,,ao,ao
+Q113580245,Gustavo Costa,,,ao,ao
+Q113510256,Léandre Kuavita,,,ao,ao
+Q113613581,Esperança Maria Eduardo Francisco da Costa,,,ao,ao
+Q113624589,Florbela Malaquías,,,ao,ao
+Q111974688,Anabela Manuel dos Santos Alberto,,,ao,ao
+Q111974690,Anatilde de Jesus de Oliveira Freire Campos,,,ao,ao
+Q111974691,Angelina Adolfo Macai,,,ao,ao
+Q111974692,Anita Raquel Bela Filipe,,,ao,ao
+Q111974694,António Victorino,,,ao,ao
+Q111974693,António Francisco Cortez,,,ao,ao
+Q111974696,Armando Dala,,,ao,ao
+Q111974697,Aurora Junjo Cassule,,,ao,ao
+Q111974698,Carlos Alberto Ferreira Pinto,,,ao,ao
+Q18211383,Ana de Santana,,,ao,ao
+Q41675151,Mário de Carvalho,,,ao,ao
+Q42317703,Walter Ferreira,,,ao,ao
+Q41675155,Walter da Silva,,,ao,ao
+Q37768924,Afimico Pululu,,,ao,ao
+Q41673020,José Tuto Cruz,,,ao,ao
+Q42304615,Delfina Cassinda,,,ao,ao
+Q15303087,Teresa Almeida,,,ao,ao
+Q15121956,Luzizila Kiala,,,ao,ao
+Q15152494,Bento Kangamba,,,ao,ao
+Q15179317,Mfulupinga Nlando Victor,,,ao,ao
+Q15303113,Anastácia Sibo,,,ao,ao
+Q113646238,Wilson Ganga,,,ao,ao
+Q113795350,Eva de Carvalho Chipenda,,,ao,ao
+Q113951736,Jerson Dos Santos,,,ao,ao
+Q113968916,Ava Simões,,,ao,ao
+Q113988415,Elione Fernandes Neto,,,ao,ao
+Q113995730,Marcos Santos,,,ao,ao
+Q17103047,Manuel Silva,,,ao,ao
+Q17612542,Estrela,,,ao,ao
+Q17415312,Fernando Mendonça,,,ao,ao
+Q17103244,Raúl Duarte,,,ao,ao
+Q17190299,Elizio,,,ao,ao
+Q17198122,Egidio Mguizami,,,ao,ao
+Q17833596,Alexandre de Sa,,,ao,ao
+Q22096457,Elisa Peres,,,ao,ao
+Q22097235,Maria Gonçalves,,,ao,ao
+Q22097459,Aña Bela Joaquim,,,ao,ao
+Q22121104,Maria Inês Jololo,,,ao,ao
+Q22121081,Regina Camumbila,,,ao,ao
+Q20048097,Jean-Luc Rasamoelina,,,ao,ao
+Q16929578,Eugenia de Pina,,,ao,ao
+Q16930033,Comandante Gika,,,ao,ao
+Q16939964,Diógenes Boavida,,,ao,ao
+Q16939983,Eduardo Paím,,,ao,ao
+Q16941103,Yola Araújo,,,ao,ao
+Q16977535,Ze Gordo,,,ao,ao
+Q17005963,Jaime Covilhã,,,ao,ao
+Q17007719,Carlos Dinis,,,ao,ao
+Q17064757,Abraão Gourgel,,,ao,ao
+Q22121131,Dionisia Pio,,,ao,ao
+Q22121121,Ivone Mufuca,,,ao,ao
+Q22162794,Wilson Kenidy,,,ao,ao
+Q22276794,Rosa Amaral,,,ao,ao
+Q22277635,Vivalda Dula,,,ao,ao
+Q22278784,Belina Larica,,,ao,ao
+Q22283680,Manuel Jose Mateus,,,ao,ao
+Q23304145,Victor Manuel Rita da Fonseca Lima,,,ao,ao
+Q23417219,Teresa Ulundo,,,ao,ao
+Q18221701,Whitney Miguel,,,ao,ao
+Q18237182,Alberto do Carmo Bento Ribeiro,,,ao,ao
+Q18239188,Tânia Burity,,,ao,ao
+Q18276312,José Carvalho da Rocha,,,ao,ao
+Q124632475,José Vieira Dias Van-Dunem,,,ao,ao
+Q124632998,Adão Francisco Correia de Almeida,,,ao,ao
+Q124632999,Francisco Manuel Monteiro de Queiróz,,,ao,ao
+Q124632997,José Luis de Matos,,,ao,ao
+Q20982475,André Soares,,,ao,ao
+Q20898757,Adriana Alves,,,ao,ao
+Q20730292,David Mendes,,,ao,ao
+Q20676721,Gelson Dala,,,ao,ao
+Q20727756,João Pedro Garcia Santos Pinto,,,ao,ao
+Q20727829,Pedro Manuel Watanga,,,ao,ao
+Q20738222,Amélia Veiga,,,ao,ao
+Q20971191,José Marcos Mavungo,,,ao,ao
+Q23541221,Edson Jesus Silva,,,ao,ao
+Q23892792,Benvindo Regresso Pontes Garcia,,,ao,ao
+Q23892775,Job Graça,,,ao,ao
+Q23892783,José Maria Pimentel,,,ao,ao
+Q23892778,Manuel Neto da Costa,,,ao,ao
+Q23892797,Lúcia Nereida do Carmo Morais,,,ao,ao
+Q23892788,Pedro Adérito,,,ao,ao
+Q23892773,Voto Neves,,,ao,ao
+Q23901009,Arménio Fernandes,,,ao,ao
+Q124658016,Aminata Goubel,,,ao,ao
+Q124658040,Ana da Silva Miguel,,,ao,ao
+Q124658062,Maria da Conceição Luanda,,,ao,ao
+Q124664730,Ana Margoso,,,ao,ao
+Q124839198,Rosária Manuel da Silva,,,ao,ao
+Q124879160,Manaceu Ngonda,,,ao,ao
+Q124879161,Roberto Nsangua,,,ao,ao
+Q124973238,Leonardo Barros,,,ao,ao
+Q124974558,Rodrigo Fernando,,,ao,ao
+Q124986442,Cândida Mendes,,,ao,ao
+Q124987519,Matilde Vanda,,,ao,ao
+Q124987434,Zenina Volola,,,ao,ao
+Q125020444,Ana José Sebastião,,,ao,ao
+Q125025679,Pamina Sebastião,,,ao,ao
+Q125053036,Crislayn Rodrigues,,,ao,ao
+Q125132247,Aurora da Conceição Guerreiro,,,ao,ao
+Q125132355,Isabel João,,,ao,ao
+Q124754296,Nelma Cunha,,,ao,ao
+Q21208827,Orlando,,,ao,ao
+Q21282798,Amadeu,,,ao,ao
+Q21140733,Luaty Beirão,,,ao,ao
+Q21207495,Martinho Joaquim Castella Quessongo,,,ao,ao
+Q21207866,Antonio Diogo,,,ao,ao
+Q21208778,Minhonha,,,ao,ao
+Q21281810,Zézé Gamboa,,,ao,ao
+Q118591888,Luana Gomes,,,ao,ao
+Q118877333,Yvann Titi,,,ao,ao
+Q119248465,Isabel de Jesus da Costa Godinho,,,ao,ao
+Q119551301,Luiana Livulo,,,ao,ao
+Q119564094,Rudiane Eduardo,,,ao,ao
+Q119568449,Chelsea Guimaraes,,,ao,ao
+Q119853637,Luzayadio Nsimba Simba,,,ao,ao
+Q18356826,Gabriela Antunes,,,ao,ao
+Q18534020,Maria Borges,,,ao,ao
+Q18378623,Mylson,,,ao,ao
+Q18467307,Jandira Sassingui,,,ao,ao
+Q21290206,Dicla Burity,,,ao,ao
+Q21290323,José Carlos da Silva Santana,,,ao,ao
+Q21395489,Andreas Oesterle,,,ao,ao
+Q21872447,Elizabeth Cailo,,,ao,ao
+Q21872489,Wuta Dombaxe,,,ao,ao
+Q22003587,Luís Domingos António Cazengue,,,ao,ao
+Q22004099,Janete dos Santos,,,ao,ao
+Q18637107,Valdo Alhinho,,,ao,ao
+Q18637590,Italee Lucas,,,ao,ao
+Q18637707,Clinton Mata,,,ao,ao
+Q18707927,Edusa Chindecasse,,,ao,ao
+Q18708073,Nádia Silva,,,ao,ao
+Q19376491,José de Lima Massano,,,ao,ao
+Q19509085,Pocas Pascoal,,,ao,ao
+Q22006478,Juliana Machado,,,ao,ao
+Q22030578,Liliana Venâncio,,,ao,ao
+Q22095355,Luzia María Bizerra,,,ao,ao
+Q22095841,Mária Eduardo,,,ao,ao
+Q22096040,Domingas Cordeiro,,,ao,ao
+Q22096144,Maura Faial,,,ao,ao
+Q22096292,Lia Paulo,,,ao,ao
+Q25320623,Filipe Cruz,,,ao,ao
+Q24678801,Ana Ferreira,,,ao,ao
+Q24548914,Edith Mbunga,,,ao,ao
+Q24701090,José Luis Mendonça,,,ao,ao
+Q24851597,Eduardo Joao Bunga,,,ao,ao
+Q25428356,Deolinda Kinzimba,,,ao,ao
+Q25431416,Valter Filipe Duarte da Silva,,,ao,ao
+Q25915854,Vilma Nenganga,,,ao,ao
+Q125994915,Maria Fonseca,,,ao,ao
+Q125994916,Maricel Marinho da Silva Capama,,,ao,ao
+Q125994917,Mbamby Keane Victória dos Santos,,,ao,ao
+Q125994919,Milonga Manuel Bernardo,,,ao,ao
+Q125994920,Moniz Alfredo,,,ao,ao
+Q125994921,Monteiro Renaldo Eliseu,,,ao,ao
+Q125994922,Nádia Agostinho Borges da Conceição Monteiro,,,ao,ao
+Q125994923,Narciso Damásio dos Santos Benedito,,,ao,ao
+Q125994924,Nary Cajica Manuel Aguiar,,,ao,ao
+Q125994925,Nazário Pedro Vilhena Bomba Vilhena,,,ao,ao
+Q125994927,Nuno Álvaro Dala,,,ao,ao
+Q125994928,Olívio Fortunato Esperança Quilumbo,,,ao,ao
+Q130658016,Eliane Paulo,,,ao,ao
+Q130658472,Dolores Rosario,,,ao,ao
+Q130658665,Liliane Mario,,,ao,ao
+Q130703370,Marximina Bernardo,,,ao,ao
+Q130757014,Alexandre Réis,,,ao,ao
+Q130758905,Tomasz Dowbor,,,ao,ao
+Q131154326,Carlota Machado,,,ao,ao
+Q128044922,Denise Salazar,,,ao,ao
+Q128809464,Aginaldo Neto,,,ao,ao
+Q128826916,Clésio Castro,,,ao,ao
+Q128829826,Gerilson Insrael,,,ao,ao
+Q129263114,Kina Maua N'Pango,,,ao,ao
+Q129353852,Leonel da Rocha Pinto,,,ao,ao
+Q129378095,Chelsea Dinorath,,,ao,ao
+Q129379821,Preto Show,,,ao,ao
+Q130146305,Joel da Silva Kiala,,,ao,ao
+Q130215284,Brunell Tutonda,,,ao,ao
+Q130224656,Carolina Yomengue,,,ao,ao
+Q130245031,Marcos Silva,,,ao,ao
+Q130313821,Aires Gonzaga Zeca Emilson,,,ao,ao
+Q130313963,Eufranio Carlos Da Silva Cungulo GUI,,,ao,ao
+Q130314221,Adilson Mfulu Bruno,,,ao,ao
+Q130313965,Openga Katenga Ettiene,,,ao,ao
+Q130348454,Nzau Miguel Lutumba,,,ao,ao
+Q130474692,Ismael Mateus,,,ao,ao
+Q130485297,Tri Chu,,,ao,ao
+Q130211589,Juliana Ngleya Moko,,,ao,ao
+Q20047920,André Matias,,,ao,ao
+Q19662665,Carlos de Sousa Queirós,,,ao,ao
+Q19662924,Paula Nascimento,,,ao,ao
+Q19664269,Whitney Shikongo,,,ao,ao
+Q19844559,José da Silva Maia Ferreira,,,ao,ao
+Q19856475,Halona Vog,,,ao,ao
+Q19934728,Manuel dos Santos Lima,,,ao,ao
+Q26209537,Silas Daniel Satonho,,,ao,ao
+Q26251371,Osvaldo Roque Gonçalves da Cruz,,,ao,ao
+Q26251613,Luísa Baptista,,,ao,ao
+Q26253859,José da Silva Miranda,,,ao,ao
+Q26260131,Ana Sofia Nóbrega,,,ao,ao
+Q26266085,Vá,,,ao,ao
+Q26266086,Zinedine Catraio,,,ao,ao
+Q26705095,Matias Montinho,,,ao,ao
+Q26705091,Paixão Afonso,,,ao,ao
+Q26266103,Chabalala,,,ao,ao
+Q26266099,Pepé,,,ao,ao
+Q26266098,Tomé Osvaldo Pedro,,,ao,ao
+Q26267509,Liliana Neto,,,ao,ao
+Q26605658,Hermenegildo Leite,,,ao,ao
+Q125994911,Maria da Conceição Mendonça Caldeira de Palma,,,ao,ao
+Q125994914,Maria Esperança Pires dos Santos,,,ao,ao
+Q125994912,Maria do Espirito Santo da Silva Monteiro,,,ao,ao
+Q125994913,Maria Emília Da Silva Inácio,,,ao,ao
+Q26705109,Antero Abreu,,,ao,ao
+Q26789923,Manuel Lelo,,,ao,ao
+Q26924424,Florentino Luís,,,ao,ao
+Q125994930,Paciência Amélia Albertina Caxita,,,ao,ao
+Q125994929,Osvaldo António José Caculo,,,ao,ao
+Q125994931,Paula Cristina Inácio Contreiras,,,ao,ao
+Q125994935,Peregrino Isidro Wambu Chindondo,,,ao,ao
+Q125994932,Paula Regina Simões de Oliveira,,,ao,ao
+Q125994933,Pedro Francisco Tanda,,,ao,ao
+Q125994936,Ricardina Inocência dos Santos Chilombo,,,ao,ao
+Q125994938,Rosa Branca da Cunha Cardoso Albino,,,ao,ao
+Q125994937,Rodrigues Manuel Tandala,,,ao,ao
+Q125994939,Rui Malopa Miguel,,,ao,ao
+Q125994940,Sandra Teresa Numanawa Kakunda Henriques,,,ao,ao
+Q125994941,Santiago Lino Vunge Primeiro,,,ao,ao
+Q126123083,Domingas Pedro Francisco Damião,,,ao,ao
+Q126123084,Domingos Damião Neto,,,ao,ao
+Q126123085,Domingos Vicente Rafael Mate,,,ao,ao
+Q126123088,Elisa Fernanda Vihemba,,,ao,ao
+Q126123090,Eufêmia Hambeleleni,,,ao,ao
+Q126123091,Eufrazina Malamba Magalhães Teodoro Paiva,,,ao,ao
+Q126123093,Inocência de Deus Faria de Morais,,,ao,ao
+Q126123094,Jacinto dos Santos José,,,ao,ao
+Q126123095,José Domingos Francisco Tuta,,,ao,ao
+Q126123099,José Pami,,,ao,ao
+Q126123096,José Eduardo Carmo Nelumba,,,ao,ao
+Q126123097,José Gabriel Paiva,,,ao,ao
+Q126123100,Maria de Lourdes Sousa Abambres Veiga,,,ao,ao
+Q126123101,Maria Mpava Medina,,,ao,ao
+Q138909230,Joana Campos,,,ao,ao
+Q138337628,Andreina Silva,,,ao,ao
+Q138674265,Edilson Paca,,,ao,ao
+Q138337606,Sónia Lumeka,,,ao,ao
+Q138337650,Catila Machado,,,ao,ao
+Q138337673,Rodmira Nanga Antonio,,,ao,ao
+Q138337691,Arleth Antoniobb,,,ao,ao
+Q138357286,Aurea Mouzinho,,,ao,ao
+Q138505260,Constantino Fiança,,,ao,ao
+Q138413796,Alberto Vimpi,,,ao,ao
+Q138413799,Tozi Kalengo,,,ao,ao
+Q138413802,Nefwani Junior,,,ao,ao
+Q138413803,Marques Nguxi,,,ao,ao
+Q138413806,Eduardo Vueza Vueza,,,ao,ao
+Q138413811,Yéca,,,ao,ao
+Q138413809,Niel Mabilama,,,ao,ao
+Q138413815,Débora Sandjai,,,ao,ao
+Q138413813,Alberto Fazart,,,ao,ao
+Q138413816,Cláudio Feliciano,,,ao,ao
+Q138413818,Milton Juliana,,,ao,ao
+Q138413817,Carnott Junior,,,ao,ao
+Q138413819,Dviza Art,,,ao,ao
+Q138499507,Isabel Teixeira de Sousa,,,ao,ao
+Q138499629,Carmen Mateia,,,ao,ao
+Q138511268,Play Sean Arsénio,,,ao,ao
+Q138835246,Dex LEE,,,ao,ao
+Q138848050,Margarida Waco,,,ao,ao
+Q138907902,Vitória Fernandes,,,ao,ao
+Q139069534,Tânia Paiva,,,ao,ao
+Q139086673,Cristina Dias Lourenço,,,ao,ao
+Q139212204,Marlene Ponda,,,ao,ao
+Q139219560,Rosa Ngueve Jamba,,,ao,ao
+Q139224569,Matondo Matuvova,,,ao,ao
+Q139262292,Lino Diamvutu,,,ao,ao
+Q139318596,Odilia Kaita,,,ao,ao
+Q139380342,Vera Tangue Escórcio,,,ao,ao
+Q139601781,MAIS DOPE,,,ao,ao
+Q139639423,Marcos Arlove,,,ao,ao
+Q139806781,Márcio Daniel,,,ao,ao
+Q140222406,Natasha Massano,,,ao,ao
+Q140225982,Olga Sabalo,,,ao,ao
+Q140230158,Josina Marília N M Baião,,,ao,ao
+Q140286601,Jacqmais,,,ao,ao
+Q125994942,Saúde Victorino Luenheca Txizau,,,ao,ao
+Q125994946,Teresa José Adelina da Silva Neto,,,ao,ao
+Q125994944,Teresa Afonso Pinto,,,ao,ao
+Q125994945,Teresa Cholimba Mateus Mulumbila,,,ao,ao
+Q125994947,Vasco Manuel Sangongo,,,ao,ao
+Q125994948,Xavier Jaime Manuel,,,ao,ao
+Q126038207,Adérito Chimuco Samucambo,,,ao,ao
+Q126122979,Afonso Morais Kuedi,,,ao,ao
+Q126123053,Adão Campos Congo,,,ao,ao
+Q126123077,Bernarda Golçalves Martins Henrique da Silva,,,ao,ao
+Q126123078,Catarina Tchitaka de Oliveira,,,ao,ao
+Q126123079,Cesaltina da Conceição Major,,,ao,ao
+Q126123080,Constantino Manuel dos Santos,,,ao,ao
+Q126123082,Desidéria Hatupuilikine Ndakhupapo,,,ao,ao
+Q126123081,Deolinda Ódia Paula Satula Vilarinho,,,ao,ao
+Q140387001,Juice FLSH,,,ao,ao
+Q126123102,Maria Sebita João Pertence,,,ao,ao
+Q126123104,Nzuzi Makiese Wete,,,ao,ao
+Q126123106,Rosália Sandalawa Capanda,,,ao,ao
+Q126123108,Teresa Jorge Pinto,,,ao,ao
+Q126123109,Vasco Pedro José,,,ao,ao
+Q126123213,Maria da Conceição Roque Caposso,,,ao,ao
+Q126137483,Lourença Tavares,,,ao,ao
+Q126366046,Simão Muvuma Satambi,,,ao,ao
+Q126719068,Hélder da Silva,,,ao,ao
+Q126970345,Zuleide Marinela Cardoso,,,ao,ao
+Q127380641,Grâce duval Kolime,,,ao,ao
+Q127416814,Eliot Muteba,,,ao,ao
+Q126123105,Rodeth Gil,,,ao,ao
+Q127605437,Rául Martinho,,,ao,ao
+Q126123107,Samuel Daniel,,,ao,ao

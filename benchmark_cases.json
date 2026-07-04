@@ -1,0 +1,680 @@
+[
+ {
+  "name": "FERREIRA GUSTAVO DA SILVA",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "GENIVALDO DE SOUZA",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "CLEUDIMAR SANTOS",
+  "min": 75,
+  "group": "positive"
+ },
+ {
+  "name": "EDILEUSA OLIVEIRA",
+  "min": 75,
+  "group": "positive"
+ },
+ {
+  "name": "DASILVA THIAGO",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "TEIXEIRA ANA PAULA",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "NASCIMENTO JOAO PEDRO JUNIOR",
+  "min": 85,
+  "group": "positive"
+ },
+ {
+  "name": "MORAES RENATO LUIZ DE ALMEIDA JUNIOR",
+  "min": 70,
+  "group": "positive"
+ },
+ {
+  "name": "GARCIA DA SILVA JOSE",
+  "min": 55,
+  "group": "positive"
+ },
+ {
+  "name": "DA COSTA MARIA",
+  "min": 65,
+  "group": "positive"
+ },
+ {
+  "name": "COSTA ANA PAULA",
+  "min": 65,
+  "group": "positive"
+ },
+ {
+  "name": "DOS REIS JOAO",
+  "min": 70,
+  "group": "positive"
+ },
+ {
+  "name": "WANDERLEI SILVA",
+  "min": 70,
+  "group": "positive"
+ },
+ {
+  "name": "ROSANGELA DOS SANTOS",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "GIVANILDO PEREIRA",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "GENIVALDO DA SILVA FERREIRA JUNIOR",
+  "min": 85,
+  "group": "positive"
+ },
+ {
+  "name": "FERREIRA GUSTAVO",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "DE OLIVEIRA LUCIANO MARCOS",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "FERREIRA GUSTAVO ETAL",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "DASILVA THIAGO TRUST",
+  "min": 80,
+  "group": "positive"
+ },
+ {
+  "name": "NETO JOSE A",
+  "min": 50,
+  "group": "positive"
+ },
+ {
+  "name": "DIAS SOARES HUDSON",
+  "min": 50,
+  "group": "positive"
+ },
+ {
+  "name": "COELHO ABELAR P",
+  "min": 60,
+  "group": "positive"
+ },
+ {
+  "name1": "NUNES SILVA ITALO EMANUEL",
+  "name2": "ALMEIDA PEREIRA LUCIA FERNANDA",
+  "min": 85,
+  "group": "record_positive"
+ },
+ {
+  "name1": "CORDEIRO DA SILVA ALEXANDRE JOSE",
+  "name2": "ALMEIDA DA SILVA DEBORA FERNANDES",
+  "min": 90,
+  "group": "record_positive"
+ },
+ {
+  "name1": "DE OLIVEIRA LUCIANO MARCOS",
+  "name2": "FERREIRA JULIANA",
+  "min": 90,
+  "group": "record_positive"
+ },
+ {
+  "name": "SMITH JOHN",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "JOHNSON MICHAEL",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "WILLIAMS JENNIFER",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "HERNANDEZ JUAN CARLOS",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "GONZALEZ MARIA DE LOS ANGELES",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "MARTINEZ GUADALUPE",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "GARCIA MARIA",
+  "max": 20,
+  "group": "negative"
+ },
+ {
+  "name": "RODRIGUEZ MARIA",
+  "max": 15,
+  "group": "negative"
+ },
+ {
+  "name": "DE LOS SANTOS MARIA",
+  "max": 25,
+  "group": "negative"
+ },
+ {
+  "name": "SANTOS DE LA CRUZ MARIA",
+  "max": 25,
+  "group": "negative"
+ },
+ {
+  "name": "ACOSTA MARIA",
+  "max": 25,
+  "group": "negative"
+ },
+ {
+  "name": "SILVA PROPERTIES LLC",
+  "max": 5,
+  "group": "negative"
+ },
+ {
+  "name": "SANTOS AND GALVAO LLC",
+  "max": 5,
+  "group": "negative"
+ },
+ {
+  "name": "PORTO ORLANDO LLC",
+  "max": 5,
+  "group": "negative"
+ },
+ {
+  "name": "FERRARO-SMITH MARIA LIFE ESTATE",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "REM: THE MARIA FERRARO-SMITH TRUST",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "SEARS LEE HUTTON JR",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "DAVIS PAUL R JR",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "ANDERSON MARK R TR",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "GONZALEZ ALEJANDRO",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "DE LOS SANTOS RAUL EDUARDO",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "DE LOS ANGELES SANTOS RIVERA CARMEN",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "SILVA JAVIER",
+  "max": 15,
+  "group": "negative"
+ },
+ {
+  "name": "SILVA RIVERA MARGARITA",
+  "max": 15,
+  "group": "negative"
+ },
+ {
+  "name": "ENCARNACION SANTOS ELENA",
+  "max": 10,
+  "group": "negative"
+ },
+ {
+  "name": "CRUZ MATEO ECHEVARRIA",
+  "max": 15,
+  "group": "negative"
+ },
+ {
+  "name": "SOSA SANTIAGO",
+  "max": 15,
+  "group": "negative"
+ },
+ {
+  "name": "RODRIGUEZ CHAVES ISABELA",
+  "max": 15,
+  "group": "negative"
+ },
+ {
+  "name1": "MOLINA DE LOS SANTOS RAUL EDUARDO",
+  "name2": "SOTO MEJIA YAMILET",
+  "max": 10,
+  "group": "record_negative"
+ },
+ {
+  "name": "SILVA JOHN",
+  "min": 15,
+  "max": 35,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "JOHN SILVA",
+  "min": 15,
+  "max": 40,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "SANTOS JOHN",
+  "min": 15,
+  "max": 35,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "JOHN SANTOS",
+  "min": 15,
+  "max": 40,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "COSTA JOHN",
+  "max": 35,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "MARTINS JOHN",
+  "min": 15,
+  "max": 35,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "OLIVEIRA MICHAEL",
+  "min": 15,
+  "max": 40,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "SILVA JENNIFER",
+  "min": 15,
+  "max": 35,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "SOUZA ROBERT",
+  "min": 15,
+  "max": 35,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "PEREIRA WILLIAM",
+  "min": 15,
+  "max": 35,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "FERNANDES BASIL G",
+  "min": 15,
+  "max": 40,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "COSTA ROBERT",
+  "max": 35,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "DESOUZA JOHN",
+  "min": 30,
+  "max": 49,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "DEOLIVEIRA MICHAEL",
+  "min": 30,
+  "max": 49,
+  "group": "surname_origin_lead"
+ },
+ {
+  "name": "MARIA JOSE",
+  "max": 20,
+  "group": "ambiguous_low"
+ },
+ {
+  "name": "JOAO",
+  "min": 15,
+  "max": 30,
+  "group": "ambiguous_low"
+ },
+ {
+  "name": "MARIA",
+  "max": 10,
+  "group": "ambiguous_low"
+ },
+ {
+  "name": "JOHN",
+  "max": 10,
+  "group": "ambiguous_low"
+ },
+ {
+  "name": "SILVA TAINA DE",
+  "min": 15,
+  "max": 49,
+  "group": "ambiguous_low"
+ },
+ {
+  "name": "GARCIA JOHN",
+  "max": 10,
+  "group": "hard_negative"
+ },
+ {
+  "name": "JOHN GARCIA",
+  "max": 15,
+  "group": "hard_negative"
+ },
+ {
+  "name": "RODRIGUEZ JOHN",
+  "max": 10,
+  "group": "hard_negative"
+ },
+ {
+  "name": "PACHECO YARELIS",
+  "max": 49,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "FONSECA YADIRA",
+  "max": 49,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "PAULINO ALBERTO",
+  "max": 60,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "MATOS ELENA",
+  "max": 30,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "SANTOS VAZQUEZ RAFAEL",
+  "max": 40,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "BRITO JIMENEZ ESTEBAN",
+  "max": 40,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "ESQUIVEL GOMEZ ERNESTO",
+  "max": 20,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "GOMEZ NEGRON CARMEN ELENA",
+  "max": 15,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "RAMOS RIVERA JOSE",
+  "max": 30,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "GOMEZ JUAN SEBASTIAN",
+  "max": 15,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "RAMIREZ PEDRO ENRIQUE",
+  "max": 45,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "BATISTA FIGUEROA IRMA",
+  "max": 40,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "SANTANA JUAN",
+  "max": 30,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "CABRERA ROSA",
+  "max": 49,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "PACHECO",
+  "max": 49,
+  "group": "bare_surname"
+ },
+ {
+  "name": "MATOS",
+  "max": 49,
+  "group": "bare_surname"
+ },
+ {
+  "name": "SANTOS",
+  "max": 60,
+  "group": "bare_surname"
+ },
+ {
+  "name": "FONSECA",
+  "max": 49,
+  "group": "bare_surname"
+ },
+ {
+  "name1": "GOMEZ JAVIER P",
+  "name2": "PACHECO YARELIS",
+  "max": 49,
+  "group": "record_hispanic_coowner"
+ },
+ {
+  "name1": "PAULINO ALBERTO",
+  "name2": "GOMEZ MERIDA",
+  "max": 60,
+  "group": "record_hispanic_coowner"
+ },
+ {
+  "name1": "FONSECA YADIRA",
+  "name2": "GOMEZ ULYSSES FERNANDO",
+  "max": 49,
+  "group": "record_hispanic_coowner"
+ },
+ {
+  "name1": "SANTOS VAZQUEZ RAFAEL",
+  "name2": "GOMEZ NEGRON CARMEN ELENA",
+  "max": 40,
+  "group": "record_hispanic_coowner"
+ },
+ {
+  "name1": "SANTOS MARIANA",
+  "name2": "GONZALEZ SANCHEZ PEDRO JUAN III",
+  "max": 60,
+  "group": "record_hispanic_coowner"
+ },
+ {
+  "name1": "MATOS JUAN S",
+  "name2": "MATOS SELENIA",
+  "max": 40,
+  "group": "record_hispanic_coowner"
+ },
+ {
+  "name1": "MOREIRA JAVIER",
+  "name2": "MOREIRA KAREN",
+  "max": 49,
+  "group": "record_hispanic_coowner"
+ },
+ {
+  "name1": "MARTINEZ JUAN",
+  "name2": "DA SILVA KARINA",
+  "min": 40,
+  "max": 69,
+  "group": "record_mixed_couple"
+ },
+ {
+  "name": "SANTOS THIAGO HENRIQUE",
+  "min": 70,
+  "group": "shared_surname_br_given"
+ },
+ {
+  "name": "MATOS ROSANGELA DOS SANTOS",
+  "min": 70,
+  "group": "shared_surname_br_given"
+ },
+ {
+  "name": "BATISTA JOAO PEDRO",
+  "min": 70,
+  "group": "shared_surname_br_given"
+ },
+ {
+  "name": "FONSECA THIAGO",
+  "min": 70,
+  "group": "shared_surname_br_given"
+ },
+ {
+  "name": "DOS SANTOS MOREIRA LUIS CARLOS",
+  "min": 70,
+  "group": "shared_surname_br_given"
+ },
+ {
+  "name": "WANG MEILING",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "LIU WEI-MIN",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "SINGH AMANDEEP",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "GAUTAM RAHUL",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "WADE P A",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "VAN DER MEER THEO",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "HODGES MCGILL JR",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "CITY OF ORLANDO",
+  "max": 0,
+  "group": "ood_negative"
+ },
+ {
+  "name": "TOH LILIAN",
+  "max": 49,
+  "group": "ood_negative"
+ },
+ {
+  "name": "DESROSIERS MARIE D",
+  "max": 49,
+  "group": "ood_negative"
+ },
+ {
+  "name": "BASTIEN CELESTIN CARINE",
+  "max": 49,
+  "group": "ood_negative"
+ },
+ {
+  "name": "HENSLEY MARISA E",
+  "max": 49,
+  "group": "ood_negative"
+ },
+ {
+  "name": "COSTA EDERSON PASSARELI",
+  "min": 40,
+  "group": "positive_guard"
+ },
+ {
+  "name": "WANG RUI",
+  "max": 49,
+  "group": "ood_negative"
+ },
+ {
+  "name": "VU DUC",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "DUGGI RAVI KUMAR",
+  "max": 14,
+  "group": "ood_negative"
+ },
+ {
+  "name": "LEON REINALDO",
+  "max": 30,
+  "group": "ood_negative"
+ },
+ {
+  "name1": "STILES WILLIAM B TR",
+  "name2": "DOWNEY MARCIA TR",
+  "max": 49,
+  "group": "ood_negative"
+ },
+ {
+  "name": "SANTIAGO ARMANDO",
+  "max": 49,
+  "group": "hispanic_contamination"
+ },
+ {
+  "name": "KHORASANI FAMILY TRUST",
+  "max": 49,
+  "group": "ood_negative"
+ },
+ {
+  "name": "VAN NESS FAMILY TRUST",
+  "max": 49,
+  "group": "ood_negative"
+ },
+ {
+  "name": "PAPADOPOULOS STELLA",
+  "max": 49,
+  "group": "ood_negative"
+ }
+]

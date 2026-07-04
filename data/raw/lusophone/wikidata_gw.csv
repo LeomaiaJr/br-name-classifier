@@ -1,0 +1,669 @@
+# source_url: https://query.wikidata.org/sparql
+# license: CC0
+# country_qid: Q1007
+# note: WDQS label corpus; given/family fields blank when property joins time out
+qid,label,given_name,family_name,country,country_class
+Q97860448,Fernando Vaz,,,gw,palop_other
+Q98399077,Paulo Mendonça,,,gw,palop_other
+Q97597769,Cadí Seidi,,,gw,palop_other
+Q97609849,Malam Sambú,,,gw,palop_other
+Q97626860,Issufo Baldé,,,gw,palop_other
+Q97656390,Bilony Nhassé,,,gw,palop_other
+Q97656345,Fernando Delfim da Silva,,,gw,palop_other
+Q97656384,Degol Mendes,,,gw,palop_other
+Q97656523,Domingos Malú,,,gw,palop_other
+Q97656656,Eduardo Costa Sanhá,,,gw,palop_other
+Q97656689,Marcelino Simões Lopes Cabral,,,gw,palop_other
+Q97670952,Biaguê Na N’ Tan,,,gw,palop_other
+Q97670983,Mário Lopes da Rosa,,,gw,palop_other
+Q97703780,Hélder Vaz Lopes,,,gw,palop_other
+Q97736514,António Óscar Barbosa,,,gw,palop_other
+Q97736519,Barros Bacar Banjai,,,gw,palop_other
+Q97736538,Higino Lopes Cardoso,,,gw,palop_other
+Q97796057,Carlitos Barai,,,gw,palop_other
+Q98138951,Nicandro Pereira Barreto,,,gw,palop_other
+Q98398949,João Gomes Cardoso,,,gw,palop_other
+Q98398970,Serifo Baldé,,,gw,palop_other
+Q98399199,João Tátis Sá,,,gw,palop_other
+Q97670958,Daniel Gomes,,,gw,palop_other
+Q97597766,Osvaldo Abreu,,,gw,palop_other
+Q104932979,Joao Johanning,,,gw,palop_other
+Q105103721,Simão Júnior,,,gw,palop_other
+Q105448242,Patrícia Godinho Gomes,,,gw,palop_other
+Q105546440,Vicente Fernandes,,,gw,palop_other
+Q105716968,Aia Nalé,,,gw,palop_other
+Q105716970,Diana Barreto,,,gw,palop_other
+Q105716969,Ires Cabral,,,gw,palop_other
+Q105718477,Bimba Cabral,,,gw,palop_other
+Q105956320,Vando Félix,,,gw,palop_other
+Q98399205,Abubacar Baldé,,,gw,palop_other
+Q98399227,Bubacar Rachid Djaló,,,gw,palop_other
+Q98399247,Joaquim Baldé,,,gw,palop_other
+Q98399218,Salvador Tchongó,,,gw,palop_other
+Q98399822,Domingos Fernandes Gomes,,,gw,palop_other
+Q98399865,François Kankoila Mendy,,,gw,palop_other
+Q98609856,Adon Gomis,,,gw,palop_other
+Q98768684,Sana Canté,,,gw,palop_other
+Q98803994,Henrique Horta dos Santos,,,gw,palop_other
+Q98807592,Filomena Embaló,,,gw,palop_other
+Q98834422,Romão dos Santos,,,gw,palop_other
+Q100767164,Seco Camara,,,gw,palop_other
+Q100873289,Catarina Taborda,,,gw,palop_other
+Q104760680,Mamadi Camará,,,gw,palop_other
+Q57424,Manuel Serifo Nhamadjo,,,gw,palop_other
+Q57718,Carlos Gomes Júnior,,,gw,palop_other
+Q58164,Adiato Djaló Nandigna,,,gw,palop_other
+Q114556141,Martina Moniz,,,gw,palop_other
+Q114556442,Tcherno Djaló,,,gw,palop_other
+Q114980925,Alassan Gutiérrez,,,gw,palop_other
+Q115173057,Luizinho da Silva,,,gw,palop_other
+Q115331110,Quicala Bari,,,gw,palop_other
+Q116978384,Umaro Baldé,,,gw,palop_other
+Q116621682,Nito Gomes,,,gw,palop_other
+Q117087966,Manuel Pami,,,gw,palop_other
+Q117090001,Bruno Ramírez,,,gw,palop_other
+Q117816181,Serif Nhaga,,,gw,palop_other
+Q117846480,Marciano Tchami,,,gw,palop_other
+Q118465059,Armando Cabral,,,gw,palop_other
+Q118906961,Carlos Augusto Schwarz da Silva,,,gw,palop_other
+Q119173679,Dinisia Reis Embaló,,,gw,palop_other
+Q119553513,Lola Pendande,,,gw,palop_other
+Q176413,Carlos Correia,,,gw,palop_other
+Q123000,Martinho Ndafa Kabi,,,gw,palop_other
+Q142540,Faustino Imbali,,,gw,palop_other
+Q166241,K. C. Rivers,,,gw,palop_other
+Q6847384,Mike James,,,gw,palop_other
+Q6745182,Malá,,,gw,palop_other
+Q6745389,Mamadu Saliu Djaló Pires,,,gw,palop_other
+Q6761700,Maria do Céu Monteiro,,,gw,palop_other
+Q6891337,Mohamed Lamine Sanha,,,gw,palop_other
+Q7197539,Piqueti Djassi Brito Silva,,,gw,palop_other
+Q7359586,Rogério Araújo Adolfo Herbert,,,gw,palop_other
+Q97140627,Wasna Papai Danfa,,,gw,palop_other
+Q97167836,Sandji Fati,,,gw,palop_other
+Q97275267,Victor Gomes Pereira,,,gw,palop_other
+Q97343212,Abdu Mané,,,gw,palop_other
+Q97570576,Daniel Suleimane Embaló,,,gw,palop_other
+Q97570597,Nicolau dos Santos,,,gw,palop_other
+Q16232572,Rachide Forbes,,,gw,palop_other
+Q16234976,Sambinha,,,gw,palop_other
+Q16235034,Vladimir Soares Forbs,,,gw,palop_other
+Q16235132,Pavel Vieira,,,gw,palop_other
+Q16235439,Hemiliano Gomes Lopes,,,gw,palop_other
+Q16235633,Formose Mendy,,,gw,palop_other
+Q16236712,Marlon Costa,,,gw,palop_other
+Q16382949,Idrissa Camará,,,gw,palop_other
+Q131291007,Iafai Camará,,,gw,palop_other
+Q131449313,Adramane Cassamá,,,gw,palop_other
+Q131531646,Usalifa José Indi,,,gw,palop_other
+Q131754838,João Pereira Albertine,,,gw,palop_other
+Q132657076,Emílio Tavares Lima,,,gw,palop_other
+Q133202912,Víctor Luís Quematcha,,,gw,palop_other
+Q13563911,Colton Iverson,,,gw,palop_other
+Q15303418,Gerso Fernandes,,,gw,palop_other
+Q16105075,António Baticã Ferreira,,,gw,palop_other
+Q16147659,Lamine Bá,,,gw,palop_other
+Q16216050,Leopoldina Ross,,,gw,palop_other
+Q286130,Henrique Rosa,,,gw,palop_other
+Q311443,Luís Cabral,,,gw,palop_other
+Q314538,Raimundo Pereira,,,gw,palop_other
+Q135910765,Fernando Fortes,,,gw,palop_other
+Q136211892,Edson Silva,,,gw,palop_other
+Q136908399,Justino Delgado,,,gw,palop_other
+Q135910735,Daniel Ferreira,,,gw,palop_other
+Q135910767,Gabriela Fernandes,,,gw,palop_other
+Q135910730,Augusto Viegas,,,gw,palop_other
+Q135910748,Luís Melo,,,gw,palop_other
+Q135910770,Lucio Soares,,,gw,palop_other
+Q135910731,Brum Sitna Namone,,,gw,palop_other
+Q135910728,Armando Ramos da Silva,,,gw,palop_other
+Q135910729,Armando Tchoba dos Santos,,,gw,palop_other
+Q135910732,Buota Na Batcha,,,gw,palop_other
+Q135910733,Carlos Agosto Soares,,,gw,palop_other
+Q135910738,Fátima Faty,,,gw,palop_other
+Q135910739,Fernando Correia Landim,,,gw,palop_other
+Q135910736,Dauda Sow,,,gw,palop_other
+Q135910737,Denis Cabelol Na Fantchamna,,,gw,palop_other
+Q135910742,Isabel Mendes Correia Buscardini,,,gw,palop_other
+Q135910743,Issufo Sanha,,,gw,palop_other
+Q135910740,Furtado Delfim da Silva,,,gw,palop_other
+Q135910746,Joaquim Namone,,,gw,palop_other
+Q135910747,Luis Anibal Vaz Fernandes,,,gw,palop_other
+Q135910744,Joao Amadu Fadia,,,gw,palop_other
+Q135910745,Joaquim Mumine Embaló,,,gw,palop_other
+Q135910750,Mamai Barbosa,,,gw,palop_other
+Q135910751,Manuel Cabral,,,gw,palop_other
+Q135910749,Mamadu Badji,,,gw,palop_other
+Q135910752,Maria Celina Vieira Tavares,,,gw,palop_other
+Q135910755,Oscar Balde,,,gw,palop_other
+Q135910753,Octávio Inocêncio Alves,,,gw,palop_other
+Q135910758,Pinho Brandao,,,gw,palop_other
+Q135910759,Purna Bia,,,gw,palop_other
+Q135910756,Otto Schacht,,,gw,palop_other
+Q135910757,Pedro Morato Milaco,,,gw,palop_other
+Q135910766,Francisco Jose Fernando Junior,,,gw,palop_other
+Q135910771,Maria de Lurdes Vaz,,,gw,palop_other
+Q135910768,Jose Antonio da Cruz Almeida,,,gw,palop_other
+Q135910769,Jose de Pina,,,gw,palop_other
+Q135910774,Sola N’Quilin na Bitchita,,,gw,palop_other
+Q135910772,Maria Evarista de Sousa,,,gw,palop_other
+Q135910775,Tibna Sambe Na Wana,,,gw,palop_other
+Q135910773,Maria Inácia Có Sanhá,,,gw,palop_other
+Q135910776,Tomas Gomes Barbosa,,,gw,palop_other
+Q135976471,Mariana Marques Ribeiro,,,gw,palop_other
+Q135984232,Dai Baldé,,,gw,palop_other
+Q135987389,Elydjah Mendy,,,gw,palop_other
+Q136381375,Beila Unjanqui,,,gw,palop_other
+Q136452793,Yovanka Perdigão,,,gw,palop_other
+Q136458171,Marculino Ninte,,,gw,palop_other
+Q136768520,Maria Justado Souto Amado,,,gw,palop_other
+Q136768650,Djucu Dabó,,,gw,palop_other
+Q136768949,Rita Ié,,,gw,palop_other
+Q136769023,Amadú Dafé,,,gw,palop_other
+Q136769112,Sumaila Jaló,,,gw,palop_other
+Q136769214,Abdelaziz Vera Cruz,,,gw,palop_other
+Q136908199,Ector Diógenes Cassamá,,,gw,palop_other
+Q136908340,Ivan Barbosa,,,gw,palop_other
+Q137040520,Denis N'Canha,,,gw,palop_other
+Q106164,João Bernardo Vieira,,,gw,palop_other
+Q116570,Rémi Gomis,,,gw,palop_other
+Q551585,Aristides Gomes,,,gw,palop_other
+Q570433,Ansumane Mané,,,gw,palop_other
+Q627337,Rui Duarte de Barros,,,gw,palop_other
+Q30122377,Bambo,,,gw,palop_other
+Q29221159,Benvindo Moreno,,,gw,palop_other
+Q29452643,Jorge Correia Reixa,,,gw,palop_other
+Q29511105,Forbs,,,gw,palop_other
+Q29913347,Cadi Mané,,,gw,palop_other
+Q30034632,Braima Candé,,,gw,palop_other
+Q30230533,Mbunde Cumba Mbali,,,gw,palop_other
+Q30320323,Houboulang Mendes,,,gw,palop_other
+Q30345193,Mario Mamadou Touré,,,gw,palop_other
+Q63579292,José Araújo,,,gw,palop_other
+Q60171946,Crispina Peres,,,gw,palop_other
+Q61666588,Carmelita Pires,,,gw,palop_other
+Q61791438,Miguel de Barros,,,gw,palop_other
+Q64358836,Carlos António Moreno,,,gw,palop_other
+Q64747505,Toti Gomes,,,gw,palop_other
+Q66743376,Ansu Fati,,,gw,palop_other
+Q139820259,Fernando Cabral,,,gw,palop_other
+Q139820531,Fernando Cabral,,,gw,palop_other
+Q137855254,Carlos Cardoso,,,gw,palop_other
+Q137049690,Horta Inta-A Na Man,,,gw,palop_other
+Q137274600,Domingas Samy,,,gw,palop_other
+Q137395990,Katiúscia Yasmira Pires Dias,,,gw,palop_other
+Q137884258,Winston Tang,,,gw,palop_other
+Q138390950,Issuf Sanhá,,,gw,palop_other
+Q138391170,Augusto Ussumane So,,,gw,palop_other
+Q138391273,Victor Freire Monteiro,,,gw,palop_other
+Q139248868,Liovalia Lopes,,,gw,palop_other
+Q135910650,Francisco Dias,,,gw,palop_other
+Q135910635,Carlos Costa,,,gw,palop_other
+Q135910691,Paulo Correia,,,gw,palop_other
+Q135910692,Paulo Silva,,,gw,palop_other
+Q135910693,Pedro da Costa,,,gw,palop_other
+Q135910671,Magda Nely Robalo Silva,,,gw,palop_other
+Q135910698,Rui Barreto,,,gw,palop_other
+Q135910677,Manuel Dos Santos,,,gw,palop_other
+Q135910640,Eduardo Fernandes,,,gw,palop_other
+Q135910626,Armando Ramos,,,gw,palop_other
+Q135910612,Agostinho Cá,,,gw,palop_other
+Q135910638,Carlos Sousa,,,gw,palop_other
+Q135910659,Joao Cardoso,,,gw,palop_other
+Q135910618,Alfredo Gomes,,,gw,palop_other
+Q135910607,Abubacar Demba Dahaba,,,gw,palop_other
+Q135910610,Adelino Tchuda,,,gw,palop_other
+Q135910611,Admiro Nelson Belo,,,gw,palop_other
+Q135910608,Adelina na Tamba,,,gw,palop_other
+Q135910609,Adelino Nunes Correia,,,gw,palop_other
+Q135910614,Alberto Lima Gomes,,,gw,palop_other
+Q135910615,Alexandre Furtado,,,gw,palop_other
+Q135910613,Aida Injai Fernandes,,,gw,palop_other
+Q135910619,Amaro Correira,,,gw,palop_other
+Q135910616,Alexandre Nunes Correia,,,gw,palop_other
+Q135910617,Alfredo António Silva,,,gw,palop_other
+Q135910622,António Suca Intchama,,,gw,palop_other
+Q135910620,Antonia da Cunha Cumba Dias,,,gw,palop_other
+Q135910623,Arafan Mane,,,gw,palop_other
+Q135910621,António Serifo Balde,,,gw,palop_other
+Q135910627,Avito Jose da Silva,,,gw,palop_other
+Q135910624,Arceni Abdulai Djibrilo Balde,,,gw,palop_other
+Q135910625,Armando Napock,,,gw,palop_other
+Q135910630,Braima Djassi,,,gw,palop_other
+Q135910628,Baptista Té,,,gw,palop_other
+Q135910629,Brahima Bangura,,,gw,palop_other
+Q135910634,Carlos Alberto Kenedy de Barros,,,gw,palop_other
+Q135910632,Braima Embalo,,,gw,palop_other
+Q135910633,Brando Gomes Co,,,gw,palop_other
+Q135910639,Celestino de Carvalho,,,gw,palop_other
+Q135910636,Carlos Joaquim Vamain,,,gw,palop_other
+Q135910637,Carlos Mussa Baldé,,,gw,palop_other
+Q135910642,Ernesto Carvalho,,,gw,palop_other
+Q135910643,Ester Fernandes,,,gw,palop_other
+Q135910641,Epifânio Carvalho de Melo,,,gw,palop_other
+Q135910646,Filinto Vaz Martins,,,gw,palop_other
+Q135910647,Filomena Lopes,,,gw,palop_other
+Q135910644,Eugénia Saldanha Araújo,,,gw,palop_other
+Q135910645,Fatima Barbosa,,,gw,palop_other
+Q135910651,Francisco Fadoul,,,gw,palop_other
+Q135910648,Filomeno Lobo de Pina,,,gw,palop_other
+Q135910649,Flavio Proença,,,gw,palop_other
+Q135910654,Helena Nosolini Embaló,,,gw,palop_other
+Q135910652,Galde Balde,,,gw,palop_other
+Q135910655,Herry Mané,,,gw,palop_other
+Q135910653,Gino Mendes,,,gw,palop_other
+Q135910658,João Aníbal Pereira,,,gw,palop_other
+Q135910656,Ibrahim Sow,,,gw,palop_other
+Q135910657,Ibrahima Sory Djalo,,,gw,palop_other
+Q135910662,Joao de Carvalho,,,gw,palop_other
+Q135910663,Joao Jose Silva Monteiro,,,gw,palop_other
+Q135910660,Joao Cruz Pinto,,,gw,palop_other
+Q135910661,Joao da Costa,,,gw,palop_other
+Q135910666,Joseph Turpin,,,gw,palop_other
+Q135910667,Julio Balde,,,gw,palop_other
+Q135910664,José Gaspar Gomes Fernandes,,,gw,palop_other
+Q135910670,Luis Oliveira Sanca,,,gw,palop_other
+Q135910668,Justino Fadia,,,gw,palop_other
+Q135910669,Lassana Seidi,,,gw,palop_other
+Q135910674,Malam Djalo Pires Sanha,,,gw,palop_other
+Q135910675,Malam Jaura,,,gw,palop_other
+Q135910672,Malal Sane,,,gw,palop_other
+Q135910673,Malam Banjai,,,gw,palop_other
+Q135910678,Manuel Mane,,,gw,palop_other
+Q135910679,Manuel Nandigna,,,gw,palop_other
+Q135910682,Mariama Biague,,,gw,palop_other
+Q135910680,Manuel Rabout Barcelos,,,gw,palop_other
+Q135910683,Mario Mendes,,,gw,palop_other
+Q135910681,Marcelino Vaz,,,gw,palop_other
+Q135910686,Mutaro Djalo,,,gw,palop_other
+Q135910687,Nharebat Nancaia Intchasso,,,gw,palop_other
+Q135910684,Musa Djassi,,,gw,palop_other
+Q135910685,Mussa Samati,,,gw,palop_other
+Q135910690,Paulo Carlos Medina,,,gw,palop_other
+Q135910688,Pascoal Domingos Batica,,,gw,palop_other
+Q135910694,Pedro Godinho Gomes,,,gw,palop_other
+Q135910699,Rui Nene Djata,,,gw,palop_other
+Q135910696,Respício Nunes,,,gw,palop_other
+Q135910697,Rui Araújo Gomes,,,gw,palop_other
+Q135910702,Usna Quade,,,gw,palop_other
+Q135910700,Samuel Diniz,,,gw,palop_other
+Q135910703,Vasco Salvador Correia,,,gw,palop_other
+Q135910701,Silvestre Alves,,,gw,palop_other
+Q135910706,Vitor Freire Monteiro,,,gw,palop_other
+Q135910707,Zeca Martins,,,gw,palop_other
+Q135910704,Vicente Blute,,,gw,palop_other
+Q135910705,Vicente Pungura,,,gw,palop_other
+Q135910726,Antonio Bamba,,,gw,palop_other
+Q135910725,Antonia Mendes Teixeira,,,gw,palop_other
+Q135910665,Jose Pereira,,,gw,palop_other
+Q653639,Basile de Carvalho,,,gw,palop_other
+Q714815,Artur Sanhá,,,gw,palop_other
+Q715042,Veríssimo Correia Seabra,,,gw,palop_other
+Q728356,Batista Tagme Na Waie,,,gw,palop_other
+Q106088233,Mauro Rodrigues,,,gw,palop_other
+Q106122193,Justino Delgado,,,gw,palop_other
+Q106455898,Umaru Djalo,,,gw,palop_other
+Q106538032,Tcham Na Man,,,gw,palop_other
+Q106548292,Viriato Soares Cassamá,,,gw,palop_other
+Q106781826,Caiser Sergio Gomes,,,gw,palop_other
+Q107586319,Sidney Correia,,,gw,palop_other
+Q107767347,Papu Mendes,,,gw,palop_other
+Q107987258,Roger Fernandes,,,gw,palop_other
+Q108172502,Tiago Aleluia Lopes,,,gw,palop_other
+Q108254720,Célestino Iala,,,gw,palop_other
+Q108426407,Bernardino Cardoso,,,gw,palop_other
+Q108426405,Fidélis Cabral d'Almada,,,gw,palop_other
+Q108426406,Júlio Semedo,,,gw,palop_other
+Q108426411,João José Monteiro,,,gw,palop_other
+Q108426409,José Pereira Baptista,,,gw,palop_other
+Q108426410,Malam Mané,,,gw,palop_other
+Q108426412,Rui Dia de Sousa,,,gw,palop_other
+Q109290736,Sanussi Camará,,,gw,palop_other
+Q109590297,Iano Simão,,,gw,palop_other
+Q109809455,Augusta Henriques,,,gw,palop_other
+Q109955217,Karyna Gomes,,,gw,palop_other
+Q110064491,Isnaba Graça,,,gw,palop_other
+Q111204044,Sana Gomes,,,gw,palop_other
+Q336238,Kumba Ialá,,,gw,palop_other
+Q526497,Yannick Djaló,,,gw,palop_other
+Q20988718,Sana Na N'Hada,,,gw,palop_other
+Q21180930,Malado Reld Anido,,,gw,palop_other
+Q21181013,Ibraime Cassamá,,,gw,palop_other
+Q22005624,João Jaquité,,,gw,palop_other
+Q22697132,Fatumata Djau Baldé,,,gw,palop_other
+Q23008125,Sori Mané,,,gw,palop_other
+Q69916868,Joacine Katar Moreira,,,gw,palop_other
+Q34999495,Brampoque Serra Silva Sá,,,gw,palop_other
+Q35006558,Amadu Turé,,,gw,palop_other
+Q35083837,Alfa Semedo,,,gw,palop_other
+Q35836633,Panutche Camará,,,gw,palop_other
+Q37784256,Kenedy Có,,,gw,palop_other
+Q38460244,Opa Sanganté,,,gw,palop_other
+Q24691025,Ronaldo Vieira,,,gw,palop_other
+Q23905355,Charbel Pinto,,,gw,palop_other
+Q24049168,Obed Da Costa Walid,,,gw,palop_other
+Q111263434,Rachid Baldé,,,gw,palop_other
+Q111371236,Manuel Baldé,,,gw,palop_other
+Q111371473,Tito Júnior,,,gw,palop_other
+Q111372004,João Ricciulli,,,gw,palop_other
+Q111495746,Gisela Casimiro,,,gw,palop_other
+Q111536466,Saná Gomes,,,gw,palop_other
+Q111729757,Helena Neves Abrahamson,,,gw,palop_other
+Q112155816,Bacar Ndum,,,gw,palop_other
+Q112208291,Umaro Baldé,,,gw,palop_other
+Q112584659,Staniel Ferreira,,,gw,palop_other
+Q112988071,Lassana Mendes,,,gw,palop_other
+Q113340030,Mariama Barbosa,,,gw,palop_other
+Q113532264,Filipe Sissé,,,gw,palop_other
+Q16738911,Atabu,,,gw,palop_other
+Q16529045,Anhel Cape,,,gw,palop_other
+Q16728590,Mamadú Iaia Djaló,,,gw,palop_other
+Q16729045,Mutaro Embalo,,,gw,palop_other
+Q16736145,Nani Soares,,,gw,palop_other
+Q16736700,Domingos Simoes Pereira,,,gw,palop_other
+Q38460659,Toni Gomes,,,gw,palop_other
+Q39843917,Okinka Pampa,,,gw,palop_other
+Q40722829,Naby Damba,,,gw,palop_other
+Q41138583,Moreto Cassamá,,,gw,palop_other
+Q41922613,David Gomis,,,gw,palop_other
+Q42610080,Henriqueta Godinho Gomes,,,gw,palop_other
+Q10377760,Taciana Lima,,,gw,palop_other
+Q10340236,Odete Semedo,,,gw,palop_other
+Q7549853,Soares Sambú,,,gw,palop_other
+Q7634662,Sufrim Lopes,,,gw,palop_other
+Q7678956,Talata Embalo,,,gw,palop_other
+Q7821342,Toni Silva,,,gw,palop_other
+Q8065901,Zamora Induta,,,gw,palop_other
+Q113548254,Julio Dabo,,,gw,palop_other
+Q113688253,Álvaro Djaló,,,gw,palop_other
+Q114273202,Amadu Baldé,,,gw,palop_other
+Q114554675,Carlos Domingos Gomes,,,gw,palop_other
+Q114554676,Carlos Pinto Pereira,,,gw,palop_other
+Q114554677,Dionisio Cabi,,,gw,palop_other
+Q114554929,Armando Mango,,,gw,palop_other
+Q114555148,Arcenio Abdulai Jibrilo Balde,,,gw,palop_other
+Q114554678,Mamadu Saido Balde,,,gw,palop_other
+Q114554679,Namuano Dias Gomes,,,gw,palop_other
+Q114554681,Rui Sanha,,,gw,palop_other
+Q114555150,Fernando Mendonça,,,gw,palop_other
+Q114555154,Maria Celina Vieira,,,gw,palop_other
+Q114555477,Cirilo Mamasaliu Djaló,,,gw,palop_other
+Q114556064,Mário Fambé,,,gw,palop_other
+Q10551630,Juary Soares,,,gw,palop_other
+Q11819251,Placida Mirolho,,,gw,palop_other
+Q11921813,Fernando Manuel Có,,,gw,palop_other
+Q12309340,Edigeison Gomes,,,gw,palop_other
+Q13548473,Aladje,,,gw,palop_other
+Q16738973,Ibraima So,,,gw,palop_other
+Q16755842,Leonel Ucha,,,gw,palop_other
+Q16855164,Umaro Sissoco Embaló,,,gw,palop_other
+Q24956127,Quintino Intipe,,,gw,palop_other
+Q25039662,Daniel Fernandes Jaló,,,gw,palop_other
+Q25711334,Admonio Vicente Gomes,,,gw,palop_other
+Q26130117,Agostinho Soares,,,gw,palop_other
+Q26207471,Eliseu Cassamá,,,gw,palop_other
+Q26251732,Domingos Quina,,,gw,palop_other
+Q26263626,Jessica Inchude,,,gw,palop_other
+Q16908893,José Mário Vaz,,,gw,palop_other
+Q16914022,Mama Samba Baldé,,,gw,palop_other
+Q17022960,Zinha Vaz,,,gw,palop_other
+Q17279885,Nenè Nhaga Bissoli,,,gw,palop_other
+Q2843291,Amido Baldé,,,gw,palop_other
+Q2878132,Bacari Djaló,,,gw,palop_other
+Q3028740,Dionísio Fernandes Mendes,,,gw,palop_other
+Q3075113,Folly Bah Thibault,,,gw,palop_other
+Q3075634,Mamadu Ture Kuruma,,,gw,palop_other
+Q3183279,Jonas Mendes,,,gw,palop_other
+Q135377731,Mariama Camara,,,gw,palop_other
+Q134088785,Ianes Augusto Cá,,,gw,palop_other
+Q134578339,Julieta Iala,,,gw,palop_other
+Q135343698,Claudia Almeida,,,gw,palop_other
+Q135343905,Baciro Camará,,,gw,palop_other
+Q135344077,Amaro Gomes Correia,,,gw,palop_other
+Q135344045,Miriam Oscar Umabano,,,gw,palop_other
+Q135344160,Lamine Dansó Banora,,,gw,palop_other
+Q135344218,Josimar Cassama,,,gw,palop_other
+Q135344716,Benvindo Alexandre Mendes,,,gw,palop_other
+Q135344503,Maianca Umabano,,,gw,palop_other
+Q135344764,Carsidalia Cristina Costa E Silva,,,gw,palop_other
+Q135344710,Emilia Ferreira,,,gw,palop_other
+Q135344604,Marlene Luzia Mendes Cassamá,,,gw,palop_other
+Q135344713,Krassimir Joao Graca Pereira,,,gw,palop_other
+Q135344786,Isaías José Insaly,,,gw,palop_other
+Q135344862,Henrique Fernando Sico,,,gw,palop_other
+Q135344985,Felicite Mendes,,,gw,palop_other
+Q135345238,Manuel Fernando Sico,,,gw,palop_other
+Q135345239,Sofia da Silva,,,gw,palop_other
+Q135375169,Alfa Indjai,,,gw,palop_other
+Q135375175,Antonio Mendes,,,gw,palop_other
+Q135375172,Braima Sambu,,,gw,palop_other
+Q135375173,Bruno Miguel Henriques Medina,,,gw,palop_other
+Q135375093,Franklin Baldé Capristano Furtado,,,gw,palop_other
+Q135375174,Danilson Marques Vieira,,,gw,palop_other
+Q135375170,José Magide Ramos,,,gw,palop_other
+Q135375171,Ronizio Lesmildo de Nascimento Nagha Baté,,,gw,palop_other
+Q135376389,Braima Queta Freire,,,gw,palop_other
+Q135377747,Alexandre Ribeiro D'Alva Teixeira,,,gw,palop_other
+Q135377736,Angélica Hisnilândia da Silva,,,gw,palop_other
+Q135377739,Aua Cassama Kane,,,gw,palop_other
+Q135377746,Ataim Henrique Nanque,,,gw,palop_other
+Q135377555,Joia Pereira Martins Lopez Da Costa,,,gw,palop_other
+Q135377734,Djuco Mané,,,gw,palop_other
+Q135377732,Djenabu Watché,,,gw,palop_other
+Q135377737,Dua Tuia,,,gw,palop_other
+Q135377730,Elizabete Antonio Gomes,,,gw,palop_other
+Q135377733,Elizabete Gomes,,,gw,palop_other
+Q135377745,Edson Ramos Batista,,,gw,palop_other
+Q135377752,Hary Victor Robalo,,,gw,palop_other
+Q135377744,John William Cabral,,,gw,palop_other
+Q135377751,João Togna,,,gw,palop_other
+Q135377743,Julinho Malam Cardoso,,,gw,palop_other
+Q135377740,Julieta Tavares Co,,,gw,palop_other
+Q135377738,Maimuna Cassama Kane,,,gw,palop_other
+Q135377749,Mamadu Ba Camara,,,gw,palop_other
+Q135377748,Moamar Fortunato de Almeida,,,gw,palop_other
+Q135377735,Noémia Passu Faria Fernandes Quade,,,gw,palop_other
+Q135377742,Sisto Martinho Mendes,,,gw,palop_other
+Q135377750,Tanunde Mohamed Keita,,,gw,palop_other
+Q135391906,Josimar Vaz Cardoso,,,gw,palop_other
+Q135394784,Renato Nhaga,,,gw,palop_other
+Q135901033,Fernando Gomez,,,gw,palop_other
+Q133284246,Valentina Mendes,,,gw,palop_other
+Q135901027,Fernando Gomés,,,gw,palop_other
+Q26405400,Maudo Jarjué,,,gw,palop_other
+Q26704553,Zé Turbo,,,gw,palop_other
+Q26857888,Antonieta Rosa Gomes,,,gw,palop_other
+Q26858532,Filomena Mascarenhas Tipote,,,gw,palop_other
+Q47527935,Artur Silva,,,gw,palop_other
+Q42948049,Hilia Barber,,,gw,palop_other
+Q43396447,Suzi Barbosa,,,gw,palop_other
+Q46932147,Umo Diallo Dieng,,,gw,palop_other
+Q50418760,Pedro Justiniano,,,gw,palop_other
+Q85860486,Diamantino Iuna Fafé,,,gw,palop_other
+Q77321991,Baltazar Cá,,,gw,palop_other
+Q78384881,Mariatu Candé,,,gw,palop_other
+Q80464129,Junior Quitirna,,,gw,palop_other
+Q82326613,Cândido Sá,,,gw,palop_other
+Q83256324,Edmilson Correia,,,gw,palop_other
+Q84150456,Joao Mota,,,gw,palop_other
+Q17385980,Grégory Gomis,,,gw,palop_other
+Q17660377,Ansumane Faty,,,gw,palop_other
+Q18205673,Emílio da Silva,,,gw,palop_other
+Q18238900,Braima Camará,,,gw,palop_other
+Q18276483,Juvencio Gomes,,,gw,palop_other
+Q18354282,Eusébio Bancessi,,,gw,palop_other
+Q18414388,Jorge Intima,,,gw,palop_other
+Q135910727,Antonio Sedja Mam,,,gw,palop_other
+Q123290104,Adja Satú Camará,,,gw,palop_other
+Q123666449,Anhá Candé,,,gw,palop_other
+Q124028985,Manuel dos Santos 'Manecas',,,gw,palop_other
+Q124157108,Saná Fernandes,,,gw,palop_other
+Q124625885,Djariatu Baldé,,,gw,palop_other
+Q124625924,Elisangela dos Santos,,,gw,palop_other
+Q124625947,Fátima Tchumá Camará,,,gw,palop_other
+Q124625932,Indira Correia Baldé,,,gw,palop_other
+Q124625880,Margarida Correia,,,gw,palop_other
+Q124628387,Pedro Rogery,,,gw,palop_other
+Q125972524,Gilberto Batista,,,gw,palop_other
+Q126069641,Yasmina Nuny,,,gw,palop_other
+Q128899332,Valdo Calocane,,,gw,palop_other
+Q126178512,Paulo Correia,,,gw,palop_other
+Q119559521,Cesaria Ambrosio,,,gw,palop_other
+Q120292985,Bartolomeu Simões Pereira,,,gw,palop_other
+Q121363993,Víctor Rofino,,,gw,palop_other
+Q121549217,Franculino Djú,,,gw,palop_other
+Q122423471,Bubacar Mané,,,gw,palop_other
+Q1025491,Caetano N'Tchama,,,gw,palop_other
+Q1128066,Constantino Teixeira,,,gw,palop_other
+Q1150826,Cícero Semedo,,,gw,palop_other
+Q767698,Bruno Fernandes,,,gw,palop_other
+Q735887,Mário Pires,,,gw,palop_other
+Q50847573,Romario Vieira,,,gw,palop_other
+Q54861154,Nimês Pina,,,gw,palop_other
+Q55079130,Augusto Trigo,,,gw,palop_other
+Q55687561,Filinto de Barros,,,gw,palop_other
+Q55956340,Jorge Braíma Nogueira,,,gw,palop_other
+Q56043282,Suleimane Baio,,,gw,palop_other
+Q56044652,Joshua Tomaić,,,gw,palop_other
+Q56224054,Carlos Mendes Gomes,,,gw,palop_other
+Q86715481,Nuno Nabiam,,,gw,palop_other
+Q86834999,Dan Ialá,,,gw,palop_other
+Q88012402,Amabélia Rodrigues,,,gw,palop_other
+Q93392946,Geraldo João Martins,,,gw,palop_other
+Q93399070,Botche Candé,,,gw,palop_other
+Q19968858,Alexandre Mendy,,,gw,palop_other
+Q18685293,Lassana Cassamá,,,gw,palop_other
+Q18822551,Baciro Candé,,,gw,palop_other
+Q19545355,Marcelo Djaló,,,gw,palop_other
+Q19576917,Janio Bikel,,,gw,palop_other
+Q19760042,João Bernardo Vieira II,,,gw,palop_other
+Q1389769,Francisco Mendes,,,gw,palop_other
+Q1362676,Francisco Fadul,,,gw,palop_other
+Q1554242,Manuel Saturnino da Costa,,,gw,palop_other
+Q1709135,José Câmnate na Bissign,,,gw,palop_other
+Q1709282,José Lampra Cà,,,gw,palop_other
+Q1185419,Bruma,,,gw,palop_other
+Q1165444,Daouda Jabi,,,gw,palop_other
+Q1304073,Alamara Nhassé,,,gw,palop_other
+Q57911625,Carlos Vaz,,,gw,palop_other
+Q56253530,Rui José Lopes,,,gw,palop_other
+Q56348871,Francisco Conduto de Pina,,,gw,palop_other
+Q56349387,Tony Tcheka,,,gw,palop_other
+Q57242391,Ankyofna Encada,,,gw,palop_other
+Q58008424,Maurice Gomis,,,gw,palop_other
+Q59180346,Jefferson Encada,,,gw,palop_other
+Q59180358,Valdu Té,,,gw,palop_other
+Q59572087,Agnelo Regalla,,,gw,palop_other
+Q60082807,João Ribeiro Butiam Có,,,gw,palop_other
+Q20028220,Fernando Arlete,,,gw,palop_other
+Q20028221,Fernando Arlete,,,gw,palop_other
+Q20641549,Eti Tavares,,,gw,palop_other
+Q20716088,Moía Mané,,,gw,palop_other
+Q20716316,Danilson Ricciuli,,,gw,palop_other
+Q20716761,Adul Seidi,,,gw,palop_other
+Q93400121,Vesã Gomes Naluak,,,gw,palop_other
+Q94695513,Ruth Monteiro,,,gw,palop_other
+Q94740529,Mamadú Serifo Jaquité,,,gw,palop_other
+Q94788251,Aristides Ocante da Silva,,,gw,palop_other
+Q94971541,Lesmes Monteiro,,,gw,palop_other
+Q95473346,Braima Dabó,,,gw,palop_other
+Q95692092,Prosper Mendy,,,gw,palop_other
+Q95714138,Serifo,,,gw,palop_other
+Q95980717,Jorge Malú,,,gw,palop_other
+Q95980780,Dautarin Monteiro da Costa,,,gw,palop_other
+Q95980893,Juliano Fernandes,,,gw,palop_other
+Q95981006,Fidélis Forbs,,,gw,palop_other
+Q96003624,Florentino Pereira,,,gw,palop_other
+Q96035159,Doménico Oliveira Sanca,,,gw,palop_other
+Q96035173,Marciano Silva Barbeiro,,,gw,palop_other
+Q96035191,Orlando Viegas,,,gw,palop_other
+Q96054805,Luís Olundo Mendes,,,gw,palop_other
+Q96064552,João Aladje Mamadu Fadia,,,gw,palop_other
+Q27062203,Francisca Pereira,,,gw,palop_other
+Q27069194,Bedopassa Buassat,,,gw,palop_other
+Q28374244,Rui Dabó,,,gw,palop_other
+Q28561452,Rafael Paula Barbosa,,,gw,palop_other
+Q28595317,Idelino Colubali,,,gw,palop_other
+Q28709558,Fátima Djarra Sani,,,gw,palop_other
+Q28726015,Joãozinho Vieira Có,,,gw,palop_other
+Q273776,Éder,,,gw,palop_other
+Q275945,Carmen Pereira,,,gw,palop_other
+Q6292355,José Gomes,,,gw,palop_other
+Q6061584,Inzaghi Donígio,,,gw,palop_other
+Q6110821,Jacira Mendonça,,,gw,palop_other
+Q6298273,João Mário Nunes Fernandes,,,gw,palop_other
+Q6410074,Kimi Djabate,,,gw,palop_other
+Q6696885,Luciano Teixeira,,,gw,palop_other
+Q3603384,Abdul Carrupt,,,gw,palop_other
+Q3603433,Abel Camará,,,gw,palop_other
+Q3607113,Ailton Pedro Mota Pereira,,,gw,palop_other
+Q3632473,Bacar Baldé,,,gw,palop_other
+Q3650898,Ednilson,,,gw,palop_other
+Q96091961,Victor Mandinga,,,gw,palop_other
+Q96096919,António Serifo Embaló,,,gw,palop_other
+Q96194829,Teodora Inácia Gomes,,,gw,palop_other
+Q96639930,Camilo Simões Pereira,,,gw,palop_other
+Q96678329,Famana Quizera,,,gw,palop_other
+Q96955117,Alberto Nambeia,,,gw,palop_other
+Q96966433,Certório Biote,,,gw,palop_other
+Q96966766,Ilídio Vieira Té,,,gw,palop_other
+Q97014254,Abel da Silva Gomes,,,gw,palop_other
+Q97014214,Fernando Dias da Costa,,,gw,palop_other
+Q97014277,Jorge Mandinga,,,gw,palop_other
+Q97118780,Nelvina Barreto,,,gw,palop_other
+Q3944920,Banjai,,,gw,palop_other
+Q4665779,Abdulai Silá,,,gw,palop_other
+Q4681978,Adelino Mano Quetá,,,gw,palop_other
+Q4681976,Adelino Lopes,,,gw,palop_other
+Q4682838,Adilson Soares Cassamá,,,gw,palop_other
+Q4685864,Adul Baldé,,,gw,palop_other
+Q4723810,Alfredo Lopes Cabral,,,gw,palop_other
+Q5483560,Francisco Júnior,,,gw,palop_other
+Q5483181,Francisco Benante,,,gw,palop_other
+Q5591572,Graciela Martins,,,gw,palop_other
+Q5641578,Buomesca Tué Na Bangna,,,gw,palop_other
+Q5984856,Ibraima Baldé,,,gw,palop_other
+Q5989750,Idrissa Djaló,,,gw,palop_other
+Q6043215,Nino Galissa,,,gw,palop_other
+Q3361436,Augusto Midana,,,gw,palop_other
+Q3284805,Mamadi Baldé,,,gw,palop_other
+Q3291098,Maria da Conceição Nobre Cabral,,,gw,palop_other
+Q3298155,Holder da Silva,,,gw,palop_other
+Q3322725,José Carlos Schwarz,,,gw,palop_other
+Q3360640,Domingas Togna,,,gw,palop_other
+Q4727379,Aliu Djaló,,,gw,palop_other
+Q4740250,Amarildo Almeida,,,gw,palop_other
+Q4776704,Antonio Indjai,,,gw,palop_other
+Q4777565,António Isaac Monteiro,,,gw,palop_other
+Q4788754,Aregado Mantenque Té,,,gw,palop_other
+Q4790983,Aristide Menezes,,,gw,palop_other
+Q4838987,Baciro Djá,,,gw,palop_other
+Q4890706,Benvindo António Moreira,,,gw,palop_other
+Q182735,Hélder Proença,,,gw,palop_other
+Q232796,Malam Bacai Sanhá,,,gw,palop_other
+Q3748302,Formose Mendy,,,gw,palop_other
+Q3731656,Eridson,,,gw,palop_other
+Q3810537,José Monteiro de Macedo,,,gw,palop_other
+Q3830286,Leocísio Sami,,,gw,palop_other
+Q3844076,Mamadu Candé,,,gw,palop_other
+Q1801340,Daniel Kenedy,,,gw,palop_other
+Q1825983,Nathan Jawai,,,gw,palop_other
+Q2041821,Baciro Dabó,,,gw,palop_other
+Q2071691,Lassana Camará,,,gw,palop_other
+Q2410087,Vasco Cabral,,,gw,palop_other
+Q2442793,Flora Gomes,,,gw,palop_other
+Q2522591,Victor Saúde Maria,,,gw,palop_other
+Q2536790,Bocundji Ca,,,gw,palop_other
+Q2791609,Zézinho,,,gw,palop_other
+Q5444734,Fernando Gomes,,,gw,palop_other
+Q5042277,Carlos Lopes,,,gw,palop_other
+Q4959047,Braíma Injai,,,gw,palop_other
+Q4982312,Bubo Na Tchuto,,,gw,palop_other
+Q5057944,Celestino Marques Silva Ilnhasse,,,gw,palop_other
+Q5121308,Cipriano Cassamá,,,gw,palop_other
+Q5263853,Desejado Lima da Costa,,,gw,palop_other
+Q5371726,Emiliano Té,,,gw,palop_other
+Q5376728,Eneida Marta,,,gw,palop_other
+Q28726076,Samba Lamine Mané,,,gw,palop_other
+Q28843015,Franklim Furtado,,,gw,palop_other
+Q28942321,Manecas Costa,,,gw,palop_other

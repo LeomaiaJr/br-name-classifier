@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+models/
+__pycache__/
+*.pyc
+*.pkl
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.DS_Store

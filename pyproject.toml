@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "br-name-classifier"
+version = "1.0.0"
+description = "ML classifier for identifying Brazilian names using census data and character n-grams"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = [
+    "scikit-learn>=1.4",
+    "pandas>=2.0",
+    "requests>=2.31",
+    "openpyxl>=3.1",
+    "xlrd>=2.0",
+    "numpy>=1.24",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+include = ["pipeline*", "tests*"]
+
+[tool.setuptools]
+py-modules = ["scorer", "config", "constants"]

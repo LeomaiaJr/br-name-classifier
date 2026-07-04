@@ -1,0 +1,616 @@
+# source_url: https://query.wikidata.org/sparql
+# license: CC0
+# country_qid: Q1011
+# note: WDQS label corpus; given/family fields blank when property joins time out
+qid,label,given_name,family_name,country,country_class
+Q103759,Cesária Évora,,,cv,cv
+Q74604,Julio Tavares,,,cv,cv
+Q58252,José Brito,,,cv,cv
+Q107431,Pedro Pires,,,cv,cv
+Q273343,Bela Duarte,,,cv,cv
+Q298609,Aristides Pereira,,,cv,cv
+Q57517,Jorge Carlos Fonseca,,,cv,cv
+Q57649,José Maria Neves,,,cv,cv
+Q16211930,Eva Pereira,,,cv,cv
+Q16210158,Denielsan Martins,,,cv,cv
+Q16210681,Sonia Lopes,,,cv,cv
+Q16212571,Lenira Santos,,,cv,cv
+Q16222113,Euclides Varela,,,cv,cv
+Q16231672,Armindo Rodrigues Mendes Furtado,,,cv,cv
+Q16233817,Ricardo Jorge Pires Gomes,,,cv,cv
+Q387172,Zé Luís,,,cv,cv
+Q349126,Lerin Duarte,,,cv,cv
+Q349513,Emerson da Luz,,,cv,cv
+Q357286,Adilson Tavares Varela,,,cv,cv
+Q327163,Gil Semedo,,,cv,cv
+Q327180,Ovídio Martins,,,cv,cv
+Q336265,Antonio Mascarenhas Monteiro,,,cv,cv
+Q17489564,Adilson Vaz,,,cv,cv
+Q17490130,Mirri Lobo,,,cv,cv
+Q17544304,António Zeferino,,,cv,cv
+Q17556339,Claude Constantino,,,cv,cv
+Q17560793,Gelson Martins,,,cv,cv
+Q500378,Carlos Veiga,,,cv,cv
+Q500385,Gualberto do Rosário,,,cv,cv
+Q548846,Baltasar Lopes da Silva,,,cv,cv
+Q554836,Teófilo Chantre,,,cv,cv
+Q23007684,Nuno da Costa,,,cv,cv
+Q23540939,Felisberto Cardoso,,,cv,cv
+Q23541080,Jamiro Monteiro,,,cv,cv
+Q23705282,Júlio César Freire de Morais,,,cv,cv
+Q1443944,Paulino do Livramento Évora,,,cv,cv
+Q1633751,Freddy dos Santos,,,cv,cv
+Q1658375,Ildo Fortes,,,cv,cv
+Q1709761,Jotamont,,,cv,cv
+Q17190299,Elizio,,,cv,cv
+Q17285552,Aires Marques,,,cv,cv
+Q17350585,Steven Fortes,,,cv,cv
+Q17466350,Kuca Miranda,,,cv,cv
+Q17484196,Jordan Larsson,,,cv,cv
+Q2699502,Fernando Varela,,,cv,cv
+Q2679968,Gégé,,,cv,cv
+Q2636281,Manuel Lopes,,,cv,cv
+Q2654702,Arlindo Gomes Furtado,,,cv,cv
+Q387722,Josimar Lima,,,cv,cv
+Q431170,Hernâni Borges,,,cv,cv
+Q445463,Mayra Andrade,,,cv,cv
+Q486879,Ildo Lobo,,,cv,cv
+Q18243135,Celina Pereira,,,cv,cv
+Q17579869,Ballack,,,cv,cv
+Q17708723,Kisley,,,cv,cv
+Q17859786,Thierry Graça,,,cv,cv
+Q18011163,Christopher Martins,,,cv,cv
+Q120987084,João Silva,,,cv,cv
+Q117705977,Paulo Soares,,,cv,cv
+Q116973665,Suzana Barros,,,cv,cv
+Q119883227,Lixa,,,cv,cv
+Q117744487,Filomena Fortes,,,cv,cv
+Q118179936,Jorginho Soares,,,cv,cv
+Q119024684,Artemisa Ferreira,,,cv,cv
+Q120913699,EU.CLIDES,,,cv,cv
+Q121307688,Eliezer Soares,,,cv,cv
+Q121361653,Renato Soares,,,cv,cv
+Q121437938,Jordan Semedo,,,cv,cv
+Q121907216,Hélio Varela,,,cv,cv
+Q121908120,Samuel Freire,,,cv,cv
+Q108404893,Anderson Correia,,,cv,cv
+Q108746603,Janine Lélis,,,cv,cv
+Q108771056,Abraão Vicente,,,cv,cv
+Q108782778,Arlindo Nascimento do Rosário,,,cv,cv
+Q108782678,Gilberto Correia Carvalho Silva,,,cv,cv
+Q109300702,Fidel Mendonça,,,cv,cv
+Q109634752,José Luis Landim,,,cv,cv
+Q110184199,Logan Costa,,,cv,cv
+Q110305710,Alice Da Luz,,,cv,cv
+Q29158211,Luís António Gomes Alves,,,cv,cv
+Q29158764,Emanuel Jesus Correia Lopes,,,cv,cv
+Q29317662,Billy Maximiano,,,cv,cv
+Q3186585,José Veiga,,,cv,cv
+Q3105937,Gilberto Reis,,,cv,cv
+Q3132546,Henrique Teixeira de Sousa,,,cv,cv
+Q3177450,Jerry Adriano,,,cv,cv
+Q3186391,José Luís Tavares,,,cv,cv
+Q3186396,José Luís de Jesus,,,cv,cv
+Q3187331,João Vário,,,cv,cv
+Q135360845,Hugo Silva,,,cv,cv
+Q135360095,Maria Costa,,,cv,cv
+Q135360847,Diogo Monteiro,,,cv,cv
+Q135360113,Maria Correia,,,cv,cv
+Q135356894,Patrick Spencer,,,cv,cv
+Q135343914,João Embalo,,,cv,cv
+Q135344565,Jessica Patricia Silva Da Costa,,,cv,cv
+Q135345115,Márcia da Costa,,,cv,cv
+Q135357902,Jessica Vaz,,,cv,cv
+Q135357840,Roesley Diego Sanches Cardoso Mendes,,,cv,cv
+Q135358363,Kelvin Almeida Lopes,,,cv,cv
+Q135358837,Arlia Almeida,,,cv,cv
+Q135359289,Anim Delgado,,,cv,cv
+Q135358838,Yasmine Santos,,,cv,cv
+Q135359489,Aniel Patrick Gomes Brito,,,cv,cv
+Q135359324,Hugo Miguel Andrade Pereira,,,cv,cv
+Q135359604,Luis Texeira,,,cv,cv
+Q135360848,Ailton Almeida Goncalves,,,cv,cv
+Q135360872,Alexandre Dos Santos,,,cv,cv
+Q135360846,Davide Buccilli,,,cv,cv
+Q135360849,Fabrizio Caetano,,,cv,cv
+Q135360862,Geovani Martins,,,cv,cv
+Q135360844,Luis Eduardo Leite,,,cv,cv
+Q135361181,Alzira Martins,,,cv,cv
+Q135360871,Mauro Tavares,,,cv,cv
+Q135360859,Mikhael Monteiro,,,cv,cv
+Q135360866,Wesley Delgado,,,cv,cv
+Q135360870,Watna Gabriel Cabral de Pina Duarte,,,cv,cv
+Q135361182,Monalisa Mendes,,,cv,cv
+Q135361984,Ashley Lima,,,cv,cv
+Q135361983,Belinda Santos,,,cv,cv
+Q135361975,Camilla Nascimiento,,,cv,cv
+Q135361982,Doris Soares,,,cv,cv
+Q135361981,Edmira Monteiro,,,cv,cv
+Q135361976,Evna Ferreira,,,cv,cv
+Q135361980,Melissa da Silva,,,cv,cv
+Q135361979,Nayra Sequeira,,,cv,cv
+Q135361978,Rosalie Gonçalves,,,cv,cv
+Q135361985,Rosete Antunes,,,cv,cv
+Q135361977,Zidania Ribeiro,,,cv,cv
+Q135365510,Amarilson Lopes,,,cv,cv
+Q135365516,Kennedy Gomes Fernandes,,,cv,cv
+Q135367118,Ailton Manuel Lopes Marques,,,cv,cv
+Q135369114,Admir Jorge Ferreira Mendes,,,cv,cv
+Q135369112,Edvaldo do Rosario Lopes Ferreira,,,cv,cv
+Q135369115,Evandro Alves Delgado,,,cv,cv
+Q135369113,Paulo Sandir Palavra Dias,,,cv,cv
+Q135371293,Aurea Cardoso,,,cv,cv
+Q135371292,Juvelina Bento,,,cv,cv
+Q135371291,Mireille Rocha Coronel Lima,,,cv,cv
+Q16234775,Mailó,,,cv,cv
+Q16234962,Nuno Rocha,,,cv,cv
+Q16235304,Erson Stiven Dias Costa,,,cv,cv
+Q16266834,Dona Tututa,,,cv,cv
+Q16269557,Cristina Fontes Lima,,,cv,cv
+Q16512326,Belinda Lima,,,cv,cv
+Q580332,Germano Almeida,,,cv,cv
+Q581248,Nely Carla Alberto,,,cv,cv
+Q610645,António Aurélio Gonçalves,,,cv,cv
+Q706594,Luís Romano de Madeira Melo,,,cv,cv
+Q707926,Fernando Quejas,,,cv,cv
+Q139594211,Francisco Carvalho,,,cv,cv
+Q138657155,Olavo Correia,,,cv,cv
+Q137395729,Adryella Fortes,,,cv,cv
+Q138034697,João António Pinto Serra,,,cv,cv
+Q138034705,Carlos Augusto Duarte de Burgo,,,cv,cv
+Q138034954,Úlpio Napoleão Fernandes,,,cv,cv
+Q138034961,José Tomas Whanon de Carvalho Veiga,,,cv,cv
+Q138034968,Arnaldo Carlos de Vasconcelos França,,,cv,cv
+Q138506628,Queila Fernandes,,,cv,cv
+Q138971271,Líver Gomes,,,cv,cv
+Q139358573,Joaquina Almeida,,,cv,cv
+Q139377312,Pamela Borges,,,cv,cv
+Q139592951,Pedro Alexandre Rocha,,,cv,cv
+Q139795138,Danilson Silva Pereira,,,cv,cv
+Q139931785,João Carlos Tavares Fidalgo,,,cv,cv
+Q140387294,Aires Melo,,,cv,cv
+Q136211119,David Costa,,,cv,cv
+Q135374245,Carlos Cabral,,,cv,cv
+Q135371294,Djenifer Da Veiga,,,cv,cv
+Q135371334,Vandell Lushea Andrade,,,cv,cv
+Q135375087,Flavio Aguinaldo Marcos Gomes,,,cv,cv
+Q135375092,Paulo Eduardo Silva da Cruz,,,cv,cv
+Q135375947,Patrick Abreu,,,cv,cv
+Q135376389,Braima Queta Freire,,,cv,cv
+Q135376436,Edson Patrick De Andrade,,,cv,cv
+Q135376437,John Patrick Hegharty,,,cv,cv
+Q135378483,Avery James Oliver,,,cv,cv
+Q135379040,Anisa Serruto Costa e Silva,,,cv,cv
+Q135379041,Aylin Pires,,,cv,cv
+Q135379039,Carla Alexandra Pina Aires,,,cv,cv
+Q135379098,Antonio Moreira,,,cv,cv
+Q135379038,Kira Helena Monteiro Lopes,,,cv,cv
+Q135379472,Agildo Alexandre De Diniz Cabral,,,cv,cv
+Q135379042,Yamili Hernandez da Vera Cruz,,,cv,cv
+Q135379471,Waldir Fernandes Lima Santos Soares,,,cv,cv
+Q135381444,Michael Bluesky Gomes,,,cv,cv
+Q135382150,Abdlai Andrade Faty,,,cv,cv
+Q135382149,Aquiles Evora Tavares Semedo,,,cv,cv
+Q135382121,Dénis Odair De Pina,,,cv,cv
+Q135382151,Eric Gabriel Silva,,,cv,cv
+Q135382152,Felix A. Monteiro,,,cv,cv
+Q135382373,Denise Lisete Cardoso da Fonseca,,,cv,cv
+Q135382372,Natàlia dos Santos André,,,cv,cv
+Q135382370,Sofia Isabel Silva,,,cv,cv
+Q135385863,Mario Jorge Neves,,,cv,cv
+Q135388643,João Paulo Mendes Monteiro,,,cv,cv
+Q135388644,Vitor Hugo Vera Cruz Fortes,,,cv,cv
+Q135391881,Sekou Condé,,,cv,cv
+Q135714241,Eurídice Monteiro,,,cv,cv
+Q135967082,Edmilson Rocha,,,cv,cv
+Q135976305,Rúben Pina,,,cv,cv
+Q135976570,Elson Mendes,,,cv,cv
+Q136156471,Joël Domingos,,,cv,cv
+Q136381589,Kevin Fernandes Vaz,,,cv,cv
+Q136622644,Nilton Jorge Rodrigues Gomes,,,cv,cv
+Q136623144,Isaias De Jesus Freire Galvao,,,cv,cv
+Q136623960,Erikson Jorge Mendes Duarte,,,cv,cv
+Q1984801,Aguinaldo Fonseca,,,cv,cv
+Q2006892,Fábio Emanuel Moreira Silva,,,cv,cv
+Q2060958,John DeBrito,,,cv,cv
+Q2067333,Héldon Ramos,,,cv,cv
+Q2068357,Babanco,,,cv,cv
+Q110409384,Ronisia,,,cv,cv
+Q19365008,Ailton César Duarte Silva,,,cv,cv
+Q19703594,Ivan Cruz,,,cv,cv
+Q19903435,Eileen Barbosa,,,cv,cv
+Q20065314,Patrick Andrade,,,cv,cv
+Q20676495,Laros Duarte,,,cv,cv
+Q26704562,Jovane Cabral,,,cv,cv
+Q26964640,Georgina Mello,,,cv,cv
+Q27061801,Tuna Mascarenhas,,,cv,cv
+Q27063024,Élida Almeida,,,cv,cv
+Q27077739,Dulce Almada Duarte,,,cv,cv
+Q1891504,Manuel Figueira,,,cv,cv
+Q1763902,Jeff Xavier,,,cv,cv
+Q1858323,Odaïr Fortes,,,cv,cv
+Q1957070,Mário Lúcio Sousa,,,cv,cv
+Q1963953,Adysângela Moniz,,,cv,cv
+Q11957344,Nelson Cruz,,,cv,cv
+Q11691650,Crispina Correia,,,cv,cv
+Q11715832,Jade Leitão,,,cv,cv
+Q11755234,Letícia Oliveira,,,cv,cv
+Q11762848,Louisa da Conceição,,,cv,cv
+Q11789239,Nair Varela,,,cv,cv
+Q11865163,Isménia do Frederico,,,cv,cv
+Q11958438,António Delgado,,,cv,cv
+Q2466155,Vasco Martins,,,cv,cv
+Q2391518,Silvino Manuel da Luz,,,cv,cv
+Q2398085,Carlos Figueira,,,cv,cv
+Q2404000,Teodoro Mendes Tavares,,,cv,cv
+Q2481755,Maria de Barros,,,cv,cv
+Q2482176,Rui da Gracia Gomes,,,cv,cv
+Q23771913,Vagner Gonçalves,,,cv,cv
+Q23771910,Platiny Alves,,,cv,cv
+Q23771915,Ronivaldo Cruz,,,cv,cv
+Q23799874,Ludovic Soares,,,cv,cv
+Q23899522,Ulisses Correia e Silva,,,cv,cv
+Q18276701,Leão Lopes,,,cv,cv
+Q18637916,Carlos Ponck,,,cv,cv
+Q18713196,Kevin Sousa,,,cv,cv
+Q18814713,Carlos Lima,,,cv,cv
+Q18857087,Rosângela Lagos,,,cv,cv
+Q768531,João Gomes,,,cv,cv
+Q726765,Nando Maria Neves,,,cv,cv
+Q740548,José Luís Jesus,,,cv,cv
+Q772779,Boy Gé Mendes,,,cv,cv
+Q918049,Stopira,,,cv,cv
+Q3015796,Dany,,,cv,cv
+Q2908904,Fredson Tavares,,,cv,cv
+Q2908923,Luís Carlos Almada Soares,,,cv,cv
+Q2939374,Piguita,,,cv,cv
+Q2998046,Corsino Fortes,,,cv,cv
+Q3018091,Vozinha,,,cv,cv
+Q107642670,Jayla Pina,,,cv,cv
+Q107806484,Kelvin Pires,,,cv,cv
+Q107948136,Kelvin Patrick,,,cv,cv
+Q108066840,Prissy Gomes,,,cv,cv
+Q108172326,Tchiss Lopes,,,cv,cv
+Q108395046,Kevin Pina,,,cv,cv
+Q2071467,Helton dos Reis,,,cv,cv
+Q2180988,David Nascimento,,,cv,cv
+Q2347323,Silvino Gomes Soares,,,cv,cv
+Q2362902,Jeffrey Fortes,,,cv,cv
+Q43023451,Carlina Pereira,,,cv,cv
+Q43354820,Lígia Fonseca,,,cv,cv
+Q43389063,Nilda Maria,,,cv,cv
+Q44821118,Willy Semedo,,,cv,cv
+Q45965970,Eunice Silva,,,cv,cv
+Q47035442,Maria de Fátima Coronel,,,cv,cv
+Q88247927,Olavo Correia,,,cv,cv
+Q85686371,Jorge Neto,,,cv,cv
+Q85797565,Roberto Lopes,,,cv,cv
+Q87059454,Dynamo,,,cv,cv
+Q80632180,Bryan Teixeira,,,cv,cv
+Q78505792,Sara Baptista,,,cv,cv
+Q81878954,Edi Semedo,,,cv,cv
+Q12857170,Carlos Moreira,,,cv,cv
+Q12155704,Alison Brito,,,cv,cv
+Q12350652,Kiki Lima,,,cv,cv
+Q13581391,Armando Zeferino Soares,,,cv,cv
+Q14371131,Steven Moreira,,,cv,cv
+Q15179479,Hernani Almeida,,,cv,cv
+Q22931985,Joel Almeida,,,cv,cv
+Q21932030,António Duarte,,,cv,cv
+Q20750237,Ana R. Fernandes,,,cv,cv
+Q21075950,Cristina Duarte,,,cv,cv
+Q21531045,Flávio dos Santos Dias,,,cv,cv
+Q21622379,Erin Pinheiro,,,cv,cv
+Q21642426,Djô,,,cv,cv
+Q16940221,Luís Morais,,,cv,cv
+Q16622999,Edy Tavares,,,cv,cv
+Q16728820,Ely Fernandes,,,cv,cv
+Q16736703,Edivândio,,,cv,cv
+Q16738976,Jimmy Ines,,,cv,cv
+Q17024697,Maria Helena Semedo,,,cv,cv
+Q17098221,Jorge Kadú,,,cv,cv
+Q3564478,Toy,,,cv,cv
+Q3531484,Tomé Varela da Silva,,,cv,cv
+Q3553168,Vadú,,,cv,cv
+Q3557131,Rambé,,,cv,cv
+Q3564444,Víctor Borges,,,cv,cv
+Q3618344,Anselmo Ribeiro,,,cv,cv
+Q28912925,Mário Fonseca,,,cv,cv
+Q27517445,Jorge Santos,,,cv,cv
+Q27676349,Janira Hopffer Almada,,,cv,cv
+Q28717734,Arianne Duarte Morais,,,cv,cv
+Q28970917,Kenny Rocha Santos,,,cv,cv
+Q29054778,Delmiro,,,cv,cv
+Q52554424,António Tavares,,,cv,cv
+Q52499056,Marlene Monteiro Freitas,,,cv,cv
+Q53734289,Víctor Andrade,,,cv,cv
+Q54914118,Graça Maria Sanches,,,cv,cv
+Q55076588,Noe Milk,,,cv,cv
+Q55098157,Luís Filipe Tavares,,,cv,cv
+Q55433904,Márcio Rosa,,,cv,cv
+Q55442808,Jolina Amani,,,cv,cv
+Q924857,Ryan Gomes,,,cv,cv
+Q1025702,Cafú,,,cv,cv
+Q950564,José Filipe Correia Semedo,,,cv,cv
+Q110857730,Jerome Philippe Coss,,,cv,cv
+Q110943455,Dailon Livramento,,,cv,cv
+Q111365608,Iuri Tavares,,,cv,cv
+Q111729928,Alécia Morais,,,cv,cv
+Q111729963,Ângela Brito,,,cv,cv
+Q111732093,Joana Rosa,,,cv,cv
+Q111736823,Solange Cesarovna,,,cv,cv
+Q111737170,Rosana Almeida,,,cv,cv
+Q111983322,Hilarino Carlos Rodrigues da Luz,,,cv,cv
+Q112166559,Indira Evora,,,cv,cv
+Q112180485,Analeesia Fernandes,,,cv,cv
+Q2513023,David Silva,,,cv,cv
+Q2510644,Vargas Fernandes,,,cv,cv
+Q2524478,Sandro Mendes,,,cv,cv
+Q2604164,Arménio Vieira,,,cv,cv
+Q2611473,Manuel de Novas,,,cv,cv
+Q30122895,Antonio Correia,,,cv,cv
+Q29343408,Wuilito Fernandes,,,cv,cv
+Q29461343,Gilson Varela,,,cv,cv
+Q30053088,Diogo Mendes,,,cv,cv
+Q30937895,Samira Vera-Cruz,,,cv,cv
+Q32844230,Paula Fortes,,,cv,cv
+Q36850369,Ana Lúcia Ramos Lisboa,,,cv,cv
+Q38066604,Mailson Lima Duarte Lopes,,,cv,cv
+Q136623962,Amaro Antonio Lopes Rocha,,,cv,cv
+Q136626312,Denilson Oliveira Sanches Tavares,,,cv,cv
+Q136627746,Helton Junior Lopes Correia,,,cv,cv
+Q136627799,Joel Emmanuel Almeidfa Tavares,,,cv,cv
+Q136867410,João Baptista Lopes Leitao,,,cv,cv
+Q137014395,Rúben Lopes,,,cv,cv
+Q2702284,Lito,,,cv,cv
+Q2761434,Marco Soares,,,cv,cv
+Q2742945,Janício Martins,,,cv,cv
+Q2753734,Djaniny Tavares,,,cv,cv
+Q55629225,Patrick,,,cv,cv
+Q55629294,Paulo Rocha,,,cv,cv
+Q55511677,Sofia Reis,,,cv,cv
+Q55583857,Kelvin Medina,,,cv,cv
+Q56302403,Tchinda Andrade,,,cv,cv
+Q56678368,Eynel Soares,,,cv,cv
+Q56822900,Nácia Gomes,,,cv,cv
+Q124601478,Josimar Tavares,,,cv,cv
+Q124601966,Júnior Soares,,,cv,cv
+Q124603494,Alexandre Pereira,,,cv,cv
+Q124791322,Sandim Mendes,,,cv,cv
+Q125132703,Teresa Sofia Fortes,,,cv,cv
+Q125265093,Hugo Cardoso,,,cv,cv
+Q126369438,Wagner Pina,,,cv,cv
+Q125997499,Tania Romualdo,,,cv,cv
+Q126119446,Tété Alhinho,,,cv,cv
+Q126127338,Joaquim Arena,,,cv,cv
+Q126137483,Lourença Tavares,,,cv,cv
+Q127515090,Victor Alvares de Oliveira,,,cv,cv
+Q124604890,Rafael Andrade,,,cv,cv
+Q1388327,Pelé,,,cv,cv
+Q1085129,Ricardo Jorge Ferreira Pinto da Silva,,,cv,cv
+Q1138128,Elvis Évora,,,cv,cv
+Q1258044,Tito Paris,,,cv,cv
+Q1392925,Ryan Mendes,,,cv,cv
+Q1334608,Emanuel Bettencourt,,,cv,cv
+Q24835133,Maria Andrade,,,cv,cv
+Q24061140,Félix Mathaus,,,cv,cv
+Q24260171,Jordin Andrade,,,cv,cv
+Q24565805,Isaura Gomes,,,cv,cv
+Q38195734,Steve Furtado,,,cv,cv
+Q39082970,Deroy Duarte,,,cv,cv
+Q42384722,Manuel Villa Almeida,,,cv,cv
+Q42682915,Jenifer Solidade,,,cv,cv
+Q63579292,José Araújo,,,cv,cv
+Q60833541,Lucibela,,,cv,cv
+Q62445814,CJ dos Santos,,,cv,cv
+Q64010688,Klisman Sousa,,,cv,cv
+Q64373817,Elisabeth Moreno,,,cv,cv
+Q15517968,Steevan dos Santos,,,cv,cv
+Q15987794,Flávio Furtado,,,cv,cv
+Q15991762,Ericson Silva,,,cv,cv
+Q16164967,Ivan Almeida,,,cv,cv
+Q16197215,Carlos Almeida,,,cv,cv
+Q16209263,Alfayaya Embalo,,,cv,cv
+Q2885546,Manuel Veiga,,,cv,cv
+Q2822163,Abílio Duarte,,,cv,cv
+Q2843337,Amílcar Spencer Lopes,,,cv,cv
+Q2857319,Antonio Pedro Monteiro Lima,,,cv,cv
+Q2857392,António Pedro da Cruz,,,cv,cv
+Q2857768,António do Espírito Santo Fonseca,,,cv,cv
+Q2861382,Aristides Lima,,,cv,cv
+Q2887747,Basílio Ramos,,,cv,cv
+Q10328979,Mesquitela Lima,,,cv,cv
+Q10335452,Nancy Vieira,,,cv,cv
+Q10341548,Orlando Pantera,,,cv,cv
+Q10371573,Silvino Lopes Évora,,,cv,cv
+Q10382741,Titina Rodriguês,,,cv,cv
+Q10395861,Álvaro Semedo Vaz,,,cv,cv
+Q10433749,Hugo Évora,,,cv,cv
+Q114350084,Serginho,,,cv,cv
+Q115102273,Dodô,,,cv,cv
+Q112195055,Elber Binha,,,cv,cv
+Q113150580,Délcio Pina,,,cv,cv
+Q113163595,Paulo Moreno,,,cv,cv
+Q113163788,Ivo Santos,,,cv,cv
+Q113621161,Gualther Furtado,,,cv,cv
+Q113621482,Bruno Landim,,,cv,cv
+Q113622445,Edmilson Araújo,,,cv,cv
+Q113624449,Ivanilde,,,cv,cv
+Q113626982,Luís Almeida,,,cv,cv
+Q114348054,Maria de Lourdes Chantre,,,cv,cv
+Q115104549,Dylan Silva,,,cv,cv
+Q115108070,Tiago Rafael Évora Varela Lopes,,,cv,cv
+Q115183101,Ga DaLomba,,,cv,cv
+Q115183126,Miriam Livramento,,,cv,cv
+Q115903416,Artemisa Semedo,,,cv,cv
+Q6305532,Maria Alice,,,cv,cv
+Q6786670,Mateus Lopes,,,cv,cv
+Q6298027,João Baptista Ferreira Medina,,,cv,cv
+Q6543680,Lidiane Lopes,,,cv,cv
+Q6764618,Mario Correia,,,cv,cv
+Q6772511,Marques Houtman,,,cv,cv
+Q6949725,Mário José Carvalho de Lima,,,cv,cv
+Q6950770,Josh Gomes,,,cv,cv
+Q4853750,Bana,,,cv,cv
+Q4661421,Alviar Lima,,,cv,cv
+Q4733821,Almir Barbosa,,,cv,cv
+Q4750358,Ana Firmino,,,cv,cv
+Q4776356,Antoninho Travadinha,,,cv,cv
+Q4792768,Armando Freitas,,,cv,cv
+Q123092092,João Ilidio Da Cruz Tavares,,,cv,cv
+Q123246875,Nancy Moreira,,,cv,cv
+Q123286887,Ivânia Moreira,,,cv,cv
+Q123566300,Soraia Ramos,,,cv,cv
+Q124288111,Clé,,,cv,cv
+Q124308319,Chissana Magalhães,,,cv,cv
+Q124316722,Clara Manuela da Luz Delgado Jesus,,,cv,cv
+Q124382289,Sidny Lopes Cabral,,,cv,cv
+Q124581858,Gil Baiano dos Santos,,,cv,cv
+Q124582730,Fred Wilson dos Santos,,,cv,cv
+Q124585477,Élcio Fernandes,,,cv,cv
+Q124584738,Fernando Dias,,,cv,cv
+Q123018628,João Paulino,,,cv,cv
+Q3019134,Bijou,,,cv,cv
+Q3066633,Fantcha,,,cv,cv
+Q3073182,Orlanda Amarílis,,,cv,cv
+Q3078307,Lúcio Antunes,,,cv,cv
+Q3078790,Carlitos,,,cv,cv
+Q3087242,Fredson Rodrigues,,,cv,cv
+Q3104364,Gerson Duarte de Sousa Lobo,,,cv,cv
+Q3357521,Oswaldo Osório,,,cv,cv
+Q3369909,Ruben Sança,,,cv,cv
+Q3378897,Wania Monteiro,,,cv,cv
+Q3438255,Rodolfo Lima,,,cv,cv
+Q3441821,Ronny Souto,,,cv,cv
+Q3499698,Stomy Bugsy,,,cv,cv
+Q64374297,Adriana Almeida,,,cv,cv
+Q65162559,José Luiz Tavares,,,cv,cv
+Q65532105,Evelise da Veiga,,,cv,cv
+Q66491102,Alexia Barros,,,cv,cv
+Q66491107,Joseana Vaz,,,cv,cv
+Q66491645,Ornela Livramento,,,cv,cv
+Q7159779,Pedro Miguel,,,cv,cv
+Q7155204,Paulo dos Santos,,,cv,cv
+Q7077234,Odair Sanches,,,cv,cv
+Q7095224,Onésimo Silveira,,,cv,cv
+Q7103019,Orlanda Maria Duarte Santos Ferreira,,,cv,cv
+Q7159546,Pedro DeBrito,,,cv,cv
+Q105939150,Gilson Benchimol,,,cv,cv
+Q104437173,Alexandre de Barros e Silva,,,cv,cv
+Q104469446,Moacyr Rodrigues,,,cv,cv
+Q104839626,Luís Lopes,,,cv,cv
+Q104845646,Marina Correia,,,cv,cv
+Q104905898,Iolanda Évora,,,cv,cv
+Q105177458,Leandro Semedo,,,cv,cv
+Q105622433,Stéphane Cueni,,,cv,cv
+Q105940106,Sócrates Oliveira Fonseca,,,cv,cv
+Q127833956,Eliane Boal,,,cv,cv
+Q130465245,Yannick Semedo,,,cv,cv
+Q131394043,Kenneti Mendes,,,cv,cv
+Q131415277,Dina Price,,,cv,cv
+Q131431717,Jerin Ramos,,,cv,cv
+Q131544979,Patti Anahory,,,cv,cv
+Q131548336,Gilson Correia,,,cv,cv
+Q132888215,Kevin Coronel,,,cv,cv
+Q132888361,Shane Da Rosa,,,cv,cv
+Q132888387,Patrick Lima,,,cv,cv
+Q134475633,Joseph Britto,,,cv,cv
+Q134580058,David Moreira,,,cv,cv
+Q134722733,Enzo Duarte,,,cv,cv
+Q134757228,Aílson Tavares,,,cv,cv
+Q135123846,Bruno Carlos Dos Santos Melicio,,,cv,cv
+Q135264769,Nélio Cruz,,,cv,cv
+Q7173283,Peter Cipriano,,,cv,cv
+Q7357367,Rodrigo Mascarenhas,,,cv,cv
+Q7378692,Rui Alberto de Figueiredo Soares,,,cv,cv
+Q7629950,Sténio,,,cv,cv
+Q7666085,Sérgio Manuel Monteiro Semedo,,,cv,cv
+Q7690647,Tcheka,,,cv,cv
+Q7932545,Vinha,,,cv,cv
+Q7821842,Tony Barros,,,cv,cv
+Q7915140,Vanny Reis,,,cv,cv
+Q7920765,Vera Duarte,,,cv,cv
+Q8054740,Yolanda Morazzo,,,cv,cv
+Q8076032,Zé Piguita,,,cv,cv
+Q8561349,Djurumani,,,cv,cv
+Q107334828,João Paulo Fernandes,,,cv,cv
+Q105965319,Josefina Chantre,,,cv,cv
+Q107342285,Márcia Lopes,,,cv,cv
+Q106920136,Djamila Silva,,,cv,cv
+Q107363845,Fátima Monteiro,,,cv,cv
+Q3702720,Nivaldo Alves Freitas Santos,,,cv,cv
+Q3743498,Manuel Inocêncio Sousa,,,cv,cv
+Q3810055,Jorge Canifa Alves,,,cv,cv
+Q3810574,José Rui,,,cv,cv
+Q3810704,João Baptista Robalo,,,cv,cv
+Q3812999,Karin Mensah,,,cv,cv
+Q3926123,Péricles Pereira,,,cv,cv
+Q4979425,Bruno Varela,,,cv,cv
+Q5042482,Carlos Pedro Silva Morais,,,cv,cv
+Q5219498,Danielson Gomes Monteiro,,,cv,cv
+Q5320102,Dário Furtado,,,cv,cv
+Q5336650,Eddy Fort Moda Grog,,,cv,cv
+Q5340302,Edson Cruz,,,cv,cv
+Q5415197,Eva Verona Teixeira Ortet,,,cv,cv
+Q5515740,Gabriel Mariano,,,cv,cv
+Q5591501,Graciano Brito,,,cv,cv
+Q6099288,Ivone Ramos,,,cv,cv
+Q6248524,Robert Xalino,,,cv,cv
+Q6248528,Val Xalino,,,cv,cv
+Q6293010,José Manuel Gomes Andrade,,,cv,cv
+Q3195582,Fátima Veiga,,,cv,cv
+Q3229759,Leonel Almeida,,,cv,cv
+Q3268211,Luís de Matos Monteiro da Fonseca,,,cv,cv
+Q3286832,Gilson Manuel Silva Alves,,,cv,cv
+Q3291250,Mariana Ramos,,,cv,cv
+Q3337965,Nelson Nunes Lobo,,,cv,cv
+Q3960166,Sidnei,,,cv,cv
+Q3939893,Rodirlei José Ascensão Duarte,,,cv,cv
+Q3993005,Tom Tavares,,,cv,cv
+Q4008355,Valter Borges,,,cv,cv
+Q4621784,Garry Mendes Rodrigues,,,cv,cv
+Q66498799,Vitalina Varela,,,cv,cv
+Q70277065,Carla Mendes,,,cv,cv
+Q76858856,Troy Pina,,,cv,cv
+Q66492128,Lorreta Rocha,,,cv,cv
+Q67841562,Elber Evora,,,cv,cv
+Q68117383,Alexis Gonçalves,,,cv,cv
+Q72851264,Amaro da Luz,,,cv,cv
+Q77231127,Anyse Sofia Fernandes-Pereira,,,cv,cv
+Q90558960,Diara Rocha,,,cv,cv
+Q92429680,Lilica Boal,,,cv,cv
+Q92611642,Yorgan De Castro,,,cv,cv
+Q95889127,Anibal Francisco de Brito,,,cv,cv
+Q96130468,Winston Rodrigues,,,cv,cv
+Q97020164,Lolo Arziki,,,cv,cv
+Q97022365,Alexis Martial,,,cv,cv
+Q97580948,Telmo Arcanjo,,,cv,cv
+Q98066629,Evy Pereira,,,cv,cv
+Q98066847,Kátia Casillas,,,cv,cv
+Q98083800,Jocilene Martins Semedo,,,cv,cv
+Q98085483,Elisiana Da Conceiçao Semedo Gomes,,,cv,cv
+Q100166635,Willis Furtado,,,cv,cv
+Q100185348,Dylan Tavares,,,cv,cv
+Q100265245,Gilson Delgado,,,cv,cv
+Q100718751,Dimitry Akanda-Coronel,,,cv,cv
+Q100760336,Denzel Brito,,,cv,cv
+Q100796239,Keri Gonsalves,,,cv,cv
+Q100876525,Vinny Lima,,,cv,cv
+Q100918772,Brian Rudolph,,,cv,cv
+Q10515955,Nilson Antonio,,,cv,cv
+Q10555185,Carlos Silveira da Graça,,,cv,cv
+Q10264132,Dany Silva,,,cv,cv
+Q10289653,Gilyto,,,cv,cv
+Q10295168,Hermínia da Cruz Fortes,,,cv,cv
+Q9184599,Carla Sousa,,,cv,cv
+Q9249092,Débora Gonçalves,,,cv,cv
+Q9193224,Cleisa Tavares,,,cv,cv
+Q9322926,Rosângela Lopes,,,cv,cv
+Q9355844,Tatianne Cabral,,,cv,cv
+Q100919855,Marcus Santos-Silva,,,cv,cv
+Q100931993,Will Tavares,,,cv,cv
+Q100966395,Denise Fernandes,,,cv,cv
+Q104243593,Sandrine Billiet,,,cv,cv
+Q104128393,Dina Salústio,,,cv,cv
+Q104152182,Marco Da Graca,,,cv,cv
+Q104346677,Keven Gomes,,,cv,cv

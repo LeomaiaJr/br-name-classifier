@@ -1,0 +1,992 @@
+# source_url: https://query.wikidata.org/sparql
+# license: CC0
+# country_qid: Q574
+# note: WDQS label corpus; given/family fields blank when property joins time out
+qid,label,given_name,family_name,country,country_class
+Q15833866,Maria Angelica Rangel da Cruz dos Reis,,,tl,palop_other
+Q15833869,Maria Fernanda Lay,,,tl,palop_other
+Q15833886,Maria Lurdes Martins de Sousa Bessa,,,tl,palop_other
+Q15833895,Maria Terezinha Viegas,,,tl,palop_other
+Q15833892,Maria Rosa da Camara,,,tl,palop_other
+Q15833898,Maria do Céu Sarmento,,,tl,palop_other
+Q15834353,Mateus de Jesus,,,tl,palop_other
+Q15836318,Natalino dos Santos,,,tl,palop_other
+Q15836424,Natália de Araújo,,,tl,palop_other
+Q15837841,Osório Florindo da Conceição Costa,,,tl,palop_other
+Q20641252,Filipe Oliveira,,,tl,palop_other
+Q19959124,Tomás Cabral,,,tl,palop_other
+Q19959482,Bendito Freitas,,,tl,palop_other
+Q19959910,Júlio Hornay,,,tl,palop_other
+Q19959911,Leovigildo Hornay,,,tl,palop_other
+Q20171024,Francisco de Andrade,,,tl,palop_other
+Q20641443,Raimundo Sarmento,,,tl,palop_other
+Q20716922,Nelson Sing,,,tl,palop_other
+Q20745826,Manuel Salsinha,,,tl,palop_other
+Q21475105,Armando Varela,,,tl,palop_other
+Q20753040,Hélder Lopes,,,tl,palop_other
+Q20752368,António Ximenes da Costa,,,tl,palop_other
+Q20752371,Cristiano da Costa,,,tl,palop_other
+Q20827525,Nélio Isaac Sarmento,,,tl,palop_other
+Q21033082,Natalino Monteiro,,,tl,palop_other
+Q21033195,Filipus Nino Pereira,,,tl,palop_other
+Q21063405,Cácio de Souza Costa,,,tl,palop_other
+Q21066654,Jorge Sabas Victor,,,tl,palop_other
+Q21066653,Juliao Monteiro,,,tl,palop_other
+Q21519969,Veneranda Lemos,,,tl,palop_other
+Q21528864,Abílio Vieira,,,tl,palop_other
+Q23063040,Abel dos Santos Fátima,,,tl,palop_other
+Q23639248,Luís Maria Lobato,,,tl,palop_other
+Q23639404,João Mariano Saldanha,,,tl,palop_other
+Q23874603,Pedro Klamar Fuik,,,tl,palop_other
+Q23874830,Maria Olandina Isabel Caeiro Alves,,,tl,palop_other
+Q23899668,Olímpio Branco,,,tl,palop_other
+Q23900382,Egídio de Jesus,,,tl,palop_other
+Q23901099,Filomeno Aleixo,,,tl,palop_other
+Q23902067,Egas da Costa Freitas,,,tl,palop_other
+Q23903178,Pascoela Barreto,,,tl,palop_other
+Q23904744,Arlindo Marçal,,,tl,palop_other
+Q23904742,Manuel Abrantes,,,tl,palop_other
+Q23906425,Abel Ximenes,,,tl,palop_other
+Q23925294,Marçal Avelino Ximenes,,,tl,palop_other
+Q11509,Xanana Gusmão,,,tl,palop_other
+Q11664,Mari Alkatiri,,,tl,palop_other
+Q3719840,Eduardo Pereira,,,tl,palop_other
+Q3840963,Luís Cardoso,,,tl,palop_other
+Q3288786,Emílio da Silva,,,tl,palop_other
+Q3379548,Mariana Diaz Ximenez,,,tl,palop_other
+Q3605769,Adriano Quintão,,,tl,palop_other
+Q3858903,Miro Baldo Bento,,,tl,palop_other
+Q21543160,Carlos Magno,,,tl,palop_other
+Q21541734,José Guterres Silva,,,tl,palop_other
+Q21541746,Nidio Neto,,,tl,palop_other
+Q21996889,Thomas Americo,,,tl,palop_other
+Q22670371,Virgílio do Carmo da Silva,,,tl,palop_other
+Q23060646,Domingos dos Santos Caeiro,,,tl,palop_other
+Q23061547,Adérito de Jesus Soares,,,tl,palop_other
+Q23062889,Loro Horta,,,tl,palop_other
+Q4217131,Benjamim de Araújo e Côrte-Real,,,tl,palop_other
+Q4681981,Adelino Trindade,,,tl,palop_other
+Q4708374,Alarico Fernandes,,,tl,palop_other
+Q4931548,Boavida Olegario,,,tl,palop_other
+Q5041552,Carlos Mateus Ximenes,,,tl,palop_other
+Q5101776,Chiquito Filipe do Carmo,,,tl,palop_other
+Q5113407,Christopher Wenner,,,tl,palop_other
+Q15842340,Ribeiro de Carvalho,,,tl,palop_other
+Q15839882,Pedro dos Mártires da Costa,,,tl,palop_other
+Q15849868,Sérgio Lobo,,,tl,palop_other
+Q15852995,Virgínia Ana Belo,,,tl,palop_other
+Q15852993,Virgílio Maria Dias Marçal,,,tl,palop_other
+Q15855942,Ágio Pereira,,,tl,palop_other
+Q15855952,Ângela Corvelo,,,tl,palop_other
+Q15856860,Benvinda Catarina Rodrigues,,,tl,palop_other
+Q15857859,Guilhermino da Silva,,,tl,palop_other
+Q15867470,Olinda Morais,,,tl,palop_other
+Q15867547,Jacinto Maia,,,tl,palop_other
+Q15867521,Paulino Monteiro Soares Babo,,,tl,palop_other
+Q27583765,José Neves,,,tl,palop_other
+Q26828082,Domingas da Costa,,,tl,palop_other
+Q26857826,Hamis Bassarewan,,,tl,palop_other
+Q27064171,Nelson Sarmento Viegas,,,tl,palop_other
+Q27067748,Antonio Maher Lopes,,,tl,palop_other
+Q27662995,Domingos Ramos Freitas,,,tl,palop_other
+Q27671179,Ricardo Sousa da Cruz Maia,,,tl,palop_other
+Q27671418,Agostinha Nogueira,,,tl,palop_other
+Q15906971,Jacob Fernandes,,,tl,palop_other
+Q15907034,Joaquim Amaral,,,tl,palop_other
+Q15990468,Clarinha Alves,,,tl,palop_other
+Q15990469,Teresa da Conceição Amaral,,,tl,palop_other
+Q15990496,Teresa Maria de Carvalho,,,tl,palop_other
+Q28740252,Faustino Cardoso Gomes,,,tl,palop_other
+Q28806906,Manuel Azancot de Menezes,,,tl,palop_other
+Q28819158,Nelson Correira,,,tl,palop_other
+Q28872790,Januário Pereira,,,tl,palop_other
+Q28966188,Adérito Antonio Pinto Tilman,,,tl,palop_other
+Q28966213,Manuel Bucar,,,tl,palop_other
+Q29054955,Luís Tilman,,,tl,palop_other
+Q29357310,José Telo Soares Cristóvão,,,tl,palop_other
+Q29364225,Jacinta Paula Bernardo,,,tl,palop_other
+Q29586768,Deolindo dos Santos,,,tl,palop_other
+Q29641954,Hélder da Costa,,,tl,palop_other
+Q11665,José Ramos-Horta,,,tl,palop_other
+Q25594299,João Câmara,,,tl,palop_other
+Q25481761,Sofia Borges,,,tl,palop_other
+Q24825055,Valentim Ximenes,,,tl,palop_other
+Q24922115,Florindo Pereira,,,tl,palop_other
+Q25417008,Antonito de Araújo,,,tl,palop_other
+Q25417350,José Barreto Martins,,,tl,palop_other
+Q25470548,Muhammad Sudirman,,,tl,palop_other
+Q25631019,José António Amorim Dias,,,tl,palop_other
+Q25702639,Horácio Marques,,,tl,palop_other
+Q25846483,Joaquim da Fonseca,,,tl,palop_other
+Q25868180,Marciano da Silva,,,tl,palop_other
+Q25894431,Marina Ribeiro Alkatiri,,,tl,palop_other
+Q25894434,Nelson Santos,,,tl,palop_other
+Q16739233,Joana do Rosario,,,tl,palop_other
+Q16739404,João Maia da Conceicão,,,tl,palop_other
+Q16830280,Adalgisa Ximenes,,,tl,palop_other
+Q16832800,Leandro Isaac,,,tl,palop_other
+Q16887907,Alcino de Araújo Baris,,,tl,palop_other
+Q17322682,Justino Guterres,,,tl,palop_other
+Q17992527,Afonso Carson,,,tl,palop_other
+Q18021082,Isabel da Costa Ferreira,,,tl,palop_other
+Q25943383,Manuel Serrano,,,tl,palop_other
+Q26827852,António Mendonça,,,tl,palop_other
+Q25894435,Caetano Guterres,,,tl,palop_other
+Q25894795,Juvencio Martins,,,tl,palop_other
+Q25939402,Jorge Trindade Neves de Camoes,,,tl,palop_other
+Q26196599,Ilídio Ximenes da Costa,,,tl,palop_other
+Q26209392,Francelina Cabral,,,tl,palop_other
+Q26212226,Nelia Martins,,,tl,palop_other
+Q26254261,Rufino Gama,,,tl,palop_other
+Q24279282,Alberto Carlos,,,tl,palop_other
+Q23925296,Víctor da Conceição Soares,,,tl,palop_other
+Q23925425,Lúcio Marçal Gomes,,,tl,palop_other
+Q23925560,Clementino dos Reis Amaral,,,tl,palop_other
+Q23925654,Abel da Costa Belo,,,tl,palop_other
+Q23963359,Francisco Tilman Cepeda,,,tl,palop_other
+Q23978215,Domingos Francisco de Sousa,,,tl,palop_other
+Q23978309,Gregório de Sousa,,,tl,palop_other
+Q24007780,Francisco da Costa Guterres,,,tl,palop_other
+Q24052412,Sera Key,,,tl,palop_other
+Q24069651,Domingos da Costa Ribeiro,,,tl,palop_other
+Q24075569,Leopoldo Joaquim,,,tl,palop_other
+Q24451825,Frangcyatma Alves,,,tl,palop_other
+Q24623115,Felicidade de Sousa Guterres,,,tl,palop_other
+Q623290,Aquiles Freitas Soares,,,tl,palop_other
+Q638333,Arcângelo Leite,,,tl,palop_other
+Q705259,Arsénio Bano,,,tl,palop_other
+Q710759,José Abílio Osório Soares,,,tl,palop_other
+Q711789,Gil da Cruz Trindade,,,tl,palop_other
+Q727119,Estanislau da Silva,,,tl,palop_other
+Q731840,Francisco Xavier do Amaral,,,tl,palop_other
+Q292831,Lúcia Lobato,,,tl,palop_other
+Q311440,António Guterres,,,tl,palop_other
+Q348268,Adaljíza Magno,,,tl,palop_other
+Q362813,Vicente Guterres,,,tl,palop_other
+Q376080,Adriano do Nascimento,,,tl,palop_other
+Q383463,Afonso Redentor Araújo,,,tl,palop_other
+Q398188,Aguida Amaral,,,tl,palop_other
+Q483054,Ana Pessoa Pinto,,,tl,palop_other
+Q15810089,Francisco da Costa,,,tl,palop_other
+Q15804177,César Valente de Jesus,,,tl,palop_other
+Q15804824,David Ximenes,,,tl,palop_other
+Q15806273,Domingas Álves da Silva,,,tl,palop_other
+Q15806276,Domingos Carvalho de Araújo,,,tl,palop_other
+Q15807367,Eduardo de Jesus Barreto,,,tl,palop_other
+Q15809823,Florentina da Conceição Pereira Martins Smith,,,tl,palop_other
+Q15810085,Francisco Miranda Branco,,,tl,palop_other
+Q15812802,Gregorio da Cunha Saldanha,,,tl,palop_other
+Q15819936,Ilda Maria da Conceição,,,tl,palop_other
+Q15820434,Isabel Guterres,,,tl,palop_other
+Q15820550,Izilda Pereira Soares,,,tl,palop_other
+Q10333326,Murilo de Almeida,,,tl,palop_other
+Q10513565,Vicente Ramos Freitas,,,tl,palop_other
+Q10546044,Nilo Soares,,,tl,palop_other
+Q7406390,Salvador Carlos,,,tl,palop_other
+Q8068490,Zeferino Martins,,,tl,palop_other
+Q8071474,Zico Luzinho Ingles Casimiro,,,tl,palop_other
+Q19942293,Amico,,,tl,palop_other
+Q19903971,José Carlos da Fonseca,,,tl,palop_other
+Q19894969,Magdalena Bidau Soares,,,tl,palop_other
+Q19903915,Agostinho da Silva Araujo,,,tl,palop_other
+Q19921547,Filomena Barros Dos Reis,,,tl,palop_other
+Q19944442,José da Costa Soares,,,tl,palop_other
+Q19946250,Dulce de Jesus Soares,,,tl,palop_other
+Q19946322,Roberto Soares,,,tl,palop_other
+Q19958832,Domingos Sarmento Alves,,,tl,palop_other
+Q19959123,Miguel Marques Gonçalves Manetelu,,,tl,palop_other
+Q182777,Basilio do Nascimento,,,tl,palop_other
+Q57519,Taur Matan Ruak,,,tl,palop_other
+Q58185,Zacarias da Costa,,,tl,palop_other
+Q15784635,Aurora Ximenes,,,tl,palop_other
+Q15787636,Bendita Moniz Magno,,,tl,palop_other
+Q15791168,Carmelita Caetano Moniz,,,tl,palop_other
+Q15791747,Albina Marçal Freitas,,,tl,palop_other
+Q15791919,Ana da Conceição Ribeiro,,,tl,palop_other
+Q15791996,Anselmo da Conceição,,,tl,palop_other
+Q15792023,António Ximenes,,,tl,palop_other
+Q15792030,Anástacia da Costa,,,tl,palop_other
+Q15792100,Arão Noé de Jesus da Costa Amaral,,,tl,palop_other
+Q15792965,Brigida Antónia Correia,,,tl,palop_other
+Q15803819,Constâncio Pinto,,,tl,palop_other
+Q15804026,Cristovão Barros,,,tl,palop_other
+Q16657108,José Abel,,,tl,palop_other
+Q16509249,Duarte Nunes,,,tl,palop_other
+Q16269150,Paulo de Fatima Martins,,,tl,palop_other
+Q16269148,Paulo Assis Belo,,,tl,palop_other
+Q16292969,Romeu Moises,,,tl,palop_other
+Q16293114,Rui Meneses,,,tl,palop_other
+Q16295255,Vidal de Jesus,,,tl,palop_other
+Q16295278,Vital dos Santos,,,tl,palop_other
+Q16295623,Álvaro do Nascimento,,,tl,palop_other
+Q16318881,Domingos Mesquita,,,tl,palop_other
+Q16320784,Samuel Mendonça,,,tl,palop_other
+Q16731963,Guilhermina Marçal,,,tl,palop_other
+Q328752,Manuel Carrascalão,,,tl,palop_other
+Q329964,Alberto Ricardo da Silva,,,tl,palop_other
+Q336882,Abílio Araújo,,,tl,palop_other
+Q336920,Abílo de Deus de Jesus Lima,,,tl,palop_other
+Q345820,Avelino Coelho da Silva,,,tl,palop_other
+Q28128893,Maria Vitória,,,tl,palop_other
+Q27671447,Bernardina Mousaco,,,tl,palop_other
+Q27672971,Elisabeth Pinto,,,tl,palop_other
+Q27916730,Maria Gorete Joaquim,,,tl,palop_other
+Q28093636,António Manuel Ximenes,,,tl,palop_other
+Q28159562,Ana Isabel Soares,,,tl,palop_other
+Q28465884,Fidelis Leite Magalhães,,,tl,palop_other
+Q2066601,Pedro Lay,,,tl,palop_other
+Q2151930,Wellington Rocha,,,tl,palop_other
+Q2166301,Roque Rodrigues,,,tl,palop_other
+Q2175147,Rui Manuel Hanjam,,,tl,palop_other
+Q2441380,Tomé Diogo,,,tl,palop_other
+Q2527823,Virgílio Simith,,,tl,palop_other
+Q2536240,Vítor da Costa,,,tl,palop_other
+Q2849575,Anggisu Barbosa,,,tl,palop_other
+Q32321011,Marcos da Cruz,,,tl,palop_other
+Q32071264,Isabel Ximenes,,,tl,palop_other
+Q32320874,Valentino Varela,,,tl,palop_other
+Q32831731,Vicky Fun Ha Tchong,,,tl,palop_other
+Q33058541,André da Costa Belo,,,tl,palop_other
+Q33327635,Mericio Juvinal dos Reis,,,tl,palop_other
+Q33638236,Armanda Berta dos Santos,,,tl,palop_other
+Q33638272,António Verdial de Sousa,,,tl,palop_other
+Q33638330,Francisco Miguel Martins,,,tl,palop_other
+Q35711045,Abel Pires,,,tl,palop_other
+Q36168580,José dos Santos Bucar,,,tl,palop_other
+Q15867935,Virgilio da Costa Hornai,,,tl,palop_other
+Q15890933,Adriano João,,,tl,palop_other
+Q15890998,António Cardoso Caldas Machado,,,tl,palop_other
+Q15890999,António da Conceição,,,tl,palop_other
+Q15905857,Cecilio Caminha Freitas,,,tl,palop_other
+Q15905940,Cipriana da Costa Pereira,,,tl,palop_other
+Q15906169,Domingos Maria Sarmento,,,tl,palop_other
+Q15906272,Elizario Ferreira,,,tl,palop_other
+Q15906407,Francisco Martins da Costa Pereira Jerónimo,,,tl,palop_other
+Q15906923,Idelta Maria Rodrigues,,,tl,palop_other
+Q1441973,Francisco Gomes,,,tl,palop_other
+Q1406554,Fernanda Borges,,,tl,palop_other
+Q1484501,Manuel de Sousa,,,tl,palop_other
+Q1408872,Guilherme Maria Gonçalves,,,tl,palop_other
+Q1415442,Filomeno Soares,,,tl,palop_other
+Q1424159,José Manuel Carrascalão,,,tl,palop_other
+Q1441897,Francisco Borja da Costa,,,tl,palop_other
+Q1442193,Francisco Ruas Hornay,,,tl,palop_other
+Q1444425,Jacinta Abucau Pereira,,,tl,palop_other
+Q5850522,Eugenio Lemos,,,tl,palop_other
+Q6481356,Lamberto Gama,,,tl,palop_other
+Q6526258,Leonel da Silva Araujo,,,tl,palop_other
+Q29886747,Sebastião Dias Ximenes,,,tl,palop_other
+Q29916572,Rui Pereira dos Santos,,,tl,palop_other
+Q29919884,Aureo José António Sávio,,,tl,palop_other
+Q29957265,Jacinta Correia da Costa,,,tl,palop_other
+Q30157584,Estanislau de Sousa Saldanha,,,tl,palop_other
+Q30171197,José Maria Ximenes,,,tl,palop_other
+Q30171188,Virgílio da Silva Guterres,,,tl,palop_other
+Q30173638,Antóninho Baptista Alves,,,tl,palop_other
+Q30346939,Gilman Exposto dos Santos,,,tl,palop_other
+Q18024489,Madalena Hanjam,,,tl,palop_other
+Q18277800,Afonso Busa Metan,,,tl,palop_other
+Q18421274,Falur Rate Laek,,,tl,palop_other
+Q18421408,Sabika Besi Kulit,,,tl,palop_other
+Q18707765,Jorge Barros Duarte,,,tl,palop_other
+Q18921427,Fellipe Bertoldo,,,tl,palop_other
+Q19502124,Cirilo Cristóvão,,,tl,palop_other
+Q18060946,Filomeno Paixão,,,tl,palop_other
+Q234001,Carlos Filipe Ximenes Belo,,,tl,palop_other
+Q266396,José João Pereira,,,tl,palop_other
+Q16006905,Francisco de Araújo,,,tl,palop_other
+Q16061645,Domingos da Costa,,,tl,palop_other
+Q15990502,Maria da Paixão da Costa,,,tl,palop_other
+Q15990509,Lolina Celeste de Deus,,,tl,palop_other
+Q15990523,Maria da Costa Exposto,,,tl,palop_other
+Q15991978,Augusto de Araújo,,,tl,palop_other
+Q16006951,Hermes da Rosa Correia Barros,,,tl,palop_other
+Q16054260,Alberto da Silva Cruz,,,tl,palop_other
+Q16064345,Faustino dos Santos,,,tl,palop_other
+Q16064597,Gabriel Ximenes,,,tl,palop_other
+Q16194676,Maria de Lourdes Martins Cruz,,,tl,palop_other
+Q16218242,Maria Maia dos Reis e Costa,,,tl,palop_other
+Q15821089,Joaquim dos Santos,,,tl,palop_other
+Q15821878,José Manuel Fernandes,,,tl,palop_other
+Q15820572,Jacinto Rigoberto,,,tl,palop_other
+Q15820573,Jacinto Viegas Vicente,,,tl,palop_other
+Q15820605,Jacob de Araújo,,,tl,palop_other
+Q15821083,Joaninha de Jesus,,,tl,palop_other
+Q15821768,Josefa Álvares Pereira Soares,,,tl,palop_other
+Q15821863,José Costa Ximenes,,,tl,palop_other
+Q15821889,José da Silva Panão,,,tl,palop_other
+Q15833727,Manuel da Costa Guterres,,,tl,palop_other
+Q15833865,Maria Adozinda Pires da Silva,,,tl,palop_other
+Q737475,Nicolau dos Reis Lobato,,,tl,palop_other
+Q769607,Augusto Ramos Soares,,,tl,palop_other
+Q786377,Rogério Lobato,,,tl,palop_other
+Q887606,Boaventura da Costa,,,tl,palop_other
+Q37134485,Olinda Guterres,,,tl,palop_other
+Q38056314,Veríssimo Dias Quintas,,,tl,palop_other
+Q38818706,Maria de Fátima Belo,,,tl,palop_other
+Q38822497,Rosalina Ximenes,,,tl,palop_other
+Q38832939,Maria Angelina Lopes Sarmento,,,tl,palop_other
+Q38956129,Júlio Sarmento da Costa,,,tl,palop_other
+Q39380137,Abrão José Freitas,,,tl,palop_other
+Q39409033,Signi Chandrawati Verdial,,,tl,palop_other
+Q39731408,Luís Roberto da Silva,,,tl,palop_other
+Q40013553,Aurélio Guterres,,,tl,palop_other
+Q40021435,Rui Augusto Gomes,,,tl,palop_other
+Q40027856,José Agostinho Sequeira,,,tl,palop_other
+Q55640246,Francisco de Vasconcelos,,,tl,palop_other
+Q55831986,João Rodrigues,,,tl,palop_other
+Q55830663,Roniere A. Brito,,,tl,palop_other
+Q55830728,Valente Quintao,,,tl,palop_other
+Q55831868,Apolinario Bere,,,tl,palop_other
+Q55831797,Hipolito de Jesus,,,tl,palop_other
+Q55831827,Joaquim C. Sarmento,,,tl,palop_other
+Q55872596,Regina Freitas,,,tl,palop_other
+Q55956963,Mau Hodu,,,tl,palop_other
+Q55958385,Feliciano Alves,,,tl,palop_other
+Q55971451,Hermenegildo da Cruz,,,tl,palop_other
+Q56240843,Samuel Marçal,,,tl,palop_other
+Q56290070,Sabino Soares,,,tl,palop_other
+Q56417042,António Soares da Silva,,,tl,palop_other
+Q56614329,Frederico Almeida Santos da Costa,,,tl,palop_other
+Q56683475,Rubia Fatima Martins,,,tl,palop_other
+Q1495695,Gastão Salsinha,,,tl,palop_other
+Q1515815,Gertrudes Araújo Moniz,,,tl,palop_other
+Q1523862,Gil da Costa Alves,,,tl,palop_other
+Q1553688,Guido Valadares,,,tl,palop_other
+Q1559359,Lucas da Costa,,,tl,palop_other
+Q1601771,Rosária Corte-Real,,,tl,palop_other
+Q1607187,Nai-Cau,,,tl,palop_other
+Q1616125,Jaime Xavier Lopes,,,tl,palop_other
+Q1647887,Rui Maria de Araújo,,,tl,palop_other
+Q1891748,Manuel Tilman,,,tl,palop_other
+Q1715708,Júlio Tomás Pinto,,,tl,palop_other
+Q1820247,Lere Anan Timur,,,tl,palop_other
+Q1845047,Alfredo Pires,,,tl,palop_other
+Q1882171,Ma'huno Bulerek Karathayano,,,tl,palop_other
+Q1897008,Mariano Sabino Lopes,,,tl,palop_other
+Q1905592,Martinho da Costa Lopes,,,tl,palop_other
+Q1908285,Maternus Bere,,,tl,palop_other
+Q1934599,Milena Pires,,,tl,palop_other
+Q5121309,Cipriano Branco,,,tl,palop_other
+Q5255247,Demetrio do Amaral de Carvalho,,,tl,palop_other
+Q5270662,Diamantino Leong,,,tl,palop_other
+Q5348153,Ego Lemos,,,tl,palop_other
+Q5361013,Elijeu De Jesus Belo Soares,,,tl,palop_other
+Q5371649,Emilia Pires,,,tl,palop_other
+Q5414237,Eusebio de Almeida,,,tl,palop_other
+Q5701661,Helder Mota Ricardo,,,tl,palop_other
+Q54862793,João Miranda,,,tl,palop_other
+Q54911733,Bella Galhos,,,tl,palop_other
+Q54976801,Isabel Maria Barreto Freitas Ximenes,,,tl,palop_other
+Q54980461,António de Sá Benevides,,,tl,palop_other
+Q55019384,Carlos César Correia Lebre,,,tl,palop_other
+Q55108316,Fabião de Oliveira,,,tl,palop_other
+Q55108287,Helena Martins Belo,,,tl,palop_other
+Q55108280,Nélia Soares Menezes,,,tl,palop_other
+Q55108321,José Pacheco Soares,,,tl,palop_other
+Q55108325,Marito Mota,,,tl,palop_other
+Q55239261,Manuel Cárceres da Costa,,,tl,palop_other
+Q55294502,Maria Gorumali Barreto,,,tl,palop_other
+Q1381687,Fernando Gusmão,,,tl,palop_other
+Q1270451,José Luís Guterres,,,tl,palop_other
+Q1291228,Eduardo de Carvalho,,,tl,palop_other
+Q1353448,Vicente dos Reis,,,tl,palop_other
+Q1368386,Maria Domingas Alves,,,tl,palop_other
+Q1373943,Fernando de Araújo,,,tl,palop_other
+Q1387515,João Mendes Gonçalves,,,tl,palop_other
+Q1397282,Nino Konis Santana,,,tl,palop_other
+Q610826,António Duarte,,,tl,palop_other
+Q508022,Moisés da Costa Amaral,,,tl,palop_other
+Q529549,Alfredo Reinado,,,tl,palop_other
+Q532610,Ángela Freitas,,,tl,palop_other
+Q535261,Angelita Pires,,,tl,palop_other
+Q546352,Aniceto Guterres Lopes,,,tl,palop_other
+Q562782,João Viegas Carrascalão,,,tl,palop_other
+Q41150546,Elvina Sousa Carvalho,,,tl,palop_other
+Q41320729,Fernando Hanjam,,,tl,palop_other
+Q41589088,Jose Anuno,,,tl,palop_other
+Q41589061,Nurima Ribeiro Alkatiri,,,tl,palop_other
+Q41627159,Abrão Oliveira,,,tl,palop_other
+Q41627155,Mariano Renato Monteiro da Cruz,,,tl,palop_other
+Q41661935,Aicha Bassarewan,,,tl,palop_other
+Q41669058,César Vital Moreira,,,tl,palop_other
+Q41729603,Jacinto Gusmão,,,tl,palop_other
+Q41755094,Deolindo da Silva,,,tl,palop_other
+Q41813633,Tes Fac Sing,,,tl,palop_other
+Q12481846,Domingos MD Soares,,,tl,palop_other
+Q14911982,Calisto da Costa,,,tl,palop_other
+Q14913359,Victor Ramos,,,tl,palop_other
+Q15648135,Yohan Goutt Goncalves,,,tl,palop_other
+Q15731890,Aurelio Freitas Ribeiro,,,tl,palop_other
+Q15731892,Manuel Gaspar Soares da Silva,,,tl,palop_other
+Q15731928,Paulo Moniz Maia,,,tl,palop_other
+Q1957073,Mário Nicolau dos Reis,,,tl,palop_other
+Q1957089,Mário Viegas Carrascalão,,,tl,palop_other
+Q1997361,Norberto Do Amaral,,,tl,palop_other
+Q2006557,Nélson Martins,,,tl,palop_other
+Q2042536,Ovídio Amaral,,,tl,palop_other
+Q2064022,Paulo Freitas da Silva,,,tl,palop_other
+Q28599426,Eduardo Ximenes,,,tl,palop_other
+Q28692522,Amorim Vieira,,,tl,palop_other
+Q28736880,Alexandre Gentil Corte-Real de Araújo,,,tl,palop_other
+Q28736809,Libório Pereira,,,tl,palop_other
+Q6963360,Nando,,,tl,palop_other
+Q6752703,Manuel Magalhaes de Oliveira,,,tl,palop_other
+Q6756309,Marcelino Da Costa Fernandes,,,tl,palop_other
+Q6777138,Martinho de Araújo,,,tl,palop_other
+Q6844801,Miguel Santos Soares,,,tl,palop_other
+Q6983337,Nazario do Carmo,,,tl,palop_other
+Q7289873,Ramon Saro,,,tl,palop_other
+Q7367018,Rosa Bonaparte,,,tl,palop_other
+Q1709655,José Teixeira,,,tl,palop_other
+Q1648578,Longuinhos Monteiro,,,tl,palop_other
+Q1655831,Francisco Kalbuadi Lay,,,tl,palop_other
+Q1668553,Virgílio dos Anjos,,,tl,palop_other
+Q1671864,Inácio Moreira,,,tl,palop_other
+Q1675775,Ivo Jorge Valente,,,tl,palop_other
+Q1677674,Jacob Xavier,,,tl,palop_other
+Q1703952,Jorge da Conceição Teme,,,tl,palop_other
+Q1710144,João Câncio Freitas,,,tl,palop_other
+Q1714271,Justino Mota,,,tl,palop_other
+Q1714693,Juventina Napoleão,,,tl,palop_other
+Q1111301,Maria do Céu,,,tl,palop_other
+Q1103840,Claudio de Jesus Ximenes,,,tl,palop_other
+Q1134370,Cornelio da Conceição Gama,,,tl,palop_other
+Q1227031,Dionísio Babo Soares,,,tl,palop_other
+Q1262756,Duarte Pio of Braganza,,,tl,palop_other
+Q937355,Fernando Sylvan,,,tl,palop_other
+Q989768,Aliança Araújo,,,tl,palop_other
+Q57890271,Manuel Belo,,,tl,palop_other
+Q59315413,Domingos de Oliveira,,,tl,palop_other
+Q56683479,Filomeno Jacob,,,tl,palop_other
+Q56752626,César Mousinho,,,tl,palop_other
+Q56824314,Carlito Pinheiro de Araújo,,,tl,palop_other
+Q57170115,Tomás Gonçalves,,,tl,palop_other
+Q57263398,Teófilo Freitas,,,tl,palop_other
+Q57266410,Pascoela dos Santos Pereira,,,tl,palop_other
+Q57831642,Calisto dos Santos,,,tl,palop_other
+Q57890232,Angela Freitas,,,tl,palop_other
+Q58594480,Leví Bucar Côrte-Real,,,tl,palop_other
+Q59261360,Armindo Soares Mariano,,,tl,palop_other
+Q59274429,Câncio de Carvalho,,,tl,palop_other
+Q59315377,Rui Emiliano Teixeira Lopes,,,tl,palop_other
+Q55338099,Gabriel Soares,,,tl,palop_other
+Q55294512,Lúcia Taeki,,,tl,palop_other
+Q55338065,Domingos Lopes Lemos,,,tl,palop_other
+Q55338055,Marcos Xavier,,,tl,palop_other
+Q55426017,José Virgílio Rodrigues Ferreira,,,tl,palop_other
+Q55426021,Óscar de Araújo,,,tl,palop_other
+Q55434158,Bonifácio dos Reis,,,tl,palop_other
+Q55452850,Longuinhos dos Santos,,,tl,palop_other
+Q55593443,António Maria Nobre Amaral Tilman,,,tl,palop_other
+Q55596660,Irene Gonzaga Sarmento,,,tl,palop_other
+Q55596678,Lígia Filomena Coelho da Silva,,,tl,palop_other
+Q55627224,Noé da Silva Ximenes,,,tl,palop_other
+Q92174193,António da Costa Lelan,,,tl,palop_other
+Q92212427,Armandina Maria Gusmão dos Santos,,,tl,palop_other
+Q92443810,Mateus Ximenes Belo,,,tl,palop_other
+Q92586742,Inácia Teixeira,,,tl,palop_other
+Q92594414,Gervásio Cardoso de Jesus da Silva,,,tl,palop_other
+Q92594530,Vicente Soares Faria,,,tl,palop_other
+Q93293852,Nur Aini Djafar Alkatiri,,,tl,palop_other
+Q93298173,Ali Alkatiri,,,tl,palop_other
+Q93389636,Luís Mendes Ribeiro,,,tl,palop_other
+Q93448652,Maria Teresa Hono Lay Correia,,,tl,palop_other
+Q93451408,António Tilman Cepeda,,,tl,palop_other
+Q93452493,Francisco Carlos Soares,,,tl,palop_other
+Q93288438,Djafar Alkatiri,,,tl,palop_other
+Q92598662,Mário Ferreira,,,tl,palop_other
+Q47198224,Gabriela Alves,,,tl,palop_other
+Q47165412,Virgílio Pereira,,,tl,palop_other
+Q47069797,Cidália Mesquita Ximenes,,,tl,palop_other
+Q47069807,Manuel Tomas Amaral de Carvalho,,,tl,palop_other
+Q47090393,Patrocino Fernandes dos Reis,,,tl,palop_other
+Q47090571,Lídia Norberta dos Santos Martins,,,tl,palop_other
+Q47165238,Ricardo Baptista,,,tl,palop_other
+Q47166319,Ernesto Fernandes,,,tl,palop_other
+Q47198169,Maria Anabela Sávio,,,tl,palop_other
+Q47198175,Noémia Sequeira,,,tl,palop_other
+Q47198568,Alexandrino Cardoso da Cruz,,,tl,palop_other
+Q96243088,António Cepeda,,,tl,palop_other
+Q96314552,Raúl da Cunha Mousaco,,,tl,palop_other
+Q96464515,Lino de Jesus Torrezão,,,tl,palop_other
+Q96613442,Carlos de Deus,,,tl,palop_other
+Q96626703,César da Cruz,,,tl,palop_other
+Q96671703,Luisa da Costa,,,tl,palop_other
+Q96679567,José Edmundo Caetano,,,tl,palop_other
+Q96758181,Domingos Lopes Antunes,,,tl,palop_other
+Q96776540,Alarico de Rosário,,,tl,palop_other
+Q96807075,Antonino Armindo,,,tl,palop_other
+Q96902755,Abílio Xavier de Araújo,,,tl,palop_other
+Q96942206,Elídio de Araújo,,,tl,palop_other
+Q96996855,Abrão Saldanha,,,tl,palop_other
+Q97058455,Osório Florindo,,,tl,palop_other
+Q97070016,Manuel Sarmento,,,tl,palop_other
+Q97015077,Maria José da Costa,,,tl,palop_other
+Q96749066,António Guterres,,,tl,palop_other
+Q96394143,Mouzinho,,,tl,palop_other
+Q59392042,Fernando do Carmo,,,tl,palop_other
+Q60189084,Alexandrino Borromeo,,,tl,palop_other
+Q60324364,Bernardino Bonaparte Soares,,,tl,palop_other
+Q60627957,José Cornélio Guterres,,,tl,palop_other
+Q60631368,Sérgio de Jesus Fernandes da Costa Hornai,,,tl,palop_other
+Q60658153,Arantes Isac Sarmento,,,tl,palop_other
+Q60674484,Joaquim Gusmão Martins,,,tl,palop_other
+Q60808660,Arif Abdullah Sagran,,,tl,palop_other
+Q61118267,Guilherme dos Santos,,,tl,palop_other
+Q61118269,Herminio da Costa,,,tl,palop_other
+Q61278558,Laura Soares Abrantes,,,tl,palop_other
+Q61278560,Maria Dadi Soares Magno,,,tl,palop_other
+Q61278578,Oscar Lima,,,tl,palop_other
+Q61659809,João Pedro da Silva Freitas,,,tl,palop_other
+Q61658040,Teófilo Caldas,,,tl,palop_other
+Q15731935,António dos Santos,,,tl,palop_other
+Q15731938,Eládio António Faculto de Jesus,,,tl,palop_other
+Q15731934,Felisberto Monteiro Guterres,,,tl,palop_other
+Q15731930,Leonel Lisboa Marçal,,,tl,palop_other
+Q15731937,Manuel de Castro Pereira,,,tl,palop_other
+Q15781461,Aderito Hugo da Costa,,,tl,palop_other
+Q15781862,Agostinho Lay,,,tl,palop_other
+Q15783442,Angelica da Costa,,,tl,palop_other
+Q15783446,Angelina Machado de Jesus,,,tl,palop_other
+Q15783711,Antoninho Bianco,,,tl,palop_other
+Q15783985,Armindo Maia,,,tl,palop_other
+Q65961964,Hercules,,,tl,palop_other
+Q64825280,Natércia Martins,,,tl,palop_other
+Q64932537,Jaime Ribeiro,,,tl,palop_other
+Q64605763,Justino Yap,,,tl,palop_other
+Q64606137,Filomena de Almeida,,,tl,palop_other
+Q64615182,Aires de Almeida,,,tl,palop_other
+Q64667729,Paulo Alves Sarmento,,,tl,palop_other
+Q64764200,António Tomás Amaral da Costa,,,tl,palop_other
+Q64785900,Dulce Maria da Cruz,,,tl,palop_other
+Q64797620,Manuel Álvaro da Cruz,,,tl,palop_other
+Q64821688,Odete Maria Freitas Belo,,,tl,palop_other
+Q65040182,Francisco Freitas,,,tl,palop_other
+Q65946013,Faustino Godinho Gonçalves,,,tl,palop_other
+Q65950373,Benevides Correia Barros,,,tl,palop_other
+Q65966534,Merita de Jesus Marques,,,tl,palop_other
+Q120507468,Santos Noronha,,,tl,palop_other
+Q120510935,Jorge Soares Cristóvão,,,tl,palop_other
+Q120638117,José Vieira de Araújo,,,tl,palop_other
+Q120653054,Ferdinando Vieira,,,tl,palop_other
+Q120653279,Mateus dos Santos Talo,,,tl,palop_other
+Q120653277,Rogério Araújo Mendonça,,,tl,palop_other
+Q120669136,Germano Santa Brites Dias,,,tl,palop_other
+Q107118199,Henrique da Costa,,,tl,palop_other
+Q107392638,Euclides Belo,,,tl,palop_other
+Q120670715,Domingos Mariano Reis,,,tl,palop_other
+Q120675907,César Merak,,,tl,palop_other
+Q120693982,Edgar Sequeira Martins,,,tl,palop_other
+Q121027948,Norberta da Cruz dos Santos,,,tl,palop_other
+Q43745375,José Martins,,,tl,palop_other
+Q43306238,Alexandre Afonso Nunes,,,tl,palop_other
+Q43378815,António Freitas,,,tl,palop_other
+Q43378817,António Freitas,,,tl,palop_other
+Q43378679,Santos E. Ferreira,,,tl,palop_other
+Q43798900,José Fernando Osório Soares,,,tl,palop_other
+Q44443794,Cidália Guterres,,,tl,palop_other
+Q45169629,Matías Boavida,,,tl,palop_other
+Q45200253,Cláudio do Carmo Vieira,,,tl,palop_other
+Q45679485,Isabel Barreto Lobato,,,tl,palop_other
+Q46532883,Papito Monteiro,,,tl,palop_other
+Q47008307,José Agustinho da Silva,,,tl,palop_other
+Q47008545,Leandro Lobato,,,tl,palop_other
+Q107696977,Imelda Ximenes Belo,,,tl,palop_other
+Q107400690,Maria Soares da Silva,,,tl,palop_other
+Q107404751,Miguel Maia dos Santos,,,tl,palop_other
+Q107406407,Olávio da Costa Monteiro de Almeida,,,tl,palop_other
+Q107545491,José Agostinho da Costa Belo,,,tl,palop_other
+Q107560725,Karlito Nunes,,,tl,palop_other
+Q107560944,Eusébio Corsino de Araújo,,,tl,palop_other
+Q107636631,Agostinho Sarmento,,,tl,palop_other
+Q110880142,Vasco da Gama,,,tl,palop_other
+Q110883462,Aleixo da Silva Gama,,,tl,palop_other
+Q111362310,Tiago Amaral Sarmento,,,tl,palop_other
+Q111369550,Júlio da Conceição,,,tl,palop_other
+Q111443849,Eldino Rodrigues dos Santos,,,tl,palop_other
+Q111443818,Maria do Rosário Fátima Correia,,,tl,palop_other
+Q111568429,Domingos Barreto,,,tl,palop_other
+Q65966773,Lourdes Alves Araújo,,,tl,palop_other
+Q65969919,Victor Manuel Alves,,,tl,palop_other
+Q66023522,Jacinto Alves,,,tl,palop_other
+Q66103628,Hermenegildo Alves,,,tl,palop_other
+Q66104830,Domingos Remedio da Silva,,,tl,palop_other
+Q66125906,Joanico da Costa,,,tl,palop_other
+Q66133412,Edmundo de Conceição Silva,,,tl,palop_other
+Q66317876,José Cirilo Nunes,,,tl,palop_other
+Q66339137,Madalena Boavida,,,tl,palop_other
+Q66350939,Guido Diamantino Soares,,,tl,palop_other
+Q68109053,Lisualdo Gaspar,,,tl,palop_other
+Q68674467,Judite Dias Ximenes,,,tl,palop_other
+Q70761560,Afonso Sávio,,,tl,palop_other
+Q73507948,Roberto Belo Amaral Soares,,,tl,palop_other
+Q97362128,António José Loiola de Sousa,,,tl,palop_other
+Q97394102,Francisco da Costa Monteiro,,,tl,palop_other
+Q97450743,Maria Genoveva da Costa Martins,,,tl,palop_other
+Q97466314,Constância de Jesus,,,tl,palop_other
+Q97467312,Maria Fátima Vaz,,,tl,palop_other
+Q97506225,Norberto José Maria Espírito Santo,,,tl,palop_other
+Q97572409,Francisco Lelan,,,tl,palop_other
+Q97584265,Salustiano Magno,,,tl,palop_other
+Q97624808,Elias Freitas,,,tl,palop_other
+Q97654696,José Andrade da Cruz,,,tl,palop_other
+Q97670904,Agia Bria,,,tl,palop_other
+Q97736157,Joaquim Barros Soares,,,tl,palop_other
+Q97779155,Flávio Maria Guterres da Silva,,,tl,palop_other
+Q97854424,Januário Soares,,,tl,palop_other
+Q97930389,Eusébio Guterres,,,tl,palop_other
+Q97970427,Agueda Ximenes,,,tl,palop_other
+Q97997760,Aquilino Fraga Guterres,,,tl,palop_other
+Q98000524,Brigida da Costa,,,tl,palop_other
+Q97669369,José Soares,,,tl,palop_other
+Q98065698,Pedro Gomes,,,tl,palop_other
+Q97607742,Alfredo da Silva,,,tl,palop_other
+Q19502282,Flávio Cardoso Neves,,,tl,palop_other
+Q19502619,Hernâni Coelho,,,tl,palop_other
+Q19513714,Santina Cardoso,,,tl,palop_other
+Q19631450,Mauk Moruk,,,tl,palop_other
+Q19646096,Horacio de Almeida,,,tl,palop_other
+Q19646115,Jesuina Maria Ferreira Gomes,,,tl,palop_other
+Q19646335,Silverio Pinto Baptista,,,tl,palop_other
+Q19721015,Gastão de Sousa,,,tl,palop_other
+Q19757721,Ezequiel Fernandes,,,tl,palop_other
+Q19757726,Ramos Maxanches,,,tl,palop_other
+Q19787388,Henrique Wilsons Da Cruz Martins,,,tl,palop_other
+Q19787401,Nataniel de Jesus Reis,,,tl,palop_other
+Q19834015,Abel Guterres,,,tl,palop_other
+Q81661917,João da Silva,,,tl,palop_other
+Q77219834,Francisco David Xavier Carlos,,,tl,palop_other
+Q77816127,José Barreto Quintas da Silva,,,tl,palop_other
+Q77840703,Imbrolia de Araújo dos Reis Amorin,,,tl,palop_other
+Q77977462,Ana Belo,,,tl,palop_other
+Q83052494,Inês Maria de Almeida,,,tl,palop_other
+Q83066807,Hermenegildo Lopes,,,tl,palop_other
+Q83156863,Abrão dos Santos,,,tl,palop_other
+Q83159161,Maria Renata de Jesus,,,tl,palop_other
+Q83170564,Maria de Fátima Wadhoomall Gomes,,,tl,palop_other
+Q83437237,Jesuinha de Oliveira,,,tl,palop_other
+Q122605045,Felícia Carvalho,,,tl,palop_other
+Q121056233,Felizarda Marçal da Costa,,,tl,palop_other
+Q121095917,Domingos Augusto,,,tl,palop_other
+Q122372441,Caetano Lopes Ximenes,,,tl,palop_other
+Q122388864,Venancio Alves Maria,,,tl,palop_other
+Q108311305,Crisódio Araújo,,,tl,palop_other
+Q108332239,Abel da Costa Xavier,,,tl,palop_other
+Q108352505,Renilde Corte-Real da Silva,,,tl,palop_other
+Q108461858,Vidal da Costa,,,tl,palop_other
+Q108640482,Benedita Freitas,,,tl,palop_other
+Q108747081,Rui da Silva Fernandes,,,tl,palop_other
+Q108839369,Guilhermina Filomena Saldanha,,,tl,palop_other
+Q108849170,Joana Veneranda Amaral,,,tl,palop_other
+Q108878699,Cristina Amaral,,,tl,palop_other
+Q108905877,António Hermenegildo da Costa,,,tl,palop_other
+Q109380713,Maria Tapó,,,tl,palop_other
+Q109453852,Remízia de Fátima da Silva,,,tl,palop_other
+Q109562189,Paulina Ribeiro,,,tl,palop_other
+Q109734158,Abraão de Vasconselos,,,tl,palop_other
+Q109783480,Mário do Carmo Lemos Belo,,,tl,palop_other
+Q109784954,Hélio Sanches Pina,,,tl,palop_other
+Q109925471,Manuela Leong Pereira,,,tl,palop_other
+Q109925818,Genoveva Ximenes Alves,,,tl,palop_other
+Q109936908,Jhon Firth,,,tl,palop_other
+Q62572976,Mateus Fernandes,,,tl,palop_other
+Q61716550,Salvador Soares dos Reis Pires,,,tl,palop_other
+Q61716791,Mário Ximenes,,,tl,palop_other
+Q61723559,Élia António de Araújo dos Reis Amaral,,,tl,palop_other
+Q61725741,Jaime Camacho Amaral,,,tl,palop_other
+Q61732654,Gil da Costa Monteiro,,,tl,palop_other
+Q61751121,Maria José da Fonseca Monteiro de Jesus,,,tl,palop_other
+Q61777474,Joaquim da Costa Guterres,,,tl,palop_other
+Q61883010,Julião da Silva,,,tl,palop_other
+Q61896366,Arsénio Pereira da Silva,,,tl,palop_other
+Q61990584,Alexandrino de Araújo,,,tl,palop_other
+Q61990540,João Zacarias,,,tl,palop_other
+Q62390925,Benicia Eriana Ximenes dos Reis Magno,,,tl,palop_other
+Q62390953,Miguel Pereira de Carvalho,,,tl,palop_other
+Q110728532,Felizberto Araújo Duarte,,,tl,palop_other
+Q110738262,Chung Su Sing,,,tl,palop_other
+Q110818227,Anacleto Bento Ferreira,,,tl,palop_other
+Q110870999,Bonifácio Magno,,,tl,palop_other
+Q47199141,Félix da Costa,,,tl,palop_other
+Q50805014,Hélder Lopes,,,tl,palop_other
+Q47198574,Fausto Freitas da Silva,,,tl,palop_other
+Q47198580,Domingos Sávio Cabral Ribeiro,,,tl,palop_other
+Q47198591,Dário Madeira,,,tl,palop_other
+Q47198586,Silvino Adolfo Morais,,,tl,palop_other
+Q47237456,Flotilda Sequeira Hermenegildo da Costa,,,tl,palop_other
+Q49409833,Francisco Dionisio Fernandes,,,tl,palop_other
+Q54075271,Isílio Coelho,,,tl,palop_other
+Q54371620,Cristina Alves da Silva,,,tl,palop_other
+Q54860649,Maunana,,,tl,palop_other
+Q41815293,Francisco Yong,,,tl,palop_other
+Q111709446,Cedelizia Faria dos Santos,,,tl,palop_other
+Q111795843,João Bosco Cárceres,,,tl,palop_other
+Q112112068,Eduardo dos Anjos,,,tl,palop_other
+Q112117411,Delio Anzaqeci Mouzinho,,,tl,palop_other
+Q112118145,Leoneto Martins,,,tl,palop_other
+Q113017004,José Gusmão,,,tl,palop_other
+Q122958639,Florentino Ximenes da Costa,,,tl,palop_other
+Q122958820,Cristina Yuri Rebelo dos Santos Costa,,,tl,palop_other
+Q122959271,Mariquita Soares,,,tl,palop_other
+Q122971188,Antoninho Doutel Sarmento,,,tl,palop_other
+Q122971757,Sancia Florência Paixão Bano,,,tl,palop_other
+Q122948318,José da Cruz,,,tl,palop_other
+Q93522563,Maria Avalziza Lourdes,,,tl,palop_other
+Q93645005,Miguel Soares Pinto,,,tl,palop_other
+Q93771118,Augusto da Conceição Amaral,,,tl,palop_other
+Q93861227,Jerónimo da Silva,,,tl,palop_other
+Q93996755,Madalena da Silva,,,tl,palop_other
+Q94156972,José Maria Barreto Lobato Gonçalves,,,tl,palop_other
+Q94328464,Amândio de Sá Benevides,,,tl,palop_other
+Q94379743,Vicente Fernandes e Brito,,,tl,palop_other
+Q94415502,Zélia Trindade,,,tl,palop_other
+Q94579920,Hugo Maria Fernandes,,,tl,palop_other
+Q94737482,Mário Batista,,,tl,palop_other
+Q94997360,Rui António da Cruz,,,tl,palop_other
+Q93641176,Miguel Soares,,,tl,palop_other
+Q94322173,José Gonçalves,,,tl,palop_other
+Q94703908,Albino da Silva,,,tl,palop_other
+Q122974173,Armando dos Santos Lopes,,,tl,palop_other
+Q122974174,Manuel Henrique Noronha,,,tl,palop_other
+Q122974485,António Verdial de Silva Ferreira,,,tl,palop_other
+Q122974662,Adolfo Martins,,,tl,palop_other
+Q122974393,Sancha Margarida Tilman,,,tl,palop_other
+Q122974681,Helder Freitas,,,tl,palop_other
+Q122974991,Abel dos Santos,,,tl,palop_other
+Q42264603,Laura Lopez,,,tl,palop_other
+Q41866107,Ângela Carrascalão,,,tl,palop_other
+Q41962315,Manuel Vong,,,tl,palop_other
+Q41962490,Sara Lobo Brites,,,tl,palop_other
+Q42532242,Cipriano Esteves Ferreira,,,tl,palop_other
+Q42622482,David Alex,,,tl,palop_other
+Q42683386,Duarte Souto Maior da Costa,,,tl,palop_other
+Q43043387,Faustino da Costa,,,tl,palop_other
+Q120373175,Flavio Brandão,,,tl,palop_other
+Q120411471,José Honório da Costa Pereira Jerónimo,,,tl,palop_other
+Q120493550,Verónica das Dores,,,tl,palop_other
+Q120499275,Paulo Remédios,,,tl,palop_other
+Q120501095,Júlio do Carmo,,,tl,palop_other
+Q120506780,Augusto Trindade,,,tl,palop_other
+Q120506798,Céu Brites,,,tl,palop_other
+Q63457255,Francisco da Silva,,,tl,palop_other
+Q64210804,Pedro Belo,,,tl,palop_other
+Q63030369,Francisco Maria de Vasconcelos,,,tl,palop_other
+Q63092979,José Turquel,,,tl,palop_other
+Q63164758,Fernando Teles do Nascimento,,,tl,palop_other
+Q63243780,Abílio José Caetano,,,tl,palop_other
+Q63257922,Matias Gouveia Duarte,,,tl,palop_other
+Q63343969,Nicolau Lino Freitas Belo,,,tl,palop_other
+Q63457334,Raul Lemos,,,tl,palop_other
+Q64081227,Reinaldo Freitas Belo,,,tl,palop_other
+Q64157005,Bernardo da Costa,,,tl,palop_other
+Q64374275,Venâncio Gomes da Silva,,,tl,palop_other
+Q64399627,María do Céu Pereira,,,tl,palop_other
+Q64409363,Guilhermina Araújo,,,tl,palop_other
+Q122615282,Natércia Cipriana Coelho da Silva,,,tl,palop_other
+Q122854483,Marcus Soares Martins,,,tl,palop_other
+Q122854648,Luís Ximenes Caldeira,,,tl,palop_other
+Q122855585,Firmino Taequi,,,tl,palop_other
+Q122917191,Saul Salvador Amaral,,,tl,palop_other
+Q122917192,Mateus da Cruz de Carvalho,,,tl,palop_other
+Q122937782,Anacleto Freitas,,,tl,palop_other
+Q122937786,Carminda Carlota,,,tl,palop_other
+Q122948126,António Moniz Calau,,,tl,palop_other
+Q114796487,Paulo Pereira dos Santos,,,tl,palop_other
+Q114907424,Domingos Soares,,,tl,palop_other
+Q114290420,José Gaspar Piedade,,,tl,palop_other
+Q114669073,Tibúrcio da Costa Neves,,,tl,palop_other
+Q114807516,Francisca Guterres,,,tl,palop_other
+Q85219392,Lino da Silva Saldanha,,,tl,palop_other
+Q85991556,Higino das Neves,,,tl,palop_other
+Q86731950,Nilton Gusmão dos Santos,,,tl,palop_other
+Q86740967,Jovito Araújo,,,tl,palop_other
+Q87067345,Manuel Freitas,,,tl,palop_other
+Q87072656,Josefa Adao da Silva,,,tl,palop_other
+Q87137524,Afonso da Costa Rangel,,,tl,palop_other
+Q87344842,Eusébio Salsinha,,,tl,palop_other
+Q87347433,Bety Reis,,,tl,palop_other
+Q87371108,Francisco Lui,,,tl,palop_other
+Q88397884,Danina Coelho,,,tl,palop_other
+Q87288221,José da Costa,,,tl,palop_other
+Q84603117,Jorge Carapinha,,,tl,palop_other
+Q84140033,Juvita Gonçalves,,,tl,palop_other
+Q84144788,Gil da Costa,,,tl,palop_other
+Q113485693,Filomeno,,,tl,palop_other
+Q114240208,Francisco da Silva,,,tl,palop_other
+Q114240324,Marcelino Ximenes,,,tl,palop_other
+Q114244639,Jape Kong Su,,,tl,palop_other
+Q115452416,Ernesto de Oliveira Barreto,,,tl,palop_other
+Q115456871,Domingos Sávio,,,tl,palop_other
+Q115461091,Pedro Paulo Gomes,,,tl,palop_other
+Q115463017,Bernardo Lopes,,,tl,palop_other
+Q115590903,Juvita Pereira Faria,,,tl,palop_other
+Q124258213,José Martinho dos Santos Soares,,,tl,palop_other
+Q124258519,Paulino Ribeiro,,,tl,palop_other
+Q124287579,Luís Inácio Henriques Fernandes,,,tl,palop_other
+Q124287774,Luís Marçal da Costa Tavares,,,tl,palop_other
+Q95152891,Arlindo Rangel,,,tl,palop_other
+Q95152890,João Soares Martins,,,tl,palop_other
+Q95386570,Elias Pereira Moniz,,,tl,palop_other
+Q95389035,João Cardoso Fernandes,,,tl,palop_other
+Q95467092,Nominando Soares Martins,,,tl,palop_other
+Q95587394,Rafael Pereira Gonçalves,,,tl,palop_other
+Q95592549,Ricardo Cardoso Nheu,,,tl,palop_other
+Q95691949,Pedro dos Reis,,,tl,palop_other
+Q95902212,Maria de Jesus Sarmento,,,tl,palop_other
+Q95913491,Carmeneza dos Santos Monteiro,,,tl,palop_other
+Q96098101,José Lucas da Silva,,,tl,palop_other
+Q96185059,Odete Víctor da Costa,,,tl,palop_other
+Q96213011,Arcanjo da Silva,,,tl,palop_other
+Q96240115,Felisberto de Deus,,,tl,palop_other
+Q95400797,Luís Vaz Rodrigues,,,tl,palop_other
+Q64416341,Francisco Benevides,,,tl,palop_other
+Q64422160,Inácio de Moura,,,tl,palop_other
+Q64589583,Simplício dos Santos Mendonça,,,tl,palop_other
+Q88963421,Rosantina de Jesus Marçal,,,tl,palop_other
+Q88966066,Lorenço Magno,,,tl,palop_other
+Q89359191,Guido de Oliveira,,,tl,palop_other
+Q89363747,Odete Viegas,,,tl,palop_other
+Q90404686,Maria Zevonia Fernandes Vieira,,,tl,palop_other
+Q91029593,Benedito Dias Quintas,,,tl,palop_other
+Q91030814,Césario Ximenes Belo,,,tl,palop_other
+Q91038096,Custódio Belo,,,tl,palop_other
+Q91250623,Kathleen Gonçalves,,,tl,palop_other
+Q91458535,Julieta de Jesus Panau,,,tl,palop_other
+Q91461774,Cristina Borges da Costa Tilman Ximenes,,,tl,palop_other
+Q91465062,Antónia Freitas,,,tl,palop_other
+Q88969231,Luís Gonzaga,,,tl,palop_other
+Q89410937,Agostinho Gomes,,,tl,palop_other
+Q123052715,Anito Matos,,,tl,palop_other
+Q123092113,Mario Marques Cabral,,,tl,palop_other
+Q123580879,Otélio Ote,,,tl,palop_other
+Q123581584,Rigoberto Monteiro,,,tl,palop_other
+Q123581817,Marília Oliveira da Costa,,,tl,palop_other
+Q123597353,Amito Araújo,,,tl,palop_other
+Q123923564,Natalina Ramos Filipe Horta,,,tl,palop_other
+Q124006086,Alexandre Vital da Cruz Araújo Tilman,,,tl,palop_other
+Q124014161,Chloé Tilman Dindo,,,tl,palop_other
+Q124256721,Gina Côrte-Real,,,tl,palop_other
+Q98088275,Dolores Costa,,,tl,palop_other
+Q98075359,Maria Valadares,,,tl,palop_other
+Q98097139,Afonso Noronha,,,tl,palop_other
+Q98110799,Jacinto de Andrade,,,tl,palop_other
+Q98137486,Quitéria da Costa,,,tl,palop_other
+Q98152791,Aires Francisco Cabral,,,tl,palop_other
+Q98172121,Ananias do Carmo Fuka,,,tl,palop_other
+Q98270848,Azevedo Lourenço da Costa Marçal,,,tl,palop_other
+Q98271498,Armando José Dourado da Silva,,,tl,palop_other
+Q98312906,Carlos de Almeida Sarmento,,,tl,palop_other
+Q98399557,Filomeno Pedro Cabral Fernandes,,,tl,palop_other
+Q98400512,Salvador Ximenes Soares,,,tl,palop_other
+Q100329036,Domingos Sávio dos Santos,,,tl,palop_other
+Q98446795,Alberto Araújo,,,tl,palop_other
+Q98203361,Ana Seixas,,,tl,palop_other
+Q124323575,Acilino Manuel Branco,,,tl,palop_other
+Q124804832,Regina de Sousa,,,tl,palop_other
+Q124827143,Rosena Fátima de Oliveira Martins,,,tl,palop_other
+Q125391786,Filomena da Costa,,,tl,palop_other
+Q126089860,João Pereira,,,tl,palop_other
+Q124711900,Maria Madeira,,,tl,palop_other
+Q107111553,José Neto Mok,,,tl,palop_other
+Q110402087,Basílio de Jesus,,,tl,palop_other
+Q110403752,Francisco Xavier Marques,,,tl,palop_other
+Q110409707,Adelino Afonso de Jesus,,,tl,palop_other
+Q110453681,Rodolfo Aparicio Guterres,,,tl,palop_other
+Q110463750,José António Fatíma Abílio,,,tl,palop_other
+Q110464188,Brígida Susana Esteves da Silva,,,tl,palop_other
+Q110509336,Luís Geraldo Ximenes de Oliveira,,,tl,palop_other
+Q110541057,Domingas dos Santos,,,tl,palop_other
+Q110590128,Cristevão,,,tl,palop_other
+Q110624127,Antero Bendito,,,tl,palop_other
+Q102418814,Tomás Correia de Oliveira,,,tl,palop_other
+Q104370862,Duarte Tilman Soares,,,tl,palop_other
+Q104625872,Ismael da Costa Babo,,,tl,palop_other
+Q104814888,Gualdino do Carmo da Silva,,,tl,palop_other
+Q104889654,Expedito Loro Dias Ximenes,,,tl,palop_other
+Q105953468,Rosa Garcia,,,tl,palop_other
+Q105964500,António Belo,,,tl,palop_other
+Q106005351,Simona Tilman,,,tl,palop_other
+Q106510509,Domingos Da Silva,,,tl,palop_other
+Q106642690,Alfonso Lopez,,,tl,palop_other
+Q106772269,José da Silva Viegas,,,tl,palop_other
+Q107030844,Nai-Chico,,,tl,palop_other
+Q107064978,Boavida Ribeiro,,,tl,palop_other
+Q107090356,Carlos Jerónimo,,,tl,palop_other
+Q116201734,Orlando Gomes,,,tl,palop_other
+Q116175938,Fernando Santana,,,tl,palop_other
+Q116175920,Nathan Conaboy,,,tl,palop_other
+Q116780782,Antônio Gonçalves,,,tl,palop_other
+Q116795812,Carlito Martins,,,tl,palop_other
+Q116919986,Odete Maria Belo,,,tl,palop_other
+Q116975992,Leonor Cardoso Mendes Mota,,,tl,palop_other
+Q116981045,Silvestre Sufa,,,tl,palop_other
+Q117227938,João Paulo da Costa Rangel,,,tl,palop_other
+Q136698815,José dos Santos,,,tl,palop_other
+Q136684466,José Nunes,,,tl,palop_other
+Q138602070,Ana Lemos,,,tl,palop_other
+Q136914211,Dotte,,,tl,palop_other
+Q135706444,Armindo Moniz Amaral,,,tl,palop_other
+Q136207231,Category:Régio da Cruz Salu,,,tl,palop_other
+Q136385767,Estanislau Sarmento,,,tl,palop_other
+Q136563750,Joanito Fernandes,,,tl,palop_other
+Q136647094,Melio de Jesus,,,tl,palop_other
+Q136690208,Muhammad Saleh Akbar Balikh,,,tl,palop_other
+Q137170291,Maubute,,,tl,palop_other
+Q137273427,José Lino dos Reis,,,tl,palop_other
+Q137536976,Repreto,,,tl,palop_other
+Q137544997,Domingos Samuel Doutel,,,tl,palop_other
+Q138654874,Jaime Oliveira,,,tl,palop_other
+Q139550500,Calisto Gonzaga,,,tl,palop_other
+Q139583268,Mariano Lopes da Cruz,,,tl,palop_other
+Q140299632,Maria Fátima Pereira Guterres,,,tl,palop_other
+Q136914658,Carlos,,,tl,palop_other
+Q117302456,Fernando Xavier,,,tl,palop_other
+Q117352435,Adelaide da Rosa,,,tl,palop_other
+Q117357763,Antonio Freitas Parada,,,tl,palop_other
+Q117398659,Bernardo Quintão,,,tl,palop_other
+Q117405895,Ernesto da Silva,,,tl,palop_other
+Q117853439,Leandro Maria Alves,,,tl,palop_other
+Q118695726,Eugénio Pereira,,,tl,palop_other
+Q115198322,Albino Ribeiro,,,tl,palop_other
+Q115411371,Abel de Conceição,,,tl,palop_other
+Q115450918,Leovigildo Amaral Pereira,,,tl,palop_other
+Q115451659,Olívio Freitas,,,tl,palop_other
+Q134294462,Afonso Carmona,,,tl,palop_other
+Q134435341,Nuno Corvelo Sarmento,,,tl,palop_other
+Q134475540,Domingos da Silva Soares,,,tl,palop_other
+Q134582751,Pascásio de Rosa Alves,,,tl,palop_other
+Q134996734,Fernando António Pires Madeira,,,tl,palop_other
+Q135261566,Sisto Santos,,,tl,palop_other
+Q134294463,João Ribeiro,,,tl,palop_other
+Q100444693,Daniel Santos do Carmo,,,tl,palop_other
+Q100501216,Alzira Sequeira Freitas dos Reis,,,tl,palop_other
+Q100699986,Carlos da Silva Lopes,,,tl,palop_other
+Q100727783,João Francisco de Fátima,,,tl,palop_other
+Q100742045,Paulo Gali,,,tl,palop_other
+Q100804816,José Estevão Soares,,,tl,palop_other
+Q100805938,Agustinho de Vasconselos,,,tl,palop_other
+Q100873322,João Sancho Pires,,,tl,palop_other
+Q101387963,Florentino Mateus Soares Ferreira,,,tl,palop_other
+Q101575908,Maria Lacruna,,,tl,palop_other
+Q101612226,Sisto dos Santos,,,tl,palop_other
+Q102217593,Luís Soares Barreto,,,tl,palop_other
+Q102225856,Cláudio Silva,,,tl,palop_other
+Q129915039,Corte-Real,,,tl,palop_other
+Q127295639,Jolanio Guterres,,,tl,palop_other
+Q130241818,Brigido de Sousa,,,tl,palop_other
+Q130256714,Agivedo Varela,,,tl,palop_other
+Q130548997,Aquito,,,tl,palop_other
+Q131097786,José Bonifacio dos Reis Araújo,,,tl,palop_other
+Q131179842,Gabriel de Jesus,,,tl,palop_other
+Q131183723,Lafaek Saburai,,,tl,palop_other
+Q131311327,Egidio Manek,,,tl,palop_other
+Q131339073,Vasco da Cruz,,,tl,palop_other
+Q131341379,Nazario Corte-Real,,,tl,palop_other
+Q131349147,Martinho Fernandes,,,tl,palop_other
+Q131363695,Agustinho Boavide Ximenes,,,tl,palop_other
+Q131721282,João Belo dos Reis,,,tl,palop_other
+Q132783046,Jonah Madeira,,,tl,palop_other
+Q119996342,Nahuel Arrarte,,,tl,palop_other
+Q120260135,Milena da Costa Rangel,,,tl,palop_other
+Q120372830,José Magno,,,tl,palop_other

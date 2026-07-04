@@ -1,0 +1,2073 @@
+# source_url: https://query.wikidata.org/sparql
+# license: CC0
+# country_qid: Q1029
+# note: WDQS label corpus; given/family fields blank when property joins time out
+qid,label,given_name,family_name,country,country_class
+Q219918,Samora Moisés Machel,,,mz,mz
+Q228807,Maria Mutola,,,mz,mz
+Q208355,Joaquim Chissano,,,mz,mz
+Q57392,Armando Guebuza,,,mz,mz
+Q58223,Oldemiro Balói,,,mz,mz
+Q34282,Alberto Vaquina,,,mz,mz
+Q5024,Abel Xavier,,,mz,mz
+Q236020,Luísa Diogo,,,mz,mz
+Q239105,Graça Machel,,,mz,mz
+Q212342,André Matsangaissa,,,mz,mz
+Q270580,Paulina Chiziane,,,mz,mz
+Q357430,Aires Ali,,,mz,mz
+Q20047924,Ângela Ferreira,,,mz,mz
+Q19958795,Nazira Abdul,,,mz,mz
+Q20014463,Vitória Diogo,,,mz,mz
+Q20085776,Samito,,,mz,mz
+Q20192117,Jaime Basílio Monteiro,,,mz,mz
+Q20740457,Carlos Nuno Castel-Branco,,,mz,mz
+Q20745030,Pio Matos,,,mz,mz
+Q1112681,Carlos Fumo Gonçalves,,,mz,mz
+Q1164625,Mário João Manganiga,,,mz,mz
+Q1165952,Dario Khan,,,mz,mz
+Q1225627,Dilon Djindji,,,mz,mz
+Q968260,Carlos Cardoso,,,mz,mz
+Q968908,Lionel Bastos,,,mz,mz
+Q10280037,Fany Pfumo,,,mz,mz
+Q10289562,Gilberto Mendes,,,mz,mz
+Q10292952,Gulamo Khan,,,mz,mz
+Q10308640,Josemar Machaísse,,,mz,mz
+Q10311261,João Carlos Alves de Vasconcelos Ribeiro,,,mz,mz
+Q10325143,Marcelo Panguana,,,mz,mz
+Q5243706,Daúto Faquirá,,,mz,mz
+Q5278340,Dinis Sengulane,,,mz,mz
+Q5340323,Edson Madeira,,,mz,mz
+Q5340644,Eduardo Joaquim Mulémbwè,,,mz,mz
+Q5398931,Esperança Bias,,,mz,mz
+Q5398929,Esperança Machavela,,,mz,mz
+Q5434415,Fanuel Massingue,,,mz,mz
+Q11815380,Pedro Cruz,,,mz,mz
+Q11728706,João Chissano,,,mz,mz
+Q11754533,Leonardo Loforte,,,mz,mz
+Q11764392,Luís Germano Borlotes Dias,,,mz,mz
+Q11787766,Mário Artur Borges Oliveira,,,mz,mz
+Q11794209,Nuro Tualibudane,,,mz,mz
+Q11815383,Pedro Gonçalvo,,,mz,mz
+Q11850616,Alberto Mula,,,mz,mz
+Q375824,Adriano Langa,,,mz,mz
+Q382101,Mia Couto,,,mz,mz
+Q383419,Afonso Dhlakama,,,mz,mz
+Q20993734,Bruno Pinto,,,mz,mz
+Q20993733,Bruno Pimentel,,,mz,mz
+Q20751598,Nuno Miguel Pinto Lopes Araújo,,,mz,mz
+Q20751656,Ivan Esculudes,,,mz,mz
+Q20751657,Spiros Esculudes,,,mz,mz
+Q20751731,Nelson Miquicene,,,mz,mz
+Q20883957,Paulo Machava,,,mz,mz
+Q20993738,Arnaldo Queirós,,,mz,mz
+Q20993744,Mário Rodriguez,,,mz,mz
+Q3336234,Nelinho,,,mz,mz
+Q3298231,Leonor Piuza,,,mz,mz
+Q3319731,Momed Hagy,,,mz,mz
+Q3574625,Zainadine Júnior,,,mz,mz
+Q3642716,Dimitri Tsafendas,,,mz,mz
+Q3679139,Clarisse Machanguana,,,mz,mz
+Q10331612,Momade Bachir Sulemane,,,mz,mz
+Q10338201,Nuno Guimarães,,,mz,mz
+Q10365317,Rui Pinheiro,,,mz,mz
+Q10369062,Sebastião Alba,,,mz,mz
+Q10384618,Helton Samo Cunha,,,mz,mz
+Q10556470,Ricardo Campos,,,mz,mz
+Q10394856,Zaida Chongo,,,mz,mz
+Q10513572,Joaquim Jorge,,,mz,mz
+Q384560,Malangatana Ngwenya,,,mz,mz
+Q431989,Noémia de Sousa,,,mz,mz
+Q433374,Lília Momplé,,,mz,mz
+Q5441745,Feliciano dos Santos,,,mz,mz
+Q5444804,Fernando Mandlate,,,mz,mz
+Q5448556,Filipe Nyusi,,,mz,mz
+Q4713122,Alcido Nguenha,,,mz,mz
+Q4739019,Amade Camal,,,mz,mz
+Q4767943,Annanias Mathe,,,mz,mz
+Q4776818,António Munguambe,,,mz,mz
+Q4794437,Arnaldo Ouana,,,mz,mz
+Q4867439,Basilio Muhate,,,mz,mz
+Q4891244,Uria Simango,,,mz,mz
+Q1406751,Nando,,,mz,mz
+Q1414329,Paulo Mandlate,,,mz,mz
+Q1438841,Sebastião Marcos Mabote,,,mz,mz
+Q510568,Afric Simone,,,mz,mz
+Q534319,Luís Carlos Patraquim,,,mz,mz
+Q546787,Alexandre José Maria dos Santos,,,mz,mz
+Q563131,José Craveirinha,,,mz,mz
+Q11684436,Adino Clodoaldo Tchabana,,,mz,mz
+Q11686756,Arnaldo Salvado,,,mz,mz
+Q11694768,Domingos Mendes,,,mz,mz
+Q11728261,Jorge Joaquim Messa Vulande,,,mz,mz
+Q11728534,José Albino,,,mz,mz
+Q11728548,José Augusto Dlofo,,,mz,mz
+Q3840972,Zé Luís,,,mz,mz
+Q3719817,Eduardo Jumisse,,,mz,mz
+Q3756471,Gabriel Estêvão Monjane,,,mz,mz
+Q3810727,João Paulo Borges Coelho,,,mz,mz
+Q3853399,Mc Roger Rasta,,,mz,mz
+Q51883311,Zena Bacar,,,mz,mz
+Q51954416,Ludovico Corsini,,,mz,mz
+Q52490014,Panaibra Gabriel Canda,,,mz,mz
+Q52499216,Janeth Mulapha,,,mz,mz
+Q52502886,Amelia Socovinho,,,mz,mz
+Q54009953,Frederico Muianga,,,mz,mz
+Q55106039,Ossufo Momade,,,mz,mz
+Q55237841,Rui Baltazar,,,mz,mz
+Q42938967,Maria Machongua,,,mz,mz
+Q44275924,Adriano Maleiane,,,mz,mz
+Q46022514,Stelio Craveirinha,,,mz,mz
+Q46824997,Paulo Noronha,,,mz,mz
+Q46835238,Abubacar Sultan,,,mz,mz
+Q47349292,Ludovina de Oliveira,,,mz,mz
+Q26709573,Igor Mogne,,,mz,mz
+Q26611697,Joaquim Lobo,,,mz,mz
+Q26236485,Jannah Sonnenschein,,,mz,mz
+Q26336652,Mussa Chamaune,,,mz,mz
+Q26761021,Alice Mabota,,,mz,mz
+Q26791248,Amélia Nakhare,,,mz,mz
+Q5028423,Campira,,,mz,mz
+Q5041940,Carlos Chimomole,,,mz,mz
+Q5064806,Cerqueira de Souza,,,mz,mz
+Q5068450,Chakyl Camal,,,mz,mz
+Q5096432,Chico Mapenda,,,mz,mz
+Q5196345,Custodio Muchate,,,mz,mz
+Q5219883,Danito Parruque,,,mz,mz
+Q617503,Eugénio Fernando Bila,,,mz,mz
+Q703613,Simão Mate Junior,,,mz,mz
+Q770510,Delmar Maia Gonçalves,,,mz,mz
+Q1656026,Ibraimo Mussagy,,,mz,mz
+Q1339120,Aldino Muianga,,,mz,mz
+Q1343369,Paíto,,,mz,mz
+Q1356776,Ernesto Maguengue,,,mz,mz
+Q1383773,Pascoal Mocumbi,,,mz,mz
+Q6482769,Lamá,,,mz,mz
+Q6291941,José Condungua Pacheco,,,mz,mz
+Q6292303,José Gabriel Manteigas,,,mz,mz
+Q6292485,José Ibraimo Abudo,,,mz,mz
+Q6321710,Júlio Eduardo Zamith Carrilho,,,mz,mz
+Q6369528,Karen Boswall,,,mz,mz
+Q6526096,Leonardo Simão,,,mz,mz
+Q9287803,Henrique Ferreira,,,mz,mz
+Q9253354,Emanuel Matola,,,mz,mz
+Q9323931,Rui Evora Alves,,,mz,mz
+Q9352822,Sérgio Faife Matsolo,,,mz,mz
+Q9368583,Vicente Daniel,,,mz,mz
+Q9594344,Alberto Magassela,,,mz,mz
+Q56355587,Morgado Mbalate,,,mz,mz
+Q56825104,Columbus Kamba Simango,,,mz,mz
+Q56825097,Muti Munene Sikobele,,,mz,mz
+Q59148333,Cecilia Henriques,,,mz,mz
+Q59296552,Uneiza Ali Issufo,,,mz,mz
+Q59519622,António Juliasse Ferreira Sandramo,,,mz,mz
+Q60194369,Lourenço do Rosário,,,mz,mz
+Q60676098,Lucas Sinoia,,,mz,mz
+Q60676557,Alberto Machaze,,,mz,mz
+Q47492973,Nelson Nhamussua,,,mz,mz
+Q47492987,Neidy Ocuane,,,mz,mz
+Q47539989,Mr. Bow,,,mz,mz
+Q48791311,Kelvin Viriato,,,mz,mz
+Q50378107,Ruth Garcês,,,mz,mz
+Q51883265,Ana Flávia Azinheira,,,mz,mz
+Q51883266,Marina Pachinuapa,,,mz,mz
+Q51883262,Rosália Mboa,,,mz,mz
+Q1278158,Ungulani Ba Ka Khosa,,,mz,mz
+Q1279833,Germano Grachane,,,mz,mz
+Q1315233,Sérgio Vieira,,,mz,mz
+Q1337958,Mário Wilson,,,mz,mz
+Q822987,Bernardo Filipe Governo,,,mz,mz
+Q923175,Nelson Saúte,,,mz,mz
+Q937371,Orlando Mendes,,,mz,mz
+Q948295,Daviz Simango,,,mz,mz
+Q952238,Eduardo White,,,mz,mz
+Q16164753,Pinto Barros,,,mz,mz
+Q16194995,Vince Cate,,,mz,mz
+Q16204685,Miriam Corsini,,,mz,mz
+Q16207240,Diogo António Alberto,,,mz,mz
+Q16215417,Ilidio Matusse,,,mz,mz
+Q16221700,Ermelinda Zamba,,,mz,mz
+Q16223775,Apson Manjate,,,mz,mz
+Q13481934,Zulficar Mussagy,,,mz,mz
+Q16161582,Carolina Araujo,,,mz,mz
+Q14965290,Anabela Cossa,,,mz,mz
+Q15965675,Faisal Bangal,,,mz,mz
+Q16012402,Octávio de Sá,,,mz,mz
+Q16015733,Tanya Anacleto,,,mz,mz
+Q16017721,Nyimpine Chissano,,,mz,mz
+Q16143974,Ace Nells,,,mz,mz
+Q16145814,Leonel Matonse,,,mz,mz
+Q10263813,Dama Bete,,,mz,mz
+Q10271926,Elisa Cossa,,,mz,mz
+Q10272837,Eneas da Conceição Comiche,,,mz,mz
+Q9594372,Alberto Massavanhane,,,mz,mz
+Q9594696,Albino Magaia,,,mz,mz
+Q9611963,Ana Bela Baltazar,,,mz,mz
+Q9629194,Armando Artur,,,mz,mz
+Q9674168,Calane da Silva,,,mz,mz
+Q63711389,Virgílio de Lemos,,,mz,mz
+Q62274562,Celso Ismael Correia,,,mz,mz
+Q62428082,Taússy Daniel,,,mz,mz
+Q62429926,Odete Muximpua,,,mz,mz
+Q63431954,Isaura Nyusi,,,mz,mz
+Q63507934,Francisco Madeira,,,mz,mz
+Q64764977,Salomé Mugabe,,,mz,mz
+Q65160367,Hélder Muteia,,,mz,mz
+Q13914486,Deolinda Ngulela,,,mz,mz
+Q14373081,Francisco Nunes Teixeira,,,mz,mz
+Q14468472,Leia Dongue,,,mz,mz
+Q3959898,Shéu,,,mz,mz
+Q4297415,Samir Adam,,,mz,mz
+Q4412825,Tina Paulino,,,mz,mz
+Q4711973,Alberto Chipande,,,mz,mz
+Q4711977,Alberto Chissano,,,mz,mz
+Q6749786,Maninho,,,mz,mz
+Q6696217,Lucas Macie,,,mz,mz
+Q6722500,Macamito,,,mz,mz
+Q6722501,Verónica Macamo,,,mz,mz
+Q56313227,Fernando Vaz,,,mz,mz
+Q55754259,Mauro Pinto,,,mz,mz
+Q55767739,Gita Honwana-Welch,,,mz,mz
+Q55909476,Ilda Chambe,,,mz,mz
+Q55909605,Filomena Micato,,,mz,mz
+Q55909772,Rute Muianga,,,mz,mz
+Q55909957,Regina Mahoche,,,mz,mz
+Q55910261,Odélia Mafanela,,,mz,mz
+Q62060804,Daniel David,,,mz,mz
+Q60676691,Archer Fausto,,,mz,mz
+Q60870405,Alfons Amade,,,mz,mz
+Q60976859,Tito Fernandes,,,mz,mz
+Q61000406,Alberto Ricardo Mondlane,,,mz,mz
+Q61641260,Sol de Carvalho,,,mz,mz
+Q61645369,Diogo Calila,,,mz,mz
+Q1441931,Francisco Chimoio,,,mz,mz
+Q1525559,Teodomiro Leite de Vasconcelos,,,mz,mz
+Q1618970,Hilário da Cruz Massinga,,,mz,mz
+Q20993758,Carlos Silva,,,mz,mz
+Q20993752,Frederico Saraiva,,,mz,mz
+Q21033215,Oscar Monteiro,,,mz,mz
+Q21621923,Alberto Mamba,,,mz,mz
+Q21847081,Naíta Ussene,,,mz,mz
+Q22669178,Frances Victória Velho Rodrigues,,,mz,mz
+Q23892807,Alan Simão Namaito,,,mz,mz
+Q23904963,Maria Helena Taipo,,,mz,mz
+Q19801037,Cristóvão Canhavato,,,mz,mz
+Q19816448,Carmelita Namashulua,,,mz,mz
+Q19834060,Adelaide Amurane,,,mz,mz
+Q19834890,Atanásio Mtumuke,,,mz,mz
+Q23904976,Lucrécia Paco,,,mz,mz
+Q23905383,Gil Pinto,,,mz,mz
+Q24451748,Reinildo Mandava,,,mz,mz
+Q25136905,Laylizzy,,,mz,mz
+Q25428506,Félix Paulo,,,mz,mz
+Q25428943,Carvalho Muária,,,mz,mz
+Q96505937,Alcinda Honwana,,,mz,mz
+Q97030774,Júlio José Parruque,,,mz,mz
+Q97030877,Celmira Da Silva,,,mz,mz
+Q97031320,Eliseu Joaquim Machava,,,mz,mz
+Q97031339,Lázaro Mathe,,,mz,mz
+Q97031995,António Simbine,,,mz,mz
+Q97031978,Jorge Muanahumo,,,mz,mz
+Q97032204,João Baptista Cosme,,,mz,mz
+Q97032402,Armando Panguene,,,mz,mz
+Q97033016,Raimundo Pachinuapa,,,mz,mz
+Q97031273,Abdul Razak,,,mz,mz
+Q77816317,Carlos dos Santos,,,mz,mz
+Q70607679,Tualibudine Mussa,,,mz,mz
+Q71522566,Erico Cuna,,,mz,mz
+Q72556770,Paulus Pierre Gerdes,,,mz,mz
+Q72564246,Fátima Albuquerque,,,mz,mz
+Q73263595,Maria Gustava,,,mz,mz
+Q73911269,Alvaro A. Vetina,,,mz,mz
+Q73922830,Manuel Kambala,,,mz,mz
+Q73922870,Pascoal Amorim,,,mz,mz
+Q76490760,Jocelyne Machevo,,,mz,mz
+Q76861982,Tania Safura Adam Mogne,,,mz,mz
+Q6864700,Mingas,,,mz,mz
+Q6764547,Mario Azevedo,,,mz,mz
+Q6771913,Marlon August,,,mz,mz
+Q6794007,Maurício Pequenino,,,mz,mz
+Q6844573,Miguel Gaudêncio,,,mz,mz
+Q1671868,Inácio Saure,,,mz,mz
+Q1678743,Jaime Pedro Gonçalves,,,mz,mz
+Q19259752,Atanasio Amisse Canira,,,mz,mz
+Q19588679,Gilles Cistac,,,mz,mz
+Q19594143,Mário Artur,,,mz,mz
+Q19613993,Ivone Soares,,,mz,mz
+Q19800984,Gonçalo Mabunda,,,mz,mz
+Q5701664,Helder Francisco Malauene,,,mz,mz
+Q5964166,Hélder Muianga,,,mz,mz
+Q5993938,David Simango,,,mz,mz
+Q6077711,Isabel Nkavadeka,,,mz,mz
+Q6153514,Janet Mondlane,,,mz,mz
+Q6181028,Jeremias Nguenha,,,mz,mz
+Q6187516,Jessica Teixeira Vieira,,,mz,mz
+Q6911274,Moreira Chonguica,,,mz,mz
+Q6936060,Munhawa Sousa Salvador,,,mz,mz
+Q7076812,Octavio Magolico,,,mz,mz
+Q7155153,Paulito,,,mz,mz
+Q7155325,Paulo Zucula,,,mz,mz
+Q7160001,Pedro Xavier,,,mz,mz
+Q2133237,Raúl Domingos,,,mz,mz
+Q2142187,Teodósio de Gouveia,,,mz,mz
+Q2148638,Ricardo Chibanga,,,mz,mz
+Q2175150,Rui Nogar,,,mz,mz
+Q2372239,Venâncio Mbande,,,mz,mz
+Q2403160,Chiquinho Conde,,,mz,mz
+Q5483313,Francisco Dique Sousa,,,mz,mz
+Q5483968,Francisco Songane,,,mz,mz
+Q5484390,Mario Ntimane,,,mz,mz
+Q5515729,Gabriel Macuvele,,,mz,mz
+Q5553148,Gerson Novela,,,mz,mz
+Q5561605,Rui Assubuji,,,mz,mz
+Q5643918,Hama Thai,,,mz,mz
+Q118613827,José Castiano de Zumbir,,,mz,mz
+Q118613828,Olímpio Victorino Vaz,,,mz,mz
+Q118613829,Oswaldo Assael Tazama,,,mz,mz
+Q118613831,Rafael Benedito Alfonso Megumi,,,mz,mz
+Q118655604,Mateus Pinho Gwenjere,,,mz,mz
+Q118792804,Albino Gabriel,,,mz,mz
+Q119059561,Neco Novellas,,,mz,mz
+Q119112984,Daniel Agostinho Mutambe,,,mz,mz
+Q119116595,Alberto Armando Alface,,,mz,mz
+Q119116590,Melven Choi,,,mz,mz
+Q119133423,Nuno Alexandre Alves de Sousa,,,mz,mz
+Q27243336,Leda Hugo,,,mz,mz
+Q27300097,Sebastião Chicuana,,,mz,mz
+Q6752407,Manuel Aranda da Silva,,,mz,mz
+Q6752965,Manuel de Araújo,,,mz,mz
+Q6760997,Maria Angelina Dique Enoque,,,mz,mz
+Q6761049,Maria Benvinda Levy,,,mz,mz
+Q6762420,Mariano de Araújo Matsinhe,,,mz,mz
+Q16337376,Duas Caras,,,mz,mz
+Q16337500,G2,,,mz,mz
+Q16231676,Deolinda Gimo,,,mz,mz
+Q16232460,Telinho,,,mz,mz
+Q16236175,Peter P. Gudo,,,mz,mz
+Q16266637,John Fundi,,,mz,mz
+Q16337312,Dama do Bling,,,mz,mz
+Q16337505,Gabriela Langa,,,mz,mz
+Q84336755,Beatriz A F Manuel,,,mz,mz
+Q85016758,Bruno Langa,,,mz,mz
+Q85865015,Amélia Margarida Matavele,,,mz,mz
+Q85879591,Énia Lipanga,,,mz,mz
+Q86676175,Solange Macamo,,,mz,mz
+Q18470573,Eduardo Carimo,,,mz,mz
+Q18589963,Ernesto Gove,,,mz,mz
+Q18719452,Saddan Guambe,,,mz,mz
+Q18921321,Edson Almeida,,,mz,mz
+Q18960390,Lisboa Matavel,,,mz,mz
+Q19057400,Carlos Agostinho do Rosário,,,mz,mz
+Q1689349,Jimmy Dludlu,,,mz,mz
+Q1703913,Jorge Rebelo,,,mz,mz
+Q1710136,João Carlos Hatoa Nunes,,,mz,mz
+Q1715702,Júlio Duarte Langa,,,mz,mz
+Q122922140,Adriano Nuvunga,,,mz,mz
+Q123129264,Mel Matsinhe,,,mz,mz
+Q123232803,DJ Tarico,,,mz,mz
+Q123282309,Lázaro Kavandame,,,mz,mz
+Q123422808,Selma Uamusse,,,mz,mz
+Q123467510,Jonathan Muiomo,,,mz,mz
+Q123566283,Lizette Chirrime,,,mz,mz
+Q124153011,Felizarda Lemos,,,mz,mz
+Q124246626,Amadú,,,mz,mz
+Q124249432,Ernan Siluane,,,mz,mz
+Q124259087,Domingos Macandza,,,mz,mz
+Q123717350,Pedro Moreira,,,mz,mz
+Q82665189,Pedro Chissano,,,mz,mz
+Q83161011,Kamo-Kamo,,,mz,mz
+Q83164233,João Fonseca Amaral,,,mz,mz
+Q83336188,Heliodoro Baptista,,,mz,mz
+Q83623389,Nelson Casimiro Zavale,,,mz,mz
+Q83864924,Fernando Ganhão,,,mz,mz
+Q84146575,Manuel Ernesto,,,mz,mz
+Q135376227,Cadete Afonso Covane,,,mz,mz
+Q135376224,Carlos Marinze Jr,,,mz,mz
+Q135376223,Dércio David Mula,,,mz,mz
+Q135376225,Delio Jorge João Chirindza,,,mz,mz
+Q135376226,Lucilio Celso Chona Mondlane,,,mz,mz
+Q135376470,Siade Raimundo da Costa Cossa,,,mz,mz
+Q135376988,Catarina de Fortes Binamo,,,mz,mz
+Q135376989,Denise Ernesto,,,mz,mz
+Q135377174,Chudy de Fatima José Macuacua,,,mz,mz
+Q135377175,Hasman Isabel Pedro,,,mz,mz
+Q135377176,Jéssica da Rebeca Victor Castro,,,mz,mz
+Q135377177,Ludomila Fernando Rangel,,,mz,mz
+Q135377178,Nedia de Fatima Américo Salimo,,,mz,mz
+Q135377182,Neyma Mildred Mahomed Ali,,,mz,mz
+Q135377179,Paula Orlando Chau Macuacua,,,mz,mz
+Q135377180,Rebeca José Chungane,,,mz,mz
+Q135377435,Jeronimo Joel Bispo,,,mz,mz
+Q135377181,Sheila Chaguala,,,mz,mz
+Q135377173,Yara Antonio Pelembe,,,mz,mz
+Q135377172,Yolanda Cecilia Sansão Chiulala,,,mz,mz
+Q135377561,Gregorio Ricardo Langa,,,mz,mz
+Q135377562,Helder Fernando Luis,,,mz,mz
+Q135377560,Tomas Fumo,,,mz,mz
+Q135378687,Ana Jaime,,,mz,mz
+Q135378686,Benezita Argentina Muchave,,,mz,mz
+Q135378691,Edson Aurélio Honwana,,,mz,mz
+Q135378486,Manuel João Uamusse,,,mz,mz
+Q135378329,Serina Chareka,,,mz,mz
+Q135378692,Herth Martino Mariote,,,mz,mz
+Q135378684,Isabel Carlos Mavamba,,,mz,mz
+Q135378690,Ivodio Salvador Macaringue,,,mz,mz
+Q135378708,Isabel Candida Henrique Saraiva Mazavile,,,mz,mz
+Q135378689,Joao Manhiça Junior,,,mz,mz
+Q135378709,Leia Tânia do Basiaõ Dongue,,,mz,mz
+Q135378688,Mauro Daniel Ngoque,,,mz,mz
+Q135378965,Delmira Antonio de Castro Invosso,,,mz,mz
+Q135378871,Iliana Sheila Alexandre Ventura,,,mz,mz
+Q135378633,Taima Salomão Cossa,,,mz,mz
+Q135379054,Edgar João Machava,,,mz,mz
+Q135378869,Rosita Zacarias Chilengue,,,mz,mz
+Q135378868,Sandra Maria Angelica Muthemba,,,mz,mz
+Q135379531,Helénio Félipe Velemo Machanguana,,,mz,mz
+Q135379532,Humberto Moisés Matholo,,,mz,mz
+Q135379933,Benjamin Pita Manhanga,,,mz,mz
+Q135379993,André Velasco Quicimusso,,,mz,mz
+Q135380352,Esmeralda Amalia Casimiro,,,mz,mz
+Q135380582,Arsênio Ângelo Mawelela Junior,,,mz,mz
+Q135380508,Felisberto Jorge Macuacua,,,mz,mz
+Q135380583,David Canivete Jr,,,mz,mz
+Q135380481,Katia Eunice Antunes Machai,,,mz,mz
+Q135380455,Marta Raimundo Luis Gange,,,mz,mz
+Q135380586,Ivaldo Fernando Dias Da Costa,,,mz,mz
+Q135380480,Marcia Candida Langa,,,mz,mz
+Q135380580,Joaquim Marques Paulino,,,mz,mz
+Q135380585,José Horêncio Samo Gudo,,,mz,mz
+Q135380351,Silvia Tatiana de Sousa Nevès,,,mz,mz
+Q135380587,Kevin Santana Afonso Magane,,,mz,mz
+Q135380581,Nelson Francisco Jossias,,,mz,mz
+Q135380507,Silvio Antonio da Silva Neves,,,mz,mz
+Q135378710,Orlando Novela,,,mz,mz
+Q79461908,Orlando Mesquita,,,mz,mz
+Q80545925,Bruno Nhavene,,,mz,mz
+Q81643517,Jorge Viegas,,,mz,mz
+Q81717135,Bento Sitoe,,,mz,mz
+Q81725076,Gabriel Makavi,,,mz,mz
+Q82324015,Jeremias Manjate,,,mz,mz
+Q6543659,Lidia Brito,,,mz,mz
+Q6550178,Lina Magaia,,,mz,mz
+Q6660621,Lizha James,,,mz,mz
+Q87492021,José Mossiane,,,mz,mz
+Q87721038,Mariza Gregorio,,,mz,mz
+Q88389312,Reinata Sadimba,,,mz,mz
+Q88463535,Leandro Jorge,,,mz,mz
+Q88473923,Manuel Chang,,,mz,mz
+Q88624340,Francisco Marcelino,,,mz,mz
+Q88816326,Clayton Langa,,,mz,mz
+Q89131891,Celina Cossa,,,mz,mz
+Q92130777,António Gumende,,,mz,mz
+Q97148662,Francisca Domingos Tomás,,,mz,mz
+Q97148766,Arlindo da Costa Chilundo,,,mz,mz
+Q97148966,Arnaldo Bimbe,,,mz,mz
+Q97148922,David Ngoane Malizane,,,mz,mz
+Q97149252,Júlio Almoço Nchola,,,mz,mz
+Q97152526,Aurélio Benete Manave,,,mz,mz
+Q97221887,Felício Pedro Zacarias,,,mz,mz
+Q97225775,Felisberto Paulino Tomás,,,mz,mz
+Q97228015,Francisco de Assis Masquil,,,mz,mz
+Q97244578,Fernando Matavele,,,mz,mz
+Q97244965,Tomé Eduardo,,,mz,mz
+Q66382364,Carlos dos Santos,,,mz,mz
+Q65170120,Admira António,,,mz,mz
+Q65206013,Mário Saraiva Ngwenya,,,mz,mz
+Q65322433,Melanie de Vales Rafael,,,mz,mz
+Q65924716,David Malembana,,,mz,mz
+Q65936325,Victor Matine,,,mz,mz
+Q65952280,Danito Nhampossa,,,mz,mz
+Q66482531,Tamara Seda,,,mz,mz
+Q16337564,Hernâni da Silva,,,mz,mz
+Q16337602,Iveth Mafundza,,,mz,mz
+Q16492110,António de Navarro,,,mz,mz
+Q16538367,Catia Halar,,,mz,mz
+Q16620213,Valerdina Manhonga,,,mz,mz
+Q16733150,Salvador Namburete,,,mz,mz
+Q16735092,Reginaldo Faife,,,mz,mz
+Q16990845,Rui Tenreiro,,,mz,mz
+Q27312653,Fátima Langa,,,mz,mz
+Q27345245,Valentina Guebuza,,,mz,mz
+Q27431338,Letícia da Silva Klemens,,,mz,mz
+Q1656894,Idrisse Mussagy,,,mz,mz
+Q7976922,Wazimbo,,,mz,mz
+Q8044456,Ximene Gomes,,,mz,mz
+Q8054460,Yohanna Barnaba Abdallah,,,mz,mz
+Q9154353,André Titos,,,mz,mz
+Q9162914,Avelino Maluana,,,mz,mz
+Q9171816,Binta Jambane,,,mz,mz
+Q27154897,Witi,,,mz,mz
+Q27049212,Flavio Seholhe,,,mz,mz
+Q27062984,Isabel Noronha,,,mz,mz
+Q27148276,Camilo de Sousa,,,mz,mz
+Q27220074,Nyeleti Mondlane,,,mz,mz
+Q106116924,Rady Gramane,,,mz,mz
+Q105946415,Venâncio Massingue,,,mz,mz
+Q105946573,Belmiro José Malate,,,mz,mz
+Q106232357,Carmen Maria,,,mz,mz
+Q106232326,Yara Costa,,,mz,mz
+Q106287094,Maimuna Adam,,,mz,mz
+Q106457174,Rui de Sousa,,,mz,mz
+Q106492653,Lucia da Luz Ribeiro,,,mz,mz
+Q7359595,Rogério Manjate,,,mz,mz
+Q7456383,Sete Muianga,,,mz,mz
+Q7517024,Silvia Panguana,,,mz,mz
+Q7615959,Stewart Sukuma,,,mz,mz
+Q7701012,Teodato Hunguana,,,mz,mz
+Q7811637,Tobias Joaquim Dai,,,mz,mz
+Q7820477,Tomás Inguana,,,mz,mz
+Q27613158,Luis Philippe Leboeuf,,,mz,mz
+Q27480289,Beatriz Buchili,,,mz,mz
+Q27503317,Gudrun Murray,,,mz,mz
+Q97034511,Stella Pinto Novo Zeca,,,mz,mz
+Q97034513,Raimundo Maico Diomba,,,mz,mz
+Q97034611,Djalma Lourenço,,,mz,mz
+Q97036050,Rosário Mualeia,,,mz,mz
+Q97058466,Daniel Chapo,,,mz,mz
+Q97058822,Agostinho Abacar Trinta,,,mz,mz
+Q97058835,Francisco Itae Meque,,,mz,mz
+Q97059248,Lázaro Vicente,,,mz,mz
+Q97061432,Manuel Rodrigues Alberto,,,mz,mz
+Q1750375,Mexer,,,mz,mz
+Q1873477,Lucio Andrice Muandula,,,mz,mz
+Q1878437,Luís Bernardo Honwana,,,mz,mz
+Q1891468,Manuel Chuanguira Machado,,,mz,mz
+Q1893287,Marcelino dos Santos,,,mz,mz
+Q9250648,Eduardo Costa,,,mz,mz
+Q9207031,Dias Alface,,,mz,mz
+Q9209726,Domingos Chivavele,,,mz,mz
+Q27582051,Stella Mendonça,,,mz,mz
+Q27597892,Vania Fausto Da T. Vilhete,,,mz,mz
+Q26849370,Edmilsa Governo,,,mz,mz
+Q26879516,Maria de Fátima Mendonça,,,mz,mz
+Q26937232,Glória Muianga,,,mz,mz
+Q26995850,Iolanda Cintura,,,mz,mz
+Q27038755,Esperança Mangaze,,,mz,mz
+Q27038729,Manuela Rebelo,,,mz,mz
+Q27044330,Sónia Sultuane,,,mz,mz
+Q27049023,Liloca,,,mz,mz
+Q105325516,Celeste Cossa,,,mz,mz
+Q105325465,Maria Laice,,,mz,mz
+Q105325526,Cecilia Chongo,,,mz,mz
+Q105325502,Helena da Gloria,,,mz,mz
+Q105325448,Rosinha Lisboa,,,mz,mz
+Q105325482,Melita Guambe,,,mz,mz
+Q105325510,Justina Gaspar,,,mz,mz
+Q105326768,Felizarda Paulino,,,mz,mz
+Q105326692,Teresa Amuli,,,mz,mz
+Q105326708,Salomé Moiane,,,mz,mz
+Q105071925,Esperança Muthemba,,,mz,mz
+Q105082561,Cristina Tembe,,,mz,mz
+Q105222167,Inácio Lucas,,,mz,mz
+Q105306764,Monica Chitupila,,,mz,mz
+Q105306784,Maria Arruvaia,,,mz,mz
+Q111907198,Graça Lindo Dinheiro,,,mz,mz
+Q111907199,Guerreiro Augusto Mundefa,,,mz,mz
+Q111907200,Guilherme Sampinguira Uissiquete,,,mz,mz
+Q111907201,Haia Ossufo Paquile,,,mz,mz
+Q111907202,Henrique Alexandre Mandava,,,mz,mz
+Q111843458,Safi Mahomed Reman Gulamo,,,mz,mz
+Q111843459,Samuel Eugénio Mandlate,,,mz,mz
+Q111843457,Sabir José Vasco Maquege,,,mz,mz
+Q111843461,Saíde Fidel,,,mz,mz
+Q111843460,Saripa Trinta Namuira,,,mz,mz
+Q111843465,Sábado Alamo Chombe,,,mz,mz
+Q111843462,Sebastião Inácio Saíde,,,mz,mz
+Q111843463,Sefo Sente,,,mz,mz
+Q111843466,Uale Amado,,,mz,mz
+Q111843467,Vasco David Gaspar,,,mz,mz
+Q111843470,Zacarias João Chivavi,,,mz,mz
+Q111843471,Zaia Miquitaio Cafumbe Valeta,,,mz,mz
+Q111843469,Zacarias José,,,mz,mz
+Q97061538,Ana Comoana,,,mz,mz
+Q97061797,Maurício Vieira,,,mz,mz
+Q97119572,Maria Elias Jonas,,,mz,mz
+Q97119895,Alfredo Namitete,,,mz,mz
+Q97119885,Telmina Pereira,,,mz,mz
+Q97120115,Cidália Manuel Chaúque,,,mz,mz
+Q97120178,Felismino Tocoli,,,mz,mz
+Q97120054,Victor Manuel Borges,,,mz,mz
+Q97120590,Filipe Paúnde,,,mz,mz
+Q97148316,Alfredo Cepeda Gamito,,,mz,mz
+Q66483699,Delma Zita,,,mz,mz
+Q66493526,Eleuteria Lhavanguane,,,mz,mz
+Q66493895,Ingvild Mucauro,,,mz,mz
+Q66712549,Dayo António,,,mz,mz
+Q67671549,Geny Catamo,,,mz,mz
+Q70040849,Mário Albino,,,mz,mz
+Q70604754,Nordino Mussa,,,mz,mz
+Q2661492,Tico-Tico,,,mz,mz
+Q2703205,João Rafael Kapango,,,mz,mz
+Q2714779,Gito Baloi,,,mz,mz
+Q2757210,Kurt Couto,,,mz,mz
+Q1957066,Mário da Graça Machungo,,,mz,mz
+Q2029230,Juliano Máquina,,,mz,mz
+Q2073256,Albino Cossa,,,mz,mz
+Q2095435,Suleiman Cassamo,,,mz,mz
+Q2107383,Neuso Sigauque,,,mz,mz
+Q17496476,Mingo Rangel,,,mz,mz
+Q17916931,Maria Muchavo,,,mz,mz
+Q18243589,Roberto Chichorro,,,mz,mz
+Q18246486,Elsa Mangue,,,mz,mz
+Q18276009,Isabel Novella,,,mz,mz
+Q18285224,Júlia Duarte,,,mz,mz
+Q18350460,Agostinho Mondlane,,,mz,mz
+Q18352681,Maria do Carmo Abecassis,,,mz,mz
+Q3245446,Ricardo Rangel,,,mz,mz
+Q3129584,Hélder Pelembe,,,mz,mz
+Q3177501,Jerry Sitoe,,,mz,mz
+Q3183084,Jojó Fernandes,,,mz,mz
+Q3266616,Luis Basto,,,mz,mz
+Q3298001,Neyma,,,mz,mz
+Q2408557,Kok Nam,,,mz,mz
+Q2440581,Tomaz Salomão,,,mz,mz
+Q2441387,Tomé Makhweliha,,,mz,mz
+Q2463578,Tânia Tomé,,,mz,mz
+Q2498195,Armando Sá,,,mz,mz
+Q2639296,Alberto Adriano,,,mz,mz
+Q2639436,Alberto Setele,,,mz,mz
+Q102046137,Lara Sousa,,,mz,mz
+Q102430251,Josina Z. Machel,,,mz,mz
+Q103961804,Amâncio Canhembe,,,mz,mz
+Q104615905,Constantino Reis,,,mz,mz
+Q104632444,Kinha Fonseca,,,mz,mz
+Q104632443,Miguel Teixeira,,,mz,mz
+Q105001942,Amélia Sumbana,,,mz,mz
+Q105038571,Eldevina Materula,,,mz,mz
+Q93359790,Abdul Magid Osman,,,mz,mz
+Q93893825,Amadeu Paulo Samuel da Conceição,,,mz,mz
+Q94531685,Raúl Bernardo Manuel Honwana,,,mz,mz
+Q94667381,Maria da Luz Guebuza,,,mz,mz
+Q94839123,Mércia Viriato Licá,,,mz,mz
+Q95182902,Irene Bechane,,,mz,mz
+Q95848878,Gabriel Mondlane,,,mz,mz
+Q96152297,Cristóvão Nanvonamuquitxo,,,mz,mz
+Q96195503,Paulina Mateus Nkunda,,,mz,mz
+Q111907212,João Afonso,,,mz,mz
+Q111907204,Inácio António Nunes,,,mz,mz
+Q111907206,James Mlando Fausto Njiji,,,mz,mz
+Q111907205,Jacinta Sousa Inácio,,,mz,mz
+Q111907208,Joaquim José Mondlane,,,mz,mz
+Q111907211,José Paulo da Cruz,,,mz,mz
+Q111907209,José António Chuquela,,,mz,mz
+Q111907214,Julieta Gilda João de Brito Chauma,,,mz,mz
+Q111907215,Juvenália Abiatar Mutemba,,,mz,mz
+Q111907213,Judite Anastácia João,,,mz,mz
+Q111907217,Leopoldina Manuel Gimo,,,mz,mz
+Q111907218,Lourenço Sabonete,,,mz,mz
+Q111907220,Luisa João Mumba Carlos Gandar Braga,,,mz,mz
+Q97627619,Isac Carvalho,,,mz,mz
+Q97627854,Nanani,,,mz,mz
+Q97655773,Sidique Mussagi,,,mz,mz
+Q97655842,Salomão Mondlane,,,mz,mz
+Q98093349,Lúcia José,,,mz,mz
+Q98106043,Domingas Munhemeze,,,mz,mz
+Q98465766,Kendal Manuel,,,mz,mz
+Q98559106,Ricardo Guta,,,mz,mz
+Q98967451,Graça Samo,,,mz,mz
+Q97656976,Nené,,,mz,mz
+Q27888537,Luís Miquissone,,,mz,mz
+Q27906287,Indira Bhikha,,,mz,mz
+Q99047752,Dalila Macuacua,,,mz,mz
+Q99803155,Sílvia do Rosario Silveira de Bragança,,,mz,mz
+Q99930193,Julinho Mboane,,,mz,mz
+Q100307867,Mavó,,,mz,mz
+Q100699718,Mariya Petrovna Zhabinskaya,,,mz,mz
+Q100794759,Ivan Mazuze,,,mz,mz
+Q100798339,Cornelio Guibunda,,,mz,mz
+Q101500083,Arlete Bombe,,,mz,mz
+Q105326781,Teresa Tembo,,,mz,mz
+Q105327920,Ana Sansão,,,mz,mz
+Q105327975,Felipa Muniveda,,,mz,mz
+Q105327962,Leopoldina dos Santos,,,mz,mz
+Q105497841,Carlos Mesquita,,,mz,mz
+Q105528026,Gustavo Da Silva,,,mz,mz
+Q105528029,Leila Sultuane,,,mz,mz
+Q105528027,Mussa Rashid,,,mz,mz
+Q105605503,Isabel Martins,,,mz,mz
+Q105605499,Maria Rafael,,,mz,mz
+Q111843474,Álvaro António Faquirá Caul,,,mz,mz
+Q111843475,Ângela Catarina Vidigal Fole Marizane,,,mz,mz
+Q111843500,José Domingos Manuel,,,mz,mz
+Q111843472,Zainane Memane Ossumane,,,mz,mz
+Q111843473,Zuria Tuaibo Assumane,,,mz,mz
+Q111893373,Filimão Suázi,,,mz,mz
+Q111893371,Fredson Bacar,,,mz,mz
+Q111893366,Inocêncio Impissa,,,mz,mz
+Q111893358,Manuel Bazo,,,mz,mz
+Q111893360,Ludovina Bernardo,,,mz,mz
+Q111893347,Olegário Banze,,,mz,mz
+Q111893339,Pedro Comissário Afonso,,,mz,mz
+Q111893328,Rolinho Farnela,,,mz,mz
+Q135380590,Edson Adriano Rodrigues Monjane,,,mz,mz
+Q135380589,Pedro da Conceição Betrufe Mourana,,,mz,mz
+Q135380588,Sidonio José Xerinda,,,mz,mz
+Q135381671,Amélia Marilia da Silva Cabral,,,mz,mz
+Q135381672,Amelia Massingue,,,mz,mz
+Q135381582,Domingos Lopes Junior Setumbe Monjana,,,mz,mz
+Q135381554,Januàrio José Veleno Beve,,,mz,mz
+Q135381453,Nica Laila Ernesto Gemo,,,mz,mz
+Q135381695,Helmano Nhatitima,,,mz,mz
+Q135381697,Khaimane Mikhan Delfino De Deus,,,mz,mz
+Q135381572,Ricardo Alipio,,,mz,mz
+Q135381583,Stélio Antonio Nuaila do Rogério,,,mz,mz
+Q135381669,Sheila Celeste Estevão Chongo,,,mz,mz
+Q135381670,Tania Loucia Salvador Wachena,,,mz,mz
+Q135382304,Guilherme Genilson da Silva Cabral,,,mz,mz
+Q135382378,Ivan Brito Gouveia,,,mz,mz
+Q135382303,Mauro da Conçeicão Matai,,,mz,mz
+Q135382663,Claudia Noemia Osorio Chembene,,,mz,mz
+Q135382656,Didian da Silva Suela,,,mz,mz
+Q135382302,Victor Pina Tamele,,,mz,mz
+Q135382376,Sansão Fernando Matavele,,,mz,mz
+Q135382379,Silvio Letela,,,mz,mz
+Q135382660,Iyara Solange Benjamin Manhique,,,mz,mz
+Q135382662,Janet Margarida Alvaro Monteiro,,,mz,mz
+Q135382657,Jossefina Albina Jafar,,,mz,mz
+Q135382659,Nadia Rosario,,,mz,mz
+Q135382661,Nadia das Dimes Zucule,,,mz,mz
+Q135382658,Vaneza Laura da Rosaria Tomas Junior,,,mz,mz
+Q135383644,Armando Baptista,,,mz,mz
+Q135383646,Elton Hector Tomas Mazive,,,mz,mz
+Q135383855,Ana Domingos Soeiro Branquinho,,,mz,mz
+Q135383854,Carla Denise Botao Comissario Da Silva,,,mz,mz
+Q135383648,Luis De Barros,,,mz,mz
+Q135383857,Eduarda Lidia Chongo,,,mz,mz
+Q135383856,Iracema Paulo Ndauane,,,mz,mz
+Q135383643,Samora Mucavel,,,mz,mz
+Q135383645,Tomàs Silvana Mateus Banze,,,mz,mz
+Q135383859,Nadia Navessa Noormahomed Rodrigues,,,mz,mz
+Q135383860,Ondina Gil De Arlete Nhampossa,,,mz,mz
+Q135383858,Silvia Janeth Americo Langa,,,mz,mz
+Q105324396,Carlota Chiwanga,,,mz,mz
+Q105325417,Celeste Manhica,,,mz,mz
+Q105325412,Maria Veloso,,,mz,mz
+Q111907223,Matilde Nazarena Anchunala,,,mz,mz
+Q111907221,Mateus Adamo Assane,,,mz,mz
+Q111907224,Muanassa Abubacar,,,mz,mz
+Q111907228,Nelson Albino Paiva,,,mz,mz
+Q111907230,Oreste Bustan,,,mz,mz
+Q111907229,Onório Plácido Horácio,,,mz,mz
+Q111907231,Patricio Filimone Meque,,,mz,mz
+Q111907233,Roberto Matola Saide,,,mz,mz
+Q111907235,Rosa Manuel Andrade da Silva,,,mz,mz
+Q111907239,Ruquia Muler Gustavo,,,mz,mz
+Q111907237,Ruquia Mohamed Saide,,,mz,mz
+Q111907240,Sabina Isaias Nhaca Fache,,,mz,mz
+Q111907241,Sabina Sara Hassane Bicá,,,mz,mz
+Q124259092,Lau King,,,mz,mz
+Q124304070,João Bonde,,,mz,mz
+Q124376646,Albertina Luís,,,mz,mz
+Q124376674,Cléusia Chirindza,,,mz,mz
+Q124376710,Naércia Langa,,,mz,mz
+Q124408950,Emília Saene,,,mz,mz
+Q124415277,Ivane Urrubal,,,mz,mz
+Q124476851,Angelica Salomao,,,mz,mz
+Q124476797,Cristina Fernando Magaia,,,mz,mz
+Q124476821,Palmira Cuinica,,,mz,mz
+Q124476810,Regina Osvaldo Mazumba,,,mz,mz
+Q124476837,Olga Arnaldo Matsolo,,,mz,mz
+Q124476866,Natercia Jone,,,mz,mz
+Q124537785,Dulce Mabjaia,,,mz,mz
+Q124537619,Shelsea Rafael,,,mz,mz
+Q124537749,Nilsa Chiziane,,,mz,mz
+Q107719078,Kevin Loforte,,,mz,mz
+Q107723787,Alicia Mateus,,,mz,mz
+Q106772750,Manuel Valoi,,,mz,mz
+Q106772755,Luís Parruque,,,mz,mz
+Q106806362,Ali Hassan,,,mz,mz
+Q106964002,Dominique Gonçalves,,,mz,mz
+Q107356500,Esselina Macome,,,mz,mz
+Q107363772,Tereza Alves,,,mz,mz
+Q107710585,Alcinda Panguana,,,mz,mz
+Q107739841,Lúcia Leila José,,,mz,mz
+Q27613155,Sozinho Guerra,,,mz,mz
+Q2944135,Mano,,,mz,mz
+Q2899154,Berry Bickle,,,mz,mz
+Q2980790,Clésio Bauque,,,mz,mz
+Q3013672,Almiro Lobo,,,mz,mz
+Q3079291,Francisco Massinga,,,mz,mz
+Q106547696,Salimo Abdula,,,mz,mz
+Q106574931,Helena Motta,,,mz,mz
+Q106602512,Lizzie Ana,,,mz,mz
+Q106606950,Afra Ndeve,,,mz,mz
+Q106615056,Nelsa Guambe,,,mz,mz
+Q106615083,Nelly Guambe,,,mz,mz
+Q106615452,Aurélia Manave,,,mz,mz
+Q106615458,Esperança Sambo,,,mz,mz
+Q106615459,Ramira Langa,,,mz,mz
+Q106772741,Antoninho Muchanga,,,mz,mz
+Q106772726,Cachela Boane,,,mz,mz
+Q124537804,Ornélia Mutombene,,,mz,mz
+Q124537868,Stefania Chiziane,,,mz,mz
+Q124606068,Palmira Velasco,,,mz,mz
+Q124606079,Rosa Langa,,,mz,mz
+Q124657831,Zenaida Machado,,,mz,mz
+Q124820421,Dana da Silva,,,mz,mz
+Q124820816,Nelsa Momade Pedro,,,mz,mz
+Q124820797,Sheila Pires,,,mz,mz
+Q125091521,Cecilia Guambe,,,mz,mz
+Q125132645,Selma Marivate,,,mz,mz
+Q125132717,Selma Inocência,,,mz,mz
+Q125216357,Shenidy Tsemane,,,mz,mz
+Q125265232,Célia Mahanjane,,,mz,mz
+Q125265188,Emília Moiane,,,mz,mz
+Q125265395,Aida Matsinhe,,,mz,mz
+Q125265322,Joana Macie,,,mz,mz
+Q2784086,Domingues,,,mz,mz
+Q2784090,Dário Monteiro,,,mz,mz
+Q2832185,Alcinda Abreu,,,mz,mz
+Q2865920,Artur Semedo,,,mz,mz
+Q125588498,Gabriel Salimo,,,mz,mz
+Q125599551,Cristina Mafumo,,,mz,mz
+Q125599536,Lina Maria da Silva Portugal,,,mz,mz
+Q125623625,Fernanda Lichale,,,mz,mz
+Q125623679,Faizal Faquir Cassam,,,mz,mz
+Q125626278,Lopes Tembe Ndelana,,,mz,mz
+Q125626336,Júlio Gonçalo Braga,,,mz,mz
+Q125626780,Joaquim Simeão Casimiro Bule,,,mz,mz
+Q125626965,Alfredo Fabião Novunga,,,mz,mz
+Q125626886,Ilundi dos Santos,,,mz,mz
+Q125626362,Daniel António,,,mz,mz
+Q111893393,Amílcar Paia Tivane,,,mz,mz
+Q111893389,Carla Louveira,,,mz,mz
+Q111893377,Cecília Chamutota,,,mz,mz
+Q111893613,Abdul Magide Ibraimo,,,mz,mz
+Q111893607,Aminuddin Mohammed,,,mz,mz
+Q111893679,Aguiar Mazua,,,mz,mz
+Q111893683,Domingos Manuel Joaquim,,,mz,mz
+Q111893606,Jamisse Taimo,,,mz,mz
+Q111893612,Juliano Picardo,,,mz,mz
+Q111893610,Maria Luisa Massamba,,,mz,mz
+Q111893623,Lucia Ribeiro,,,mz,mz
+Q111903969,Artur Hussene Canana,,,mz,mz
+Q111904063,António Supeia,,,mz,mz
+Q111904064,Dinis Vilanculos,,,mz,mz
+Q111904069,Judith Mussácula,,,mz,mz
+Q111904068,Mety Gondola,,,mz,mz
+Q111903997,Rosa Manuel da Silva,,,mz,mz
+Q111904044,Sheila de Lemos Santana Afonso,,,mz,mz
+Q111904046,Vicente Joaquim,,,mz,mz
+Q27913964,Luís Filipe,,,mz,mz
+Q111904581,Catarina Albertina Ratibo,,,mz,mz
+Q111904582,Celina Elias Solomone,,,mz,mz
+Q111904583,Chico Francisco,,,mz,mz
+Q111904584,Constância António Devesse,,,mz,mz
+Q111904586,Cristovao Felipe Soares,,,mz,mz
+Q111904585,Cornelio Quivela,,,mz,mz
+Q111904587,Cristóvão Gemusse Nhacatete,,,mz,mz
+Q111904588,Cristóvão Sucane,,,mz,mz
+Q111904590,Danilo Amarcy Ragú,,,mz,mz
+Q111904591,David Alone Selemane,,,mz,mz
+Q111904589,Daniel Litsure,,,mz,mz
+Q111904594,Domingos Pilale,,,mz,mz
+Q111904592,Dionísio Quelhas,,,mz,mz
+Q111904595,Duarte Cassiano,,,mz,mz
+Q111904596,Edgar Alfredo Cossa,,,mz,mz
+Q97253688,Cangela de Mendonça,,,mz,mz
+Q97268075,Paulo Auade,,,mz,mz
+Q97268999,Ratxide Abdala Ackyiamungo Gogo,,,mz,mz
+Q97284212,Idelfonso Muanantapha,,,mz,mz
+Q97285065,Joaquim Veríssimo,,,mz,mz
+Q97493215,Armindo Tiago,,,mz,mz
+Q97608419,Júlio Franque,,,mz,mz
+Q97608534,José Guirrugo,,,mz,mz
+Q97608441,Víctor Guambe,,,mz,mz
+Q97609598,Francisco Muchanga,,,mz,mz
+Q122613074,Jessemusse Cacinda,,,mz,mz
+Q122748313,Osório Citora Afonso,,,mz,mz
+Q119401166,Bernadette Sambo,,,mz,mz
+Q119440428,Steven Sabino,,,mz,mz
+Q119538872,Carla Budane,,,mz,mz
+Q119550811,Clitan de Sousa,,,mz,mz
+Q119555237,Chanaya Pinto,,,mz,mz
+Q119568841,Hulda Joaquim,,,mz,mz
+Q120263230,Abel Joshua,,,mz,mz
+Q120970525,Nasir Salé,,,mz,mz
+Q120970854,Milagre Macome,,,mz,mz
+Q121628348,Onisio Pereia,,,mz,mz
+Q122341131,Alsácia Atanásio Nhacumbe,,,mz,mz
+Q111907242,Salma Maria Alexandre Machate,,,mz,mz
+Q111907243,Sofia Afonso Jinja Cussaia,,,mz,mz
+Q111907244,Suzete Alberto Dança,,,mz,mz
+Q111907246,Tania Crescente Elson Canhemba,,,mz,mz
+Q111907247,Teodoro Andrade Waty,,,mz,mz
+Q111954487,Waldemar Pires Alexandre,,,mz,mz
+Q112042696,Mário de Azevedo Constantino,,,mz,mz
+Q112224802,Silvia Veloso,,,mz,mz
+Q112225657,Vilma Covane,,,mz,mz
+Q112303949,Deodato Siquir,,,mz,mz
+Q113189773,Mateus Magala,,,mz,mz
+Q113189797,Josefina Beato Mateus Mpelo,,,mz,mz
+Q111904077,Amosse Macamo,,,mz,mz
+Q111904071,Elisa Zacarias,,,mz,mz
+Q111904338,António Inácio Júnior,,,mz,mz
+Q111904076,Ludmila Maguni,,,mz,mz
+Q111904375,Alberto Maverengue Augusto,,,mz,mz
+Q111904351,Berta Celestino Cossa,,,mz,mz
+Q111904367,Filipe Chidumo,,,mz,mz
+Q111904362,Gamiliel Sepúlveda João Munguambe,,,mz,mz
+Q111904389,Florêncio Joel Alberto Sele,,,mz,mz
+Q111904379,Maria Manuela Lucas,,,mz,mz
+Q111904353,Osvalda Joana,,,mz,mz
+Q111843442,Natércia Mutide Pilima,,,mz,mz
+Q111843443,Nerina Jone Bustani,,,mz,mz
+Q111843444,Nharongue Mário Muringa,,,mz,mz
+Q111843446,Nunes Age Antage,,,mz,mz
+Q111843445,Noel Brácio Nandena,,,mz,mz
+Q111843447,Olívia Fernando Matavele,,,mz,mz
+Q111843448,Osório João Soto,,,mz,mz
+Q111843449,Palma Pinto da Conceição José Maria,,,mz,mz
+Q111843450,Paulino Santos Lenço,,,mz,mz
+Q111843451,Paulo Rosário Phatama,,,mz,mz
+Q111843452,Pedro António Bila,,,mz,mz
+Q111843454,Ricardo Joaquim Nguiriche Gerente,,,mz,mz
+Q111843455,Rita Bento Muianga,,,mz,mz
+Q111843456,Rogério Ernesto Mboa,,,mz,mz
+Q111904646,João Manuel Rocha,,,mz,mz
+Q111904647,Joe Lucas de Figueireiro,,,mz,mz
+Q111904648,Joel Matias Libombo,,,mz,mz
+Q111904650,José Carlos Rodrigues Palaco,,,mz,mz
+Q111904651,José do Rosario,,,mz,mz
+Q111904649,José Augusto Mazuana,,,mz,mz
+Q111904654,José Mascarenhas,,,mz,mz
+Q111904655,José Patricio Manuel Andre,,,mz,mz
+Q111904652,José Ferreira Muivai,,,mz,mz
+Q111904653,José Maria Sisto Carrau,,,mz,mz
+Q111904656,José Zeca Arijama,,,mz,mz
+Q111904657,Judite Angelina Macoo,,,mz,mz
+Q111904658,Khalid Hussene Muhamed Sidat,,,mz,mz
+Q111904659,Laurinda José Pequenino,,,mz,mz
+Q111904660,Lazaro Ernesto Mabone,,,mz,mz
+Q111904663,Lerina dos Prazeres dos Santos,,,mz,mz
+Q114320536,Fernando Bemane de Sousa,,,mz,mz
+Q114320451,Manuel José Gonçalves,,,mz,mz
+Q114459865,Anabela Lemos,,,mz,mz
+Q114680327,Valeriano Ferrão,,,mz,mz
+Q114729358,Gianluca Lorenzoni,,,mz,mz
+Q115101070,Lourenço Lindonde,,,mz,mz
+Q115195006,Antonio Machava,,,mz,mz
+Q115627308,Euridice Zaituna Kala,,,mz,mz
+Q115688336,António Manuel Bogaio Constantino,,,mz,mz
+Q111904539,Abel Ernesto Safrao,,,mz,mz
+Q111904540,Abel Gabriel Mabunda,,,mz,mz
+Q111904541,Abílio Adelaide António,,,mz,mz
+Q111904542,Agostinho Nampera Sualeia,,,mz,mz
+Q111904543,Agostinho Semende Murrial,,,mz,mz
+Q111904546,Aissa Ossufo Suale,,,mz,mz
+Q111904544,Agostinho Ussene,,,mz,mz
+Q111904547,Aiuba Ismail,,,mz,mz
+Q111904545,Ahamed Ismail Musa,,,mz,mz
+Q111904548,Aiuba Megama Abdul Camal,,,mz,mz
+Q111904549,Albertina Vicente Pelembe,,,mz,mz
+Q111904402,José Maria da Silva Vieira de Morais,,,mz,mz
+Q111904401,Leonardo Rosário Manuel Pene,,,mz,mz
+Q111904395,Tiago Recibo Castigo,,,mz,mz
+Q111904567,António K Mafuta Banda,,,mz,mz
+Q111904568,António Muanayange,,,mz,mz
+Q111904569,Armando Maria Pereira Constantino Julio,,,mz,mz
+Q111904571,Augusto Janeiro Gumbaza,,,mz,mz
+Q111904572,Aurelio Amandio Zilhao,,,mz,mz
+Q111904573,Aurora Mussane Murrime,,,mz,mz
+Q111904574,Bachir Kassimo,,,mz,mz
+Q111904575,Bernardo Assumane Sabao,,,mz,mz
+Q111904578,Carlos Macareia,,,mz,mz
+Q111904579,Carolina Halime Chemane,,,mz,mz
+Q111904576,Carlos Alexandre dos Reis,,,mz,mz
+Q111904577,Carlos da Piedade,,,mz,mz
+Q111904580,Casimiro Pedro Sacadura Huate,,,mz,mz
+Q27862764,Juvenal Bucuane,,,mz,mz
+Q27881307,Geraldo Matsimbe,,,mz,mz
+Q109950532,Augusta Maita,,,mz,mz
+Q109950530,Helena Mateus Kida,,,mz,mz
+Q109950683,Daniel Nivagara,,,mz,mz
+Q109950753,Constantino Bacela,,,mz,mz
+Q109950913,Carlos Jorge Siliya,,,mz,mz
+Q125265518,Cátia Mangue,,,mz,mz
+Q125265473,Olívia Mapute,,,mz,mz
+Q125265592,Verónica Sidumo,,,mz,mz
+Q125266330,Ângela Semedo,,,mz,mz
+Q125266377,Adina Sualehe,,,mz,mz
+Q125266301,Hermínia Machel,,,mz,mz
+Q125266138,Orlanda Mendes,,,mz,mz
+Q125266426,Fátima Mimbire,,,mz,mz
+Q125266575,Ermelinda Nhantave,,,mz,mz
+Q125266503,Nadia Issufo,,,mz,mz
+Q125524453,Razaque Manhique,,,mz,mz
+Q125537615,Pascoal Ronda,,,mz,mz
+Q125559500,Amade Miquidade,,,mz,mz
+Q125569035,Melque Alexandre,,,mz,mz
+Q125536445,João Mazive,,,mz,mz
+Q125536448,Lóló Warrumua,,,mz,mz
+Q125543988,Nelson Divrassone,,,mz,mz
+Q125546953,Chico Mioche,,,mz,mz
+Q125536446,Raúl,,,mz,mz
+Q118136083,Ana Magaia,,,mz,mz
+Q118144122,Brazão Mazula,,,mz,mz
+Q118177018,Calisto Meque,,,mz,mz
+Q118178750,Mateus Ngonhamo,,,mz,mz
+Q118180846,Luís Polanah,,,mz,mz
+Q111906931,Armindo João Milaco,,,mz,mz
+Q111906932,Arnaldo Obed Muchabje Quibe,,,mz,mz
+Q111906934,Assane Ali,,,mz,mz
+Q111906933,Artur Xavier Vilanculos,,,mz,mz
+Q111906935,Augusto Jonas Navando,,,mz,mz
+Q111906936,Augusto Mateus,,,mz,mz
+Q111906938,Azevedo Evaristo Mussibora,,,mz,mz
+Q111906942,Bernardo Júlio Macamo,,,mz,mz
+Q111906941,Bendita Francisco Nchumali,,,mz,mz
+Q111906944,Brito Caetano,,,mz,mz
+Q111906947,Castro Qualquer António Ntemassaka,,,mz,mz
+Q111906948,Catarina Paiva Muacamissa,,,mz,mz
+Q125629222,Álex Pérez,,,mz,mz
+Q125627592,Isac Mamudo Massamby,,,mz,mz
+Q125697898,Gonçalves Rafael Guiliche Sengo,,,mz,mz
+Q125697884,José Rui Mota do Amaral,,,mz,mz
+Q125698018,Amour Zacarias Kupela,,,mz,mz
+Q125698033,Jorge de Sousa Mateus,,,mz,mz
+Q125698118,Fernando Andrade Fazenda,,,mz,mz
+Q125698052,Pedro João de Azevedo Davane,,,mz,mz
+Q125698741,Alexandre de Conceição Zandamela,,,mz,mz
+Q125698727,Francisco Elias Paulo Cigarro,,,mz,mz
+Q125698785,Mónica Patrício Clemente Mussa,,,mz,mz
+Q125698988,Bernardo Marcelino Cherinda,,,mz,mz
+Q125699005,Manuel Lubisse,,,mz,mz
+Q125699052,Vicente Mebunia Veloso,,,mz,mz
+Q117865667,José Luís Cabaço,,,mz,mz
+Q118096443,Valente Cuambe,,,mz,mz
+Q118097183,Maria Celeste Mac-Arthur,,,mz,mz
+Q118104823,Heliodoro Baptista Júnior,,,mz,mz
+Q118111180,Fernando Leite Couto,,,mz,mz
+Q111904610,Faustino Licaneque,,,mz,mz
+Q111904614,Fernando Saide,,,mz,mz
+Q111904612,Faustino Mateus,,,mz,mz
+Q111904613,Feliciano Anjo Bernardo Mata,,,mz,mz
+Q111904615,Filipa Baltazar da Costa,,,mz,mz
+Q111904618,Francisco João Pateguana,,,mz,mz
+Q111904616,Francisco Domingos Machambisse,,,mz,mz
+Q111904617,Francisco João José Dias,,,mz,mz
+Q111904620,Francisco Rupansane,,,mz,mz
+Q111904622,Graça César Machaiane Nhanala Nhaliginga,,,mz,mz
+Q111904623,Hariazate Suria,,,mz,mz
+Q111904626,Henriques Bone Mulieca,,,mz,mz
+Q111904625,Helena da Zinha Paulo,,,mz,mz
+Q111904598,Eliado Jossias Mussengue,,,mz,mz
+Q111904597,Eduardo Augusto Elias,,,mz,mz
+Q111904602,Elvira Luis Mabunda,,,mz,mz
+Q111904600,Elisa Nicolau José de Melo,,,mz,mz
+Q111904601,Elvino José de Sousa Ferrão,,,mz,mz
+Q111904603,Ernesto Cassimuca Lipapa,,,mz,mz
+Q111904606,Etelvina Rita Joaquim Fevereiro,,,mz,mz
+Q111904604,Ernesto Filipe Mausse,,,mz,mz
+Q111904607,Eugénio Numaio,,,mz,mz
+Q111904605,Ernesto Muala,,,mz,mz
+Q111904608,Fátima Luis Omar Danune,,,mz,mz
+Q111904609,Faustina Manuel,,,mz,mz
+Q107746035,Deizy Nhaquile,,,mz,mz
+Q107842531,Denise Parruque,,,mz,mz
+Q107842472,Maria Machava,,,mz,mz
+Q107739850,Childo Tomas,,,mz,mz
+Q108198320,Shaquille Momad Nangy,,,mz,mz
+Q108867608,Francisco Simbine,,,mz,mz
+Q108882342,Mickey Fonseca,,,mz,mz
+Q108902945,Jose Valentim Melo de Sousa,,,mz,mz
+Q111904664,Linete Eunice Gonoury,,,mz,mz
+Q111904666,Lucia Xavier,,,mz,mz
+Q111904667,Luis Alberto Franco Afonso Videira,,,mz,mz
+Q111904665,Lorenco Juma,,,mz,mz
+Q111904670,Luis Garife Matsangaice,,,mz,mz
+Q111904671,Luis Inacio,,,mz,mz
+Q111904668,Luis Benedito Gouveia,,,mz,mz
+Q111904669,Luis Boavida Mudivela,,,mz,mz
+Q111904672,Lurdes António Manuel,,,mz,mz
+Q111904673,Lurdes Daniel,,,mz,mz
+Q111904676,Mahomed Rucundino Dula,,,mz,mz
+Q111904678,Manuel Fernandes Pereira,,,mz,mz
+Q111904677,Maneca Daniel,,,mz,mz
+Q111904683,Manuel Pereira,,,mz,mz
+Q111904687,Maria Antonia,,,mz,mz
+Q111904679,Manuel Henrique Franque,,,mz,mz
+Q111904682,Manuel Nongofe Bendzane,,,mz,mz
+Q111904680,Manuel Jorge Tome,,,mz,mz
+Q111904681,Manuel Jose dos Santos,,,mz,mz
+Q111904684,Maria Angela Ismael Manjate,,,mz,mz
+Q111904690,Maria Isabel Ferreira Lima,,,mz,mz
+Q111904691,Maria Josefa Miguel,,,mz,mz
+Q111904688,Maria das Dores de António,,,mz,mz
+Q111904689,Maria de Lurdes Gouveia,,,mz,mz
+Q111904692,Maria Matilde Alves Lampião Soares,,,mz,mz
+Q111904693,Maria Tereza Nilimo Nanvarre,,,mz,mz
+Q116992467,Amade Chababe,,,mz,mz
+Q116992469,Nico de Souza,,,mz,mz
+Q116699229,Pedro Perino,,,mz,mz
+Q116865247,Tânia Tembe,,,mz,mz
+Q116886534,Edson Mucuana,,,mz,mz
+Q116935914,Júlia Wachave,,,mz,mz
+Q116949677,Tonito Francisco Xavier Muananoua,,,mz,mz
+Q117026753,Joana Simeão,,,mz,mz
+Q117088091,MoYah,,,mz,mz
+Q41449387,Abdul Ismail,,,mz,mz
+Q41699641,Mahamudo Amurane,,,mz,mz
+Q42304394,Jorge Duvane,,,mz,mz
+Q42665884,Filimão Chambo,,,mz,mz
+Q42890119,Pedro Mulomo,,,mz,mz
+Q42897817,Isabel Casimiro,,,mz,mz
+Q28857160,Jojó,,,mz,mz
+Q28970202,Sergio Fafitine,,,mz,mz
+Q30082929,Edmilson Dove,,,mz,mz
+Q30112686,João Pedro Mussica,,,mz,mz
+Q30144118,Bheu Januário,,,mz,mz
+Q30320175,Justino António Cardoso,,,mz,mz
+Q30345139,Evo Camões Fernandes,,,mz,mz
+Q30346498,Jacinto Veloso,,,mz,mz
+Q111828602,Alcido Nguenah,,,mz,mz
+Q111828600,Aiuba Cuereneia,,,mz,mz
+Q111828603,Alexandre Manguele,,,mz,mz
+Q111828601,Alberto Hawa Januario Nkutumula,,,mz,mz
+Q111828606,António Fernando,,,mz,mz
+Q111828612,Almerino da Cruz Marcos Manhenje,,,mz,mz
+Q111828605,António Correia Sumbana,,,mz,mz
+Q111828611,Armando Inroga,,,mz,mz
+Q111828609,Antonio Namburete,,,mz,mz
+Q111828614,Augusto Jone,,,mz,mz
+Q111828613,Arnaldo Nhavoto,,,mz,mz
+Q113481910,Amilton Alissone,,,mz,mz
+Q113481914,António Osvaldo Saíde,,,mz,mz
+Q113501029,Kins Ferna's,,,mz,mz
+Q113583336,José P. Castiano,,,mz,mz
+Q113678563,Farida Algy Abdula Urci,,,mz,mz
+Q113951643,Arsenio Marengula,,,mz,mz
+Q111904550,Alberto Conforme Tigre,,,mz,mz
+Q111904551,Alberto Manuel Sarande,,,mz,mz
+Q111904552,Albino Munafaene Ducuza Muchanga,,,mz,mz
+Q111904554,Alexandre Siveto Massingue,,,mz,mz
+Q111904555,Alfredo Maria São Bernardo,,,mz,mz
+Q111904556,Almeida dos Santos Tambara,,,mz,mz
+Q111904558,Ana Alberto Sabonete,,,mz,mz
+Q111904559,Ana Maria Rafael,,,mz,mz
+Q111904562,Anatercia de Fatima Ismael Aly Adriano,,,mz,mz
+Q111904563,André Jumamossi Malhembudi,,,mz,mz
+Q111904561,Anacleta Torres Caliano Meque,,,mz,mz
+Q111904564,Ângela Maria do Carmo Benesse,,,mz,mz
+Q111904565,Anselmo Ernesto Victor,,,mz,mz
+Q111907184,Crisanto João Naiti,,,mz,mz
+Q111907187,David Machimbuku,,,mz,mz
+Q111907185,Damião dos Santos Banda,,,mz,mz
+Q111907188,Dário Fernandes Machava,,,mz,mz
+Q111907189,Eduardo Muaride,,,mz,mz
+Q111907192,Eulália Nhaculezele Atibe,,,mz,mz
+Q111907194,Feliz Avelino Silvia,,,mz,mz
+Q111907195,Fernando Guebo Bilali,,,mz,mz
+Q111907193,Faustino Maurício Uamusse,,,mz,mz
+Q111907196,Francisco Nangura Muceliua,,,mz,mz
+Q111906911,Alzira Frederico Pereira,,,mz,mz
+Q111906919,Amândio Cláudio Absalão Siueia,,,mz,mz
+Q111906920,Ana Celestina Meneses Sousa,,,mz,mz
+Q111906922,Angelina Cândida N’chumali,,,mz,mz
+Q111906921,Ana Madalena da Silva Charomar,,,mz,mz
+Q111906923,Angelina Ernesto Namoeto,,,mz,mz
+Q111906926,António Hama Thay,,,mz,mz
+Q111906927,António Jorge Franguolis,,,mz,mz
+Q111906924,Anselmo Jacinto Eduardo,,,mz,mz
+Q111906928,António Razão Miromo,,,mz,mz
+Q111906930,Arminda Jaime Vombe,,,mz,mz
+Q111906929,Armando Alifa,,,mz,mz
+Q125626985,Sergio Nathú Cabá,,,mz,mz
+Q125627201,César Francisco de Gouveia Júnior,,,mz,mz
+Q125627410,Albertina Maria Domingos Mac Donald,,,mz,mz
+Q125627292,Santos Álvaro,,,mz,mz
+Q125627546,José António Alberto Matsinha,,,mz,mz
+Q111745069,Carlos Joaquim Zacarias,,,mz,mz
+Q111745081,Silvino Moreno,,,mz,mz
+Q111812904,Augusto Paulino,,,mz,mz
+Q111812910,Joaquim Madeira,,,mz,mz
+Q111816858,Valygi Tualibo,,,mz,mz
+Q127687560,Jacira Ferreira,,,mz,mz
+Q128035448,Tiago Muxanga,,,mz,mz
+Q111816864,Margarida Mapanzene,,,mz,mz
+Q111816986,Judite Massengele,,,mz,mz
+Q111817076,Domingos Viola,,,mz,mz
+Q111817056,Lourenço Bulha,,,mz,mz
+Q111817078,Pio Augusto Matos,,,mz,mz
+Q111817471,Graça Tomás Chongo,,,mz,mz
+Q111817468,Lázaro Henriques Lopes Menete,,,mz,mz
+Q111817476,Lagos Henriques Lidimo,,,mz,mz
+Q111817475,Paulino José Macaringue,,,mz,mz
+Q111828598,Açucena Xavier Duarte,,,mz,mz
+Q111828599,Aguiar Mazula,,,mz,mz
+Q111828597,Abdurremane Lino de Almeida,,,mz,mz
+Q33805154,Denilson da Costa,,,mz,mz
+Q34521527,Lyudmila Mokasele,,,mz,mz
+Q34649147,Acacia Mate,,,mz,mz
+Q34981941,Jaime Rodrigues,,,mz,mz
+Q35462825,Creve Armando Machava,,,mz,mz
+Q39644387,Jossias Macamo,,,mz,mz
+Q40628497,Bertina Lopes,,,mz,mz
+Q111904742,Tertuliano Juma,,,mz,mz
+Q111904746,Vicente Zacarias Ululu,,,mz,mz
+Q111904745,Vasco Novela Charamadane,,,mz,mz
+Q111904748,Virgilia T C Guerreiro,,,mz,mz
+Q111904749,Virgilio Francisco Ferrao,,,mz,mz
+Q111904750,Yohanda Tadeu Mkeka,,,mz,mz
+Q111904751,Zeca Castro Morgado,,,mz,mz
+Q111904752,Zelma Graciete Ratagy Vasconcelos,,,mz,mz
+Q111906894,Achiro Amisse,,,mz,mz
+Q111906893,Abel Vicente Sana Sana,,,mz,mz
+Q111906896,Adelina Rosa Bernardo,,,mz,mz
+Q135368177,Madina Camara,,,mz,mz
+Q135364556,Daniel Antonio Chauque,,,mz,mz
+Q135364557,Herman Valdemar Cumbe,,,mz,mz
+Q135364765,Angelo Edesio Macie Junior,,,mz,mz
+Q135364770,Bryan Ricotso,,,mz,mz
+Q135364766,Capranizine Hunguana Junior,,,mz,mz
+Q135364769,Clayton Antonio Clemente,,,mz,mz
+Q135364553,Malik Camal,,,mz,mz
+Q135364767,Edilson Ivan Oscar Ussivane,,,mz,mz
+Q135364554,Ndzengo Carlester Buvana,,,mz,mz
+Q135364768,Mucombo Samuel Magagule,,,mz,mz
+Q135365440,Inelcio Carlos Joaquim Chire,,,mz,mz
+Q135365816,Agnes Elisa Mario Chemane,,,mz,mz
+Q135365677,Fernanda Teuma,,,mz,mz
+Q135365815,Bruna Argelio,,,mz,mz
+Q135365817,Carina Helena Mariano,,,mz,mz
+Q135365385,Suraya Rijal,,,mz,mz
+Q135365818,Iolanda Raquel Simbine Pedro Francisco,,,mz,mz
+Q135365819,Zelia Miza Gilberto Banquim,,,mz,mz
+Q135367540,Dionilde Cuamba,,,mz,mz
+Q135368240,Ana Dayna Murhena Mudlovo,,,mz,mz
+Q135368239,Carla Covane,,,mz,mz
+Q135368243,Ester Gomes,,,mz,mz
+Q135368245,Ianara Laiza do Rosario Kun,,,mz,mz
+Q135368241,Nelma Mariana Paulo Botao,,,mz,mz
+Q135368242,Penelope Jose Camele,,,mz,mz
+Q135368244,Veronica Luis Salifu,,,mz,mz
+Q135369076,Afonso Machave,,,mz,mz
+Q135369075,Baggio Lourenço Chimonzo,,,mz,mz
+Q135369088,Egidio Samuel Zandamela,,,mz,mz
+Q135369298,Daniel Manuel Maveure,,,mz,mz
+Q135369726,Arsenia Ressigue da Berta Amade,,,mz,mz
+Q135369629,Elves Houana,,,mz,mz
+Q135369725,Carmenia Khassula Salvador Sibinde,,,mz,mz
+Q135369724,Cleusia Maria Sabina Boa,,,mz,mz
+Q135369723,Manuela da Dona Fungate,,,mz,mz
+Q135369855,Hélénio da Esperança Maquile de Melo,,,mz,mz
+Q135369877,Mirlon King de Luisa Anves Paruque,,,mz,mz
+Q135369722,Yara Joaquina Xavier do Couto,,,mz,mz
+Q135369856,Tomas José Maquile Fijamo,,,mz,mz
+Q135369880,Tuyo Laege Zacarias Albino,,,mz,mz
+Q135369879,Vitorino da Emilita José Canhanhalina Junior,,,mz,mz
+Q135371110,Beatriz Joao Salha,,,mz,mz
+Q135371116,Cesaltina Celena Matsinhe,,,mz,mz
+Q135371111,Dilma Jose Roldao,,,mz,mz
+Q135371117,Diolene Marilene Francisco Ali,,,mz,mz
+Q135371108,Laky da Graca Samo,,,mz,mz
+Q135371106,Natalia dos Santos Domingos,,,mz,mz
+Q135371118,Stella Joao Jone Boma,,,mz,mz
+Q135371115,Verdiciana Samuel Cugeno,,,mz,mz
+Q135368231,Filipa Calisto,,,mz,mz
+Q135369878,Ayad Munguambe,,,mz,mz
+Q125750562,Eugénio Agostinho Langa,,,mz,mz
+Q125755218,Junqueiro João da Graça Manhique,,,mz,mz
+Q125755658,José Miguel Nunes Júnior,,,mz,mz
+Q125755905,Geraldo Gonçalves Miguel Saranga,,,mz,mz
+Q125761247,João da Silva Ataíde,,,mz,mz
+Q125777935,Miguel Costa Mkama,,,mz,mz
+Q125778060,Jacob Nyambir,,,mz,mz
+Q125793880,João Castro Lobo,,,mz,mz
+Q125860530,Alexandre Lourenço Jaime Manguele,,,mz,mz
+Q125922595,Eusébio Saíde,,,mz,mz
+Q125922652,Francisco Manuel da Conceição Pereira,,,mz,mz
+Q126072581,Calide Sidate,,,mz,mz
+Q126072584,José Gaspar Mascarenhas,,,mz,mz
+Q126072582,Margarida Joaquim Mlauzi,,,mz,mz
+Q111019768,Maria Paula Meneses,,,mz,mz
+Q111219900,Paula Cardoso,,,mz,mz
+Q111301499,Alice Banze,,,mz,mz
+Q111660451,Sara Jona Laisse,,,mz,mz
+Q111736809,Manuela Soeiro,,,mz,mz
+Q111737156,Quitéria Guirengane,,,mz,mz
+Q111745067,Lídia Cardoso,,,mz,mz
+Q111841450,Alberto Jacinto Nancuta Mtukutuku,,,mz,mz
+Q111841451,Alberto Jumulate,,,mz,mz
+Q111841449,Albertina Julião Matavele,,,mz,mz
+Q111841454,Alfredo Jaime,,,mz,mz
+Q111841455,Alfredo Tomás Magumisse,,,mz,mz
+Q111841456,Alice Caetano Tomás,,,mz,mz
+Q111841458,Alves Jordão Zita,,,mz,mz
+Q111841457,Almina Manuel Monteiro,,,mz,mz
+Q111841459,Amilcar José Hussein,,,mz,mz
+Q111841462,Ana Antónia Henrique Dimitri,,,mz,mz
+Q111841463,Ana Paula Orta Cordeiro Manhique,,,mz,mz
+Q111841460,Américo José Ubisse,,,mz,mz
+Q111841461,Américo Paulo Noé Muchanga,,,mz,mz
+Q111841464,Ana Paula Victorino J. P. da Graça,,,mz,mz
+Q118231834,Fernando Lima,,,mz,mz
+Q118182402,Prakash Ratilal,,,mz,mz
+Q118183159,Luís Benjamim Serapião,,,mz,mz
+Q118223845,Domingos Arouca,,,mz,mz
+Q118234543,Joaquim Ribeiro Pereira de Carvalho,,,mz,mz
+Q111904726,Ricardo Sebastião de Oliveira,,,mz,mz
+Q111904727,Roberto Maximiano Chitsonzo,,,mz,mz
+Q111904730,Rosalia Celestina José Lumbela,,,mz,mz
+Q111904728,Rosa Florencia Chucua,,,mz,mz
+Q111904731,Rosita Maluane,,,mz,mz
+Q111904729,Rosa Isabel Maope,,,mz,mz
+Q111904732,Rui Domingos de Sousa,,,mz,mz
+Q111904733,Sábado Teresa Malendza,,,mz,mz
+Q111904735,Samuel Brito Simango,,,mz,mz
+Q111904736,Sausande Mpatula Kuakula,,,mz,mz
+Q111904738,Sergio Ernesto Neves,,,mz,mz
+Q111904739,Silvano João da Cruz,,,mz,mz
+Q111904740,Sousa Salvador Munhaua,,,mz,mz
+Q111904741,Teresa Aide,,,mz,mz
+Q111907022,Mário Lampião Sevene,,,mz,mz
+Q111907021,Milagrosa Armando Langa,,,mz,mz
+Q111907023,Palmira Eusébio Mbanze,,,mz,mz
+Q111907024,Paulina Tsumba Nhacumbena Canhane,,,mz,mz
+Q111907027,Raimundo Joaquim Mapanzene,,,mz,mz
+Q111907028,Rema Fabião,,,mz,mz
+Q111907029,Ricardo Pedro Filimone,,,mz,mz
+Q111907034,Rosário Zacarias,,,mz,mz
+Q111907032,Rosa Mafuna Julai Sitole,,,mz,mz
+Q111907033,Rosário Salimo Régulo,,,mz,mz
+Q111907035,Rui António Chundiza,,,mz,mz
+Q111907038,Saíbo Alberto,,,mz,mz
+Q111907039,Sebastião Dengo,,,mz,mz
+Q111828659,Zeferino Alexandre Martins,,,mz,mz
+Q111829773,António Raúl Limbau,,,mz,mz
+Q111829691,Eduardo José Bacião Koloma,,,mz,mz
+Q111829674,Henrique Alberto Banze,,,mz,mz
+Q111829815,Ana Paulo Samo Gudo Chichava,,,mz,mz
+Q111829723,José de Jesus Mateus Pedro Mandra,,,mz,mz
+Q111829766,José Tsambe,,,mz,mz
+Q111829748,Maria José Lucas,,,mz,mz
+Q111829801,Jaime Himede,,,mz,mz
+Q111829809,Kenneth Viagem Marizane,,,mz,mz
+Q111829852,Gabriel Serafim Muthisse,,,mz,mz
+Q111829868,Marcelino Liphola,,,mz,mz
+Q111829859,Virgílio Feliciano Mateus,,,mz,mz
+Q111906949,Celestino Neúma,,,mz,mz
+Q111906950,Cipriano Severino Nimpachula,,,mz,mz
+Q111906951,Claudina Inácio Guimarães,,,mz,mz
+Q111906952,Daniel Maqueia Cueteia,,,mz,mz
+Q111906953,Danilo Rui Alberto Mutumula,,,mz,mz
+Q111906954,Djone Dique Ncussa,,,mz,mz
+Q111906955,Dominga Domingos Chuva,,,mz,mz
+Q111906956,Dorteia Hérculos Ambrósio,,,mz,mz
+Q111906958,Elisa Júlio Salamo,,,mz,mz
+Q111906957,Edgar de Jesus Gonzaga C Silva,,,mz,mz
+Q111906960,Elsa Muzé Ussene,,,mz,mz
+Q111906962,Ermósio Justo,,,mz,mz
+Q111906961,Ermelinda Micaela Lucas Rodolfo,,,mz,mz
+Q109950964,Janfar Abdulai,,,mz,mz
+Q109951071,Arsénia Massingue,,,mz,mz
+Q109951064,Cristóvão Artur Chume,,,mz,mz
+Q109951850,Rogério Zandamela,,,mz,mz
+Q109951949,Eugénio Mussa,,,mz,mz
+Q109952011,Joaquim Rivas Mangrasse,,,mz,mz
+Q110200999,Gion Fadri Chande,,,mz,mz
+Q28800734,Edgar Martins,,,mz,mz
+Q28124175,Murade Isaac Murargy,,,mz,mz
+Q28174079,Gildo Vilanculos,,,mz,mz
+Q28800852,Ntewane Machel,,,mz,mz
+Q28805597,Raimundo Franisse,,,mz,mz
+Q28805598,Rogerio Silva,,,mz,mz
+Q111828615,Aurélio Zilhão,,,mz,mz
+Q111828616,Bernardo Ferraz,,,mz,mz
+Q111828618,Carlos Bonete Martinho,,,mz,mz
+Q111828619,Carlos Morgado,,,mz,mz
+Q111828617,Cadmiel Muthemba,,,mz,mz
+Q111828620,Castigo Langa,,,mz,mz
+Q111828621,Conceita Ernesto Xavier Sortane,,,mz,mz
+Q111828622,Erasmo Muhate,,,mz,mz
+Q111828624,Eusebio Lambo Gumbiwa,,,mz,mz
+Q111828625,Feliciano Salomão Gundana,,,mz,mz
+Q111841466,André Joaquim Magibire,,,mz,mz
+Q111841465,Ana Rita Sithole,,,mz,mz
+Q111841467,António Rufino Cara-alegre Tembe,,,mz,mz
+Q111841470,António José Amélia,,,mz,mz
+Q111841471,António Pedro Muchanga,,,mz,mz
+Q111841468,Antónia Simão Paulo Charre,,,mz,mz
+Q111841474,António Valério Kantile,,,mz,mz
+Q111841472,António Rosário Niquice,,,mz,mz
+Q111841473,António Severino Timba,,,mz,mz
+Q111841476,Atanásio Gomes Kulyaukila,,,mz,mz
+Q111841478,Bernardino Benjamim Carneiro Cortez,,,mz,mz
+Q111841477,Beatriz Mário Chaguala,,,mz,mz
+Q111841479,Bonifácio João Nicassa,,,mz,mz
+Q117288147,Jorge Ferrão,,,mz,mz
+Q117488661,Francisca Chiponda,,,mz,mz
+Q117537788,Pedro Pimenta,,,mz,mz
+Q117599674,Domingos Ferrão,,,mz,mz
+Q117750027,Pipas Forjaz,,,mz,mz
+Q117767344,José Carlos Areosa Pena,,,mz,mz
+Q117767713,José Mota Lopes,,,mz,mz
+Q117768398,Migueis Lopes Junior,,,mz,mz
+Q117826572,Machado da Graça,,,mz,mz
+Q117842765,TRKZ,,,mz,mz
+Q111829890,Carlos José Castro de Sousa,,,mz,mz
+Q111831067,José dos Santos Coimbra,,,mz,mz
+Q111831050,Maria Isaltina Lucas,,,mz,mz
+Q111831566,Augusto de Sousa Fernando,,,mz,mz
+Q111831614,Armindo Saúl Atelela Ngunga,,,mz,mz
+Q111831636,Ana Ismael Senda Coani,,,mz,mz
+Q111831386,Luísa Celma Caetano Meque,,,mz,mz
+Q111831551,Henriques Bongece,,,mz,mz
+Q111831591,João Leopoldo da Costa,,,mz,mz
+Q111831527,Oswaldo Petersburgo,,,mz,mz
+Q111831604,Lucas Mangrasse,,,mz,mz
+Q111831581,Mouzinho Saíde,,,mz,mz
+Q111831519,Roque Silva Samuel,,,mz,mz
+Q111831651,Maria de Fátima Mwanza Pelembe,,,mz,mz
+Q111831618,Omar Mithá,,,mz,mz
+Q111841428,Abacar Chande,,,mz,mz
+Q111906999,Lídia Rita Geremias,,,mz,mz
+Q111907000,Lúcia Geraldo Namashulua,,,mz,mz
+Q111907002,Madalena João Francisco,,,mz,mz
+Q111907003,Madalena M’bela Ambrósio,,,mz,mz
+Q111907001,Maconha João,,,mz,mz
+Q111907006,Maria de Lurdes do Carmo Lobo,,,mz,mz
+Q111907004,Manuel Francisco Lole,,,mz,mz
+Q111907007,Maria Ema Anchunala Cassimo,,,mz,mz
+Q111907010,Maria José Moreno,,,mz,mz
+Q111907008,Maria Joana João,,,mz,mz
+Q111907013,Maria Olívia Álvaro,,,mz,mz
+Q111907016,Mariano Humberto Rodrigues,,,mz,mz
+Q111907018,Maurício Mateus Madebe,,,mz,mz
+Q111907019,Micas Carlos António Jafare,,,mz,mz
+Q111904643,João Alexandre,,,mz,mz
+Q111904627,Hermenegildo Maria Cepeda Gamito,,,mz,mz
+Q111904630,Hilario Latina,,,mz,mz
+Q111904631,Hilario Pires Beja,,,mz,mz
+Q111904629,Herondina Herculano,,,mz,mz
+Q111904634,Hipolito Jesus Fernandes X do Couto,,,mz,mz
+Q111904635,Horacio José Namalve,,,mz,mz
+Q111904638,Inacio Jossitala,,,mz,mz
+Q111904636,Ilídio António Alfredo,,,mz,mz
+Q111904639,Isau Joaquim Meneses,,,mz,mz
+Q111904640,Jaime Mussa Massesse,,,mz,mz
+Q111904641,Janeiro Mariano,,,mz,mz
+Q111904642,Jeremias Pondeca Munguambe,,,mz,mz
+Q111904644,João Macuamule,,,mz,mz
+Q111904645,João Manuel Alvaro Goncalves,,,mz,mz
+Q125732680,Daniel Tomé Magaia,,,mz,mz
+Q125736005,António Macheve,,,mz,mz
+Q125736212,Elias Jaime Zimba,,,mz,mz
+Q125739478,Domingos Estêvão Fernandes,,,mz,mz
+Q125749453,Alexandre Herculano Manjate,,,mz,mz
+Q125749447,Fortunato Albrinho,,,mz,mz
+Q125749776,Bernardo Lidimba,,,mz,mz
+Q125749688,Jorge David Gune,,,mz,mz
+Q125749726,Jorge Henrique da Costa Khalau,,,mz,mz
+Q125749717,Luís Adelino da Silva,,,mz,mz
+Q125749862,Ermindo Augusto Ferreira,,,mz,mz
+Q125749911,Jacinto Maguni,,,mz,mz
+Q125750048,Ricardo Mtumbuida,,,mz,mz
+Q125699067,Maria Leocádia Tivane Mathe,,,mz,mz
+Q125704842,Carla Elisa Luís Mucavi,,,mz,mz
+Q125704901,Ana Nemba Uaiene,,,mz,mz
+Q125705003,António Paulo Elias Júnior Matonse,,,mz,mz
+Q125704958,Jerónimo Rosa João Chivavi,,,mz,mz
+Q125705100,Gregório Leão José,,,mz,mz
+Q125705248,António Fernando Materula,,,mz,mz
+Q125705306,Geraldo António Chirinza,,,mz,mz
+Q125705356,Marcos Geraldo Namashulua,,,mz,mz
+Q125705587,Artur Jamo,,,mz,mz
+Q125705711,Gregório Elton Paulo Lingande,,,mz,mz
+Q125705777,Daniel Eduardo Mondlane,,,mz,mz
+Q125706378,Salésio Teodoro Nalyambipano,,,mz,mz
+Q118322301,Gideon Ndobe,,,mz,mz
+Q118445098,António Palange,,,mz,mz
+Q118445181,Jafar S. Cane,,,mz,mz
+Q118445182,José Chicuarra Massinga,,,mz,mz
+Q118445183,Marcos Juma,,,mz,mz
+Q118445184,Martins Luís Bilal,,,mz,mz
+Q118445185,Palmerun António Mausse,,,mz,mz
+Q118445186,Tarcisio Gemusse,,,mz,mz
+Q118449786,Abdala Mussa,,,mz,mz
+Q118449788,Casimiro Santos T Abreu,,,mz,mz
+Q118449791,Issufo Mecabo,,,mz,mz
+Q108916238,Ninika,,,mz,mz
+Q109045864,Luis Filipe Veloso Pinheiro,,,mz,mz
+Q109109345,Carlos Alberto Pereira Tavares Ferreira,,,mz,mz
+Q109151502,António Geraldo Fulgêncio Lopes,,,mz,mz
+Q109240684,Helton Ubisse,,,mz,mz
+Q109290233,Ismael Nurmamade,,,mz,mz
+Q109459364,Jeremias dos Santos Moisés,,,mz,mz
+Q109496345,Francisco Couana,,,mz,mz
+Q111904723,José António da Conceição Chichava,,,mz,mz
+Q111904711,Ossumane Ali Dauto,,,mz,mz
+Q111904712,Osvaldo Filipe Jabu,,,mz,mz
+Q111904714,Palmira Angelina Pedro Francisco,,,mz,mz
+Q111904713,Padimbe Mabosse Kamati Andrea,,,mz,mz
+Q111904715,Pauco Muatamulo Nanpuio,,,mz,mz
+Q111904716,Paulino Luis Branquinho Valia,,,mz,mz
+Q111904717,Pedro Armando Alberto,,,mz,mz
+Q111904718,Rachide João Tayobe Mahomed,,,mz,mz
+Q111904719,Rafael Maguni,,,mz,mz
+Q111904722,Raul João Balate,,,mz,mz
+Q111904720,Rahil Samsser Khan,,,mz,mz
+Q111904721,Raquel Carlos José Damião,,,mz,mz
+Q111904725,Raul Ribeiro Munhuaua,,,mz,mz
+Q118449889,Abdul Kha Leck,,,mz,mz
+Q118449894,Augusto Chaviro,,,mz,mz
+Q118449891,Calisto Paulo Uataia,,,mz,mz
+Q118449875,Geraldo Muissa,,,mz,mz
+Q118449892,Eduardo Ulanda,,,mz,mz
+Q118449898,Domingos Chalé João,,,mz,mz
+Q118449897,Domingo João,,,mz,mz
+Q118449876,Jorge Adriano Nampula,,,mz,mz
+Q118449877,José Mussan,,,mz,mz
+Q118449880,Mariano Domingos Martins,,,mz,mz
+Q118449881,Mário Belém Singano,,,mz,mz
+Q118449893,Manuel José A. Mucananda,,,mz,mz
+Q118449886,Saide Ali Assane Ismail,,,mz,mz
+Q109657143,Severino Elias Ngoenha,,,mz,mz
+Q109786881,Sandra Isabel Gonçalves Lopes,,,mz,mz
+Q109791824,Maria Helena Rocha Iglesias de Gendre Vidal,,,mz,mz
+Q109950517,Ernesto Max Elias Tonela,,,mz,mz
+Q109950516,João Osvaldo Machatine,,,mz,mz
+Q109950524,Ivete Maibase,,,mz,mz
+Q109950528,Margarida Talapa,,,mz,mz
+Q111828626,Fernando Sumbana,,,mz,mz
+Q111828627,Guilherme Luis Mavila,,,mz,mz
+Q111828630,Higino Francisco Marrule,,,mz,mz
+Q111828631,Isaque Chande,,,mz,mz
+Q111828632,Joel Libombo,,,mz,mz
+Q111828635,John Kachamila,,,mz,mz
+Q111828634,Jose Chichava,,,mz,mz
+Q111828633,Jorge Penicela Nhambiu,,,mz,mz
+Q111828638,Luciano André de Castro,,,mz,mz
+Q111828639,Luis Antonio Ferrao,,,mz,mz
+Q111828636,Louis Augusto Mutomene Pelembe,,,mz,mz
+Q111828637,Lucas Chomera,,,mz,mz
+Q111828642,Mario Sevene,,,mz,mz
+Q135364099,Cleide Machava,,,mz,mz
+Q135364098,Jennifer Sigauque,,,mz,mz
+Q135364097,Noémia Alexandre Massingue,,,mz,mz
+Q135364552,Daren Eduardo Naiene,,,mz,mz
+Q118240244,Iain Christie,,,mz,mz
+Q118234712,Alberto Francisco Cassimo,,,mz,mz
+Q118236041,Justino Sigaule Chemane,,,mz,mz
+Q118246814,Frances Christie,,,mz,mz
+Q118303696,Samuel Dabula Nkumula,,,mz,mz
+Q111906963,Ester Hassane Macande Peule,,,mz,mz
+Q111906966,Fabião Pedro Sitoé,,,mz,mz
+Q111906964,Eufrásia Guerra Jordão,,,mz,mz
+Q111906967,Fernando Calisto Jauado,,,mz,mz
+Q111906968,Filipe António Primero,,,mz,mz
+Q111906972,Fátima Luís Madeira,,,mz,mz
+Q111906969,Florêncio Francisco Alfainho,,,mz,mz
+Q111906970,Francisco Braz Muchanga,,,mz,mz
+Q111906974,Hermínia Carlos Nhantumbo,,,mz,mz
+Q111906979,Ismael Jamú Mussá,,,mz,mz
+Q111906976,Irene António Beira Castro,,,mz,mz
+Q111906977,Ireneu Joaquim Muanaco,,,mz,mz
+Q111906980,Jerónimo Agostinho,,,mz,mz
+Q111906981,Joana José Carvalho,,,mz,mz
+Q111841507,Elisa Amina Amisse Timóteo,,,mz,mz
+Q111841510,Emídio Benjamim Xavier,,,mz,mz
+Q111841508,Elisa Maria Isabel Silvestre Cipriano,,,mz,mz
+Q111841511,Emília Alfredo Pereira,,,mz,mz
+Q111841509,Elisa Rajamo,,,mz,mz
+Q111841514,Eulália Lourenço Oliveira,,,mz,mz
+Q111841512,Esmeralda Aurélio Mutemba,,,mz,mz
+Q111841515,Eva José Mangaze,,,mz,mz
+Q111841513,Ester Epifánio Plaze,,,mz,mz
+Q111841518,Ezequiel João Aramane,,,mz,mz
+Q111841516,Eva Teixeira Caetano Dias,,,mz,mz
+Q111841519,Faruk Osman,,,mz,mz
+Q111841517,Evaristo Tatano Sixpence,,,mz,mz
+Q111841520,Felizarda Clara de Castro,,,mz,mz
+Q118449960,Adalberto Ussene Pereira,,,mz,mz
+Q118449941,Carlos Pereira Klint,,,mz,mz
+Q118449966,Custódio Domingos Vieira,,,mz,mz
+Q118449951,Inusso Ismael,,,mz,mz
+Q118449976,Horácio M. S. Matsimbe,,,mz,mz
+Q118449984,Latifo Balão Janela,,,mz,mz
+Q118449985,Mussatar Abdul Aziz,,,mz,mz
+Q118449986,Orlando António da Graça,,,mz,mz
+Q118449990,Tayob Ussemane Motany,,,mz,mz
+Q118449991,Virgílio Carlos S. Miguel,,,mz,mz
+Q118450728,Celestino Chalé Mussa,,,mz,mz
+Q118450725,José Matias Mugalla,,,mz,mz
+Q118450722,Marcelino Inlave Joaquim,,,mz,mz
+Q118450770,Alberto Zaqueu Jamice,,,mz,mz
+Q118450775,Alberto Maiosa Canjera,,,mz,mz
+Q118450789,Abdul Carimo M. Issa,,,mz,mz
+Q118450788,Adelino A. José Comissão,,,mz,mz
+Q118450773,António Dima Manuel,,,mz,mz
+Q118450776,Aniceto dos Muchangos,,,mz,mz
+Q118450787,Arlindo Luís Zacarias,,,mz,mz
+Q118450766,Custódio Joaquim Simões,,,mz,mz
+Q118450765,Daniel Ensure,,,mz,mz
+Q118450785,Gilberto Miguel Catema,,,mz,mz
+Q118450772,Luís Desse Semente,,,mz,mz
+Q118450781,Luís Culaire,,,mz,mz
+Q118450777,Manuel Mendes da Fonseca,,,mz,mz
+Q118450780,Mário Cardoso Janela,,,mz,mz
+Q31551036,Sérgio Lomba,,,mz,mz
+Q30935108,Hirondina Joshua,,,mz,mz
+Q30939259,Azagaia,,,mz,mz
+Q31063056,Ussama Nancuta Mutumane,,,mz,mz
+Q31941986,Charles Domingo,,,mz,mz
+Q33082616,Elísio Macamo,,,mz,mz
+Q33422162,Gisela Cossa,,,mz,mz
+Q33759459,Vicente Santos,,,mz,mz
+Q111843332,Alberto João Ferreira,,,mz,mz
+Q111843334,Alexandre Tiago,,,mz,mz
+Q111843333,Alberto Lives Andela Niquice,,,mz,mz
+Q111843335,Alice Ana Francisco Xavier Kufa,,,mz,mz
+Q111843338,Ana Armando Chapo,,,mz,mz
+Q111843339,Ana Maria de Lourdes Massengele,,,mz,mz
+Q111843340,Ana Maria Simante,,,mz,mz
+Q111843342,António Eusébio Mulima,,,mz,mz
+Q111843343,António Joaquim Mainato,,,mz,mz
+Q111843341,António do Rosário Bernardino Boene,,,mz,mz
+Q111843346,Arlindo Daniel Bila,,,mz,mz
+Q111843344,Arlinda Cipriano de Sousa,,,mz,mz
+Q111843345,Arlindo Arrido Maquival,,,mz,mz
+Q125706423,Álvaro Manuel Trindade d'Ó da Silva,,,mz,mz
+Q125706467,Felizarda Isaura Monteiro,,,mz,mz
+Q125706400,Paulo Tembe,,,mz,mz
+Q125706722,Amós Estêvão Mahanjane,,,mz,mz
+Q125706786,Daniel Saúl Mbanze,,,mz,mz
+Q125706763,Mussagy Daude Jeichande,,,mz,mz
+Q125707062,Cristofa Inosse Jamo,,,mz,mz
+Q125707161,Pedro Gaivão Odallah,,,mz,mz
+Q125720810,Armando Machique Psungo,,,mz,mz
+Q125722196,Amândio Rafael Moisés Chongo,,,mz,mz
+Q125722092,Sharfudine Mohamed Khan,,,mz,mz
+Q125732066,Manuel Augusto dos Santos,,,mz,mz
+Q125732377,Alberto Sithole,,,mz,mz
+Q125732407,João Julião Cuambe,,,mz,mz
+Q111841522,Fernando Bismarque Ali,,,mz,mz
+Q111841523,Fernando Jossias Matouassanga,,,mz,mz
+Q111841521,Fernando Amelane,,,mz,mz
+Q111841526,Filipe Carlos Domingos,,,mz,mz
+Q111841527,Filipe Chimoio Paunde,,,mz,mz
+Q111841524,Fernando José Namacua,,,mz,mz
+Q111841525,Fernando Mendes João Lavieque,,,mz,mz
+Q111841528,Filipe Jaime,,,mz,mz
+Q111841530,Flora Bela das Neves Caetano,,,mz,mz
+Q111841529,Filomena Nachaque,,,mz,mz
+Q111841531,Francisca Sabão Domingos,,,mz,mz
+Q111841532,Francisco Filipe M. V. Mboya Campira,,,mz,mz
+Q111841533,Francisco Maingue,,,mz,mz
+Q111906898,Afonso Francisco Massingue,,,mz,mz
+Q111906899,Afonso Paulo Salimo,,,mz,mz
+Q111906897,Adriano Tesoura Passanduca,,,mz,mz
+Q111906902,Ahmed Abdul Gani,,,mz,mz
+Q111906903,Aida Luis Garife Massangaissa,,,mz,mz
+Q111906900,Agostinho Severo Tomé,,,mz,mz
+Q111906901,Agostinho Ussore,,,mz,mz
+Q111906904,Aida Ussene,,,mz,mz
+Q111906905,Albina Tomás Gulele,,,mz,mz
+Q111906906,Alexandre Meque Vicente,,,mz,mz
+Q111906907,Alfredo Alide Sualei,,,mz,mz
+Q111906910,Alige Derque Mussulmade de Morais,,,mz,mz
+Q111906909,Alicora Intutunha,,,mz,mz
+Q135508959,Joao Ferreira,,,mz,mz
+Q135508965,Manuel dos Santos,,,mz,mz
+Q135383862,Marcia Stela Manuel Fumo,,,mz,mz
+Q135388641,Marta Monjane,,,mz,mz
+Q135508950,Alcido Eduardo Guenha,,,mz,mz
+Q135508951,Alexandre Jose Zandamela,,,mz,mz
+Q135508954,Carlos Alberto Sampaio Morgado,,,mz,mz
+Q135508955,Daniel Gabriel Tembe,,,mz,mz
+Q135508952,Antonio José Lima Rodrigues Branco,,,mz,mz
+Q135508953,Bernado Ferraz,,,mz,mz
+Q135508958,Higino Francisco de Marrule,,,mz,mz
+Q135508956,Eusébio Lambo Gondiwa,,,mz,mz
+Q135508957,Filipe Mandlate,,,mz,mz
+Q135508962,José Carlos Lobo,,,mz,mz
+Q135508963,Luís Jorge Manuel Teodósio António Ferrão,,,mz,mz
+Q135508960,João Mário Salomão,,,mz,mz
+Q135508961,Jorge Olívio Penicela Nhambiu,,,mz,mz
+Q135508966,Manuel José António Mucananda,,,mz,mz
+Q135508967,Octavio Mutemba,,,mz,mz
+Q135508964,Luís Maria de Alcantara Santos,,,mz,mz
+Q135508970,Rui Jorge Gomes Lousã,,,mz,mz
+Q135508971,Salomão Munguambe,,,mz,mz
+Q135508968,Paulo Muxanga,,,mz,mz
+Q135508969,Pedrito Fuleda Caetano,,,mz,mz
+Q135508972,Sebastião Chinguane Marcos Mabote,,,mz,mz
+Q135508973,Silva Armando Dunduro,,,mz,mz
+Q136380918,Malika Tique,,,mz,mz
+Q136380919,Yohane Simbine,,,mz,mz
+Q136380917,Noemy Viana,,,mz,mz
+Q136380922,Hannah Massingue,,,mz,mz
+Q136380920,Clélian Novela,,,mz,mz
+Q136380923,Monica Massingue,,,mz,mz
+Q136380921,Fetina Nassurdine,,,mz,mz
+Q136380925,Gabriela De Figueiredo,,,mz,mz
+Q136380932,Lionce Chipanela,,,mz,mz
+Q136380935,Terezinha Amussine,,,mz,mz
+Q136620138,Recildo Jacinto Ângelo Tiua,,,mz,mz
+Q136620139,Ivan Amélia Feraime Macome,,,mz,mz
+Q136620141,Sérgio Lucas Chicava,,,mz,mz
+Q136620617,Vânia Cristina Filipe,,,mz,mz
+Q136620770,Joao Januario Gundere,,,mz,mz
+Q136620774,Belchior Faustino Canivete,,,mz,mz
+Q136620772,Eugénio Joaquim Leuana,,,mz,mz
+Q136620775,Heitor Lino Meneses Camba,,,mz,mz
+Q136620773,Hobeb Matias Matolo,,,mz,mz
+Q136620778,Luis Carlos Cossa,,,mz,mz
+Q136620776,Filmércio Assica Cânda,,,mz,mz
+Q136620790,Jaime Antonio Lourenço,,,mz,mz
+Q136620791,Natalino Manuel Zefanias,,,mz,mz
+Q136621001,Julia Domingas Baptista Machalela,,,mz,mz
+Q136621046,Nalia Fabiao Simão,,,mz,mz
+Q136621215,Margarido Ngwenha Manhanga,,,mz,mz
+Q136621212,Luisa Amélia Matio Nhate,,,mz,mz
+Q136621218,Célio Bande Gabriel Zucule,,,mz,mz
+Q136621219,Cremildo João Celano Matos,,,mz,mz
+Q136621216,Assumane Celestino Tembo,,,mz,mz
+Q136621223,José Manuel João Zunguza,,,mz,mz
+Q136621220,Eduardo Salvador Lon,,,mz,mz
+Q136621241,Pionesio Alberto Samuel,,,mz,mz
+Q136621282,Elina Tobias Sigauque,,,mz,mz
+Q136621550,Crichulia Gracinda Veloso Monjane,,,mz,mz
+Q136621548,Diara Ahomed Dessai,,,mz,mz
+Q137163488,Eva Costa,,,mz,mz
+Q136621555,Tatiana Ismael,,,mz,mz
+Q136621644,Hélder Rafael Fernandes Cumbane,,,mz,mz
+Q136621747,Dilar Ahomed Dessai,,,mz,mz
+Q136621874,Bendita Henriques Anbrosio Kumaguelo,,,mz,mz
+Q136623095,Carlos Rui Chirindza,,,mz,mz
+Q136623096,Stelio Rodrigues,,,mz,mz
+Q136623119,Lina Katia Samo,,,mz,mz
+Q136623374,Enoque Jossefa Alage,,,mz,mz
+Q136623373,Policarpo Zambeze,,,mz,mz
+Q136623378,Joaquina Rabia Mussa,,,mz,mz
+Q136623784,Edmilson Paxixe Dos Muchango Natal,,,mz,mz
+Q136624319,Alice Raimundo Timba,,,mz,mz
+Q136624317,Carmen Rosaria Rezende,,,mz,mz
+Q136624321,Ornila Angelo Mulhui,,,mz,mz
+Q136624801,Nilton Joaquim Manheira,,,mz,mz
+Q136625284,Edilson Tivane,,,mz,mz
+Q136626001,Muhambi Saimone Muhambi,,,mz,mz
+Q136626205,Alberto Antonio Senda,,,mz,mz
+Q136626225,Uwais Razaque,,,mz,mz
+Q136626295,Hilario Alfredo Malale,,,mz,mz
+Q136626713,Daniel Ernesto Joao Mutacate,,,mz,mz
+Q136626744,Sheila Leonor Honwana,,,mz,mz
+Q136627078,Albertina Matsinhe,,,mz,mz
+Q136627079,Lurdes Joao Bata,,,mz,mz
+Q136627089,Shanaia Beatriz Matusse,,,mz,mz
+Q136627359,Raul Nhamiri,,,mz,mz
+Q136627816,Jeremias Sambo,,,mz,mz
+Q136703316,Nzira de Deus,,,mz,mz
+Q136721605,Basilio Zefanias Muhate,,,mz,mz
+Q137161709,Aurora Ngale,,,mz,mz
+Q137163474,Neima Nhamire,,,mz,mz
+Q137163497,Anselmina Mussa,,,mz,mz
+Q137163532,Isaura Chidembo,,,mz,mz
+Q137163563,Virginia Fernando,,,mz,mz
+Q137165579,Rosa Mainque,,,mz,mz
+Q137165703,Delicia Assane,,,mz,mz
+Q111841446,Albano Bulaunde José,,,mz,mz
+Q111841447,Albertina Ilda Lino,,,mz,mz
+Q111841448,Albertina Jocia,,,mz,mz
+Q135371639,Adailton de Castro Jorge Assamundine,,,mz,mz
+Q135371119,Tirza Bianca Messias Mucavel,,,mz,mz
+Q135371974,Bruno Luis De Parse,,,mz,mz
+Q135371839,Ivander Nelson Macia,,,mz,mz
+Q135371972,Joaquim Octavio Chuma,,,mz,mz
+Q135371973,Titos Fernando,,,mz,mz
+Q135371970,Wagner Marre Sergio Guiamba,,,mz,mz
+Q135373704,Amarildo Rafael da Silva Matos,,,mz,mz
+Q135373844,Neusia Dionisio de Abreu Chemane,,,mz,mz
+Q135374042,Romaria De Nascimento Vicente Nhamposse,,,mz,mz
+Q135374311,Lovaina Paipe Chume,,,mz,mz
+Q135374300,Mauro Jacques de Oliveira Marques,,,mz,mz
+Q135374308,Nuno Miguel de Alfredo Veloso,,,mz,mz
+Q135374726,Aquila Mucubaquine,,,mz,mz
+Q135374731,Castro Antonio Alexandre Vilanculos,,,mz,mz
+Q135374776,Breaton Pedro Francisco,,,mz,mz
+Q135374778,Carlos Gilbert Moises Manhica,,,mz,mz
+Q135374729,Florentina Pasqualina Senete,,,mz,mz
+Q135374774,Frengue Mario Getimane,,,mz,mz
+Q135374777,Govino Nangilal,,,mz,mz
+Q135374779,Hugo Nyvu Mario Martins,,,mz,mz
+Q135374894,Elizabeth Pereira,,,mz,mz
+Q135374734,Loren Amelia Jaime Langa,,,mz,mz
+Q135374780,Klaus Kiefer Bunguele,,,mz,mz
+Q135374889,Ivan Cossa,,,mz,mz
+Q135374728,Nayra Vanessa do Leonardo Nhantumbo,,,mz,mz
+Q135374725,Rosa Cossa,,,mz,mz
+Q135374775,Phineas Saimone Muhambe Macuiana,,,mz,mz
+Q135374683,Yuri Borges Chambal,,,mz,mz
+Q135374727,Vânia Joao Sengo,,,mz,mz
+Q135375255,Carla Ines Francisco Pinto,,,mz,mz
+Q135374732,Youran José Diogo Malate,,,mz,mz
+Q135374733,Yuran Baptista Temane,,,mz,mz
+Q135374862,Sergio Macuacua,,,mz,mz
+Q135375835,Aurélio Ricardo Chiziane Junior,,,mz,mz
+Q135376000,Francisco Machaia Sansao Macaringue,,,mz,mz
+Q135375834,Milton Caifaz,,,mz,mz
+Q135376188,Hugo Yur Mario Martins,,,mz,mz
+Q135376220,Idelson Inacio Benedito Bernardo,,,mz,mz
+Q135376198,Joaquim Duarte da Veiga Inhamussua,,,mz,mz
+Q135376199,Marcolino Valvio dos Santos Cotela,,,mz,mz
+Q135376221,Nilton Yur de Luisa Alves Paruque,,,mz,mz
+Q135376222,René Luis Alfredo Manusse,,,mz,mz
+Q135376219,Yuran Fernando Biasse,,,mz,mz
+Q118307568,Fernando Honwana,,,mz,mz
+Q111843347,Arnaldo Francisco Chalaua,,,mz,mz
+Q111843348,Atanásio Quirino Machude,,,mz,mz
+Q111843349,Aureliana Otília Filipe Jamisse,,,mz,mz
+Q111843350,Balbina Deolinda Raibo Mateus,,,mz,mz
+Q111843351,Bonito Novunga,,,mz,mz
+Q111843352,Brígida Anita Jorge Mathavele,,,mz,mz
+Q111843354,Carlos Sebastião Chissingue,,,mz,mz
+Q111843355,Carminda da Graça Barata,,,mz,mz
+Q111843357,Catarinha Mário Dimande,,,mz,mz
+Q111843359,Clarice da Esperança Milato,,,mz,mz
+Q111843360,Clementina Francisco Bomba,,,mz,mz
+Q111843362,Daly Assumane Kumanda,,,mz,mz
+Q111843361,Cristina Chelene Manhice Sevene,,,mz,mz
+Q111841536,Félix Assomate Quembo,,,mz,mz
+Q111841534,Francisco Ussene Mucanheia,,,mz,mz
+Q111841535,Freitas Joaquim Emílio Tiquila,,,mz,mz
+Q111841537,Gania Aly Abdula Mussagy,,,mz,mz
+Q111841538,Geraldo Alexandre Carvalho,,,mz,mz
+Q111841539,Gildo Fortunato Elias Muaga,,,mz,mz
+Q111841542,Gonçalves Maceda,,,mz,mz
+Q111841541,Glória Salvador,,,mz,mz
+Q111841543,Helena da Glória Muando,,,mz,mz
+Q111841546,Hermenegildo Santana Chimarizene,,,mz,mz
+Q111841544,Helena Jacinto Música,,,mz,mz
+Q111841547,Hilário Uaite,,,mz,mz
+Q111841545,Hermenegildo Mateus Infante,,,mz,mz
+Q111841620,Maria Helena,,,mz,mz
+Q111841607,Lucinda Bela das Dores Impitule Malema,,,mz,mz
+Q111841611,Lúcia Pedro Mafuaine,,,mz,mz
+Q111841610,Lutsé Esperança Mirione Rumeia,,,mz,mz
+Q111841608,Lucília José Manuel Nota Hama,,,mz,mz
+Q111841609,Lutero Simango,,,mz,mz
+Q111841612,Lúcia Xavier Afate,,,mz,mz
+Q111841614,Manuel Zeca Bissopo,,,mz,mz
+Q111841615,Margarida Manuel Salimo,,,mz,mz
+Q111841613,Manuel Vasconcelos E. Manuel Maria,,,mz,mz
+Q111841618,Maria Anastácia da Costa Xavier,,,mz,mz
+Q111841619,Maria Bachir,,,mz,mz
+Q111841617,Margarido Salvador Abrantes,,,mz,mz
+Q111904694,Maria Virginia Sousa Videira,,,mz,mz
+Q111904696,Mário Ciquenta Naula,,,mz,mz
+Q111904699,Mateus Lucas António,,,mz,mz
+Q111904697,Mateus Anibal Malichocho,,,mz,mz
+Q111904700,Matias Alberto Ngulela,,,mz,mz
+Q111904701,Máximo Dias,,,mz,mz
+Q111904703,Milho de Castro Akili,,,mz,mz
+Q111904706,Natercia Felizarda de Jesus Matiquite,,,mz,mz
+Q111904705,Mustafa Rachide,,,mz,mz
+Q111904708,Nelson Afonso Alberto,,,mz,mz
+Q111904710,Ossufo Muze Quitine,,,mz,mz
+Q111904709,Orlando Pedro Candua,,,mz,mz
+Q111841622,Maria Marta Mateus Fernando,,,mz,mz
+Q111841623,Mariana Caisse,,,mz,mz
+Q111841621,Maria Inês Martins,,,mz,mz
+Q111841624,Marquita Alexandre Loforte Jaime,,,mz,mz
+Q111841627,Matias José Matias Nhongue,,,mz,mz
+Q111841625,Martinha Januário Benfica,,,mz,mz
+Q111841634,Mário Ali,,,mz,mz
+Q111841628,Miguel Anlawe Musssa,,,mz,mz
+Q111841629,Miguel Celestino Mpamba,,,mz,mz
+Q111841630,Mohamad da Costa Ali Yassine,,,mz,mz
+Q111841631,Muhamad Bacir Abdul Remane,,,mz,mz
+Q111841632,Muhamedrachid Sulemane,,,mz,mz
+Q111841633,Mustagibo Atimo Bachir,,,mz,mz
+Q118450741,Ali Amba,,,mz,mz
+Q118450735,António Maloa,,,mz,mz
+Q118450738,António Barros F. Namuraha,,,mz,mz
+Q118450751,Amade Chemane C. Júnior,,,mz,mz
+Q118450733,Avelino Manuel João,,,mz,mz
+Q118450730,Carlos Álvaro Fernandes,,,mz,mz
+Q118450746,Humberto Pereira Victorino,,,mz,mz
+Q118450748,Hassan Ismail Makda,,,mz,mz
+Q118450763,Gaspar Vicente Sitoe,,,mz,mz
+Q118450743,Jacinto Tonhiua,,,mz,mz
+Q118450757,Jafar Gulamo Jafar,,,mz,mz
+Q118450764,Mahomed Mogne,,,mz,mz
+Q118450761,Narciso Matos,,,mz,mz
+Q111841635,Mário Franque,,,mz,mz
+Q111841636,Nilza Henguissere Narciso,,,mz,mz
+Q111841638,Ofélia Timóteo Mutombene,,,mz,mz
+Q111841637,Odete Isaias Motiça,,,mz,mz
+Q111841639,Olinda Francisco Langa Mith,,,mz,mz
+Q111841640,Olinda Navais,,,mz,mz
+Q111841643,Paulo Vahanle,,,mz,mz
+Q111841641,Patrício M'pagai,,,mz,mz
+Q111841644,Pedro Frederico Cossa,,,mz,mz
+Q111841645,Pedro Tesoura Chichova,,,mz,mz
+Q111841646,Rachade Carvalho,,,mz,mz
+Q111841647,Rafael António de Sousa Gusmão,,,mz,mz
+Q111841649,Rafael Lourenço Chande,,,mz,mz
+Q111841650,Raimundo Pitágoras Lauma,,,mz,mz
+Q111841651,Ramulata Mahumudo Irache,,,mz,mz
+Q111841652,Regina Macuacua Muchanga,,,mz,mz
+Q111841654,Ricardo Frederico Francisco Tomás,,,mz,mz
+Q111841653,Ricardina Suia Albano Mazive,,,mz,mz
+Q111841655,Rui Sixpence Gonzane,,,mz,mz
+Q111841658,Sandura Vasco Ambrósio,,,mz,mz
+Q111841656,Saimone Muhambi Macuaina,,,mz,mz
+Q111841659,Sara Mamudo Abdula Vassanegy,,,mz,mz
+Q111841657,Sande Castigo Carmona,,,mz,mz
+Q111841660,Sebastião da Costa Sebastião,,,mz,mz
+Q111841662,Severina Tiago Banze,,,mz,mz
+Q111841661,Severiano Romão Khoy,,,mz,mz
+Q111841663,Silvério Eugénio Samuel,,,mz,mz
+Q118449905,Alexandre Faite,,,mz,mz
+Q118449913,Abdul Amide Mahomed,,,mz,mz
+Q118449906,Celestino Bento,,,mz,mz
+Q118449900,Francisco Caetano Bero,,,mz,mz
+Q118449908,Félix Binda Raposo,,,mz,mz
+Q118449910,Jorge Abrão Pires,,,mz,mz
+Q118449911,José Rafael Kangonda,,,mz,mz
+Q118449909,Joaquim Rui Fernando Augusto,,,mz,mz
+Q118449902,Luís M. Manuel,,,mz,mz
+Q118449903,Manuel A. Nacinho da Maia,,,mz,mz
+Q118449912,Virgílio Chaphata,,,mz,mz
+Q118449924,Assane Chawal A. Napa,,,mz,mz
+Q118449934,Bonifácio G. Massamba,,,mz,mz
+Q118507224,José Cardoso,,,mz,mz
+Q118613825,João Munguambe,,,mz,mz
+Q118612793,Aurélio do Rosário Jr.,,,mz,mz
+Q118613820,Boavida José Lopes Muambe,,,mz,mz
+Q118613822,Daniel Assael Polela,,,mz,mz
+Q118613823,Hélder Fernando Brígido Martins,,,mz,mz
+Q118613824,Hipólito Pereira Zózimo Patrício,,,mz,mz
+Q118613826,Jonas Geraldo Namashulua,,,mz,mz
+Q111843368,Bonifácio Gruveta,,,mz,mz
+Q111843363,Dias Julião Letela,,,mz,mz
+Q111843364,Dionísio Cherewa,,,mz,mz
+Q111843366,Dominic Phiri,,,mz,mz
+Q111843367,Dores Armando Izidro,,,mz,mz
+Q111843365,Domingas Gonçalves José Ferrão,,,mz,mz
+Q111843370,Elcina Eugénio Marindze,,,mz,mz
+Q111843371,Elias Gilberto Impuiri,,,mz,mz
+Q111843369,Edson Judite Calisto Nhangumele,,,mz,mz
+Q111843372,Elias Macacho Marceta Dhlakama,,,mz,mz
+Q111843373,Elvira Pinto Duarte Timana,,,mz,mz
+Q111843374,Eusébio Nanguia Nipite Mulange,,,mz,mz
+Q111841667,Sérgio José Camunga Pantie,,,mz,mz
+Q111841666,Sofrimento Funai Matequenha,,,mz,mz
+Q111841664,Simão Bute,,,mz,mz
+Q111841665,Simões Paulo Mário,,,mz,mz
+Q111841668,Sónia Maria Vasco Mepameia,,,mz,mz
+Q111841671,Valdemiro de G. Pascoal Nhancengo,,,mz,mz
+Q111841674,Vasco Manuel,,,mz,mz
+Q111841675,Venâncio Mondlane,,,mz,mz
+Q111841672,Valentina Justa Puchar Mtumuke,,,mz,mz
+Q111841673,Valéria José Mitilela,,,mz,mz
+Q111841676,Vergonha Abudo,,,mz,mz
+Q111841677,Viana da Silva Magalhães,,,mz,mz
+Q111841683,Ássia Paulo Cipriano Abudo Ali,,,mz,mz
+Q111841678,Victor Viandro Mudivila,,,mz,mz
+Q111841680,Virgínia Oreste Kwavateka Gondola,,,mz,mz
+Q111841682,Zezinho Ricardo José,,,mz,mz
+Q111841681,Yonusse Amad,,,mz,mz
+Q111843322,Adelino Andissene Silveira,,,mz,mz
+Q111843320,Abdul Zacarias,,,mz,mz
+Q111843321,Abdula Tarmamade Abdula,,,mz,mz
+Q111843326,Agostinho Pinto Mussuluaia Muapilote,,,mz,mz
+Q111843327,Agostinho Sairosse Maeni,,,mz,mz
+Q111843325,Agostinho Navanssuane Chelua,,,mz,mz
+Q111843331,Alberto José Bacar,,,mz,mz
+Q111843329,Alberto Francisco Valoi,,,mz,mz
+Q111841483,Carlos Manuel,,,mz,mz
+Q111841480,Buanar Muhamede,,,mz,mz
+Q111841482,Carimo Freitas de Oliveira,,,mz,mz
+Q111841481,Caifadine Paulo Manasse,,,mz,mz
+Q111841486,Carlos Samussone Maiela,,,mz,mz
+Q111841487,Carlos Sebastião,,,mz,mz
+Q111841484,Carlos Manuel Simbi,,,mz,mz
+Q111841485,Carlos Moreira Vasco,,,mz,mz
+Q111841488,Carvalho Pensando António,,,mz,mz
+Q111841489,Catarina Olinda Salomão Figueira,,,mz,mz
+Q111841490,Celmira Irene Melo Xavier,,,mz,mz
+Q111841491,Cemilde Amélia Muchanga,,,mz,mz
+Q111841492,Chrispen Matches,,,mz,mz
+Q134987383,Thaís Santos,,,mz,mz
+Q135016825,Laila Ferrari Aguirre,,,mz,mz
+Q135109851,Adelia Tique Massangaie,,,mz,mz
+Q135220111,Selena Simango,,,mz,mz
+Q135352872,Azenio Cossa,,,mz,mz
+Q135354857,Danilo Celestino Cumbe,,,mz,mz
+Q135354854,Uwami Nashe Chongo,,,mz,mz
+Q135354856,Turdevales Lames Faindes Nhantumbo,,,mz,mz
+Q135357415,Horacio Joaquim Martins,,,mz,mz
+Q135357349,Teima Manjate,,,mz,mz
+Q135357843,Celio Chirombe,,,mz,mz
+Q135359295,Nilton Fernando Mateus Seifane,,,mz,mz
+Q135360230,Amina Omar,,,mz,mz
+Q135359833,Stelio Dinis,,,mz,mz
+Q135360232,Edna Gabriel,,,mz,mz
+Q126196269,Feliz Avelino Silva,,,mz,mz
+Q126209718,João Pedro Amade,,,mz,mz
+Q126209739,Marieta Xavier Armando,,,mz,mz
+Q126211002,Angelina Agripino Ndimalela Mavota,,,mz,mz
+Q126365078,Ana Paula Sinaportar,,,mz,mz
+Q126365065,Vanessa Muianga,,,mz,mz
+Q126366126,Eufrásia Guerra Saleva Jordão,,,mz,mz
+Q126370636,Agostinho Macuácua,,,mz,mz
+Q126370605,Fernando Mbararano,,,mz,mz
+Q111841493,Costa Francisco Chale,,,mz,mz
+Q111843440,Mário da Cruz de Amaral,,,mz,mz
+Q111843435,Momade Arnaldo Juízo,,,mz,mz
+Q111843436,Muanaiamo Pinto Massua,,,mz,mz
+Q111843437,Muanarera Abdala,,,mz,mz
+Q111843439,Mussabay Issufo Gani,,,mz,mz
+Q128035661,Classio João Mendiate,,,mz,mz
+Q128114551,Maria Helena de Carvalho Silva Afonso,,,mz,mz
+Q130215303,Ermelindo Novela,,,mz,mz
+Q130233693,Ernesto Shikhani,,,mz,mz
+Q130419183,Rizuane Mubarak,,,mz,mz
+Q130611823,Hipolito Custódio Mário,,,mz,mz
+Q130936624,Lucilia Chuquela,,,mz,mz
+Q130936894,Kisimenda Muambalo,,,mz,mz
+Q130938917,Suzana Macuvele,,,mz,mz
+Q131417597,Amália de Proença Norte,,,mz,mz
+Q131427850,Macache Djz,,,mz,mz
+Q131859963,Estêvão Ângelo Fernando,,,mz,mz
+Q132458460,Francisco Chissumba,,,mz,mz
+Q133387747,Joaquina Siquice,,,mz,mz
+Q133467568,Amável Vera Cruz,,,mz,mz
+Q133467555,Glória Monteiro Nobre Chire,,,mz,mz
+Q133467705,Denise Langa,,,mz,mz
+Q133467727,Gilda Jossias,,,mz,mz
+Q133467818,Helena Saide,,,mz,mz
+Q133467827,Maria Bossimane,,,mz,mz
+Q133852294,Cesaltina Lorenzoni,,,mz,mz
+Q133467839,Marina Manguedye Pachinuapa,,,mz,mz
+Q133469355,Guilhermina Caetano,,,mz,mz
+Q133469640,Juliana de Sousa,,,mz,mz
+Q133470122,Denise Malauene,,,mz,mz
+Q133473330,Amabélia Chuquela,,,mz,mz
+Q133473291,Rosa Marlene,,,mz,mz
+Q133473569,Ana Sheila Marrengula,,,mz,mz
+Q133479186,Ivete Maibasse,,,mz,mz
+Q133480423,Teresa Xavier,,,mz,mz
+Q133500058,Casimira Macamo,,,mz,mz
+Q133500014,Eugénia Macassa,,,mz,mz
+Q133500114,Albertina Dimande,,,mz,mz
+Q133500112,Herminia Nhamuze,,,mz,mz
+Q133500164,Gisela Chimoio,,,mz,mz
+Q133500119,Olga Utchavo,,,mz,mz
+Q133500131,Suzy Bila,,,mz,mz
+Q133505468,Maria Helena Correia Jose Langa,,,mz,mz
+Q133545021,Frederico dos Santos,,,mz,mz
+Q133773777,Deolinda Guezimane,,,mz,mz
+Q134875023,Cristiana Magaia,,,mz,mz
+Q134875004,Isabel Chuma,,,mz,mz
+Q134875077,Rosalia Haiong,,,mz,mz
+Q134875108,Olga Mondlane,,,mz,mz
+Q134875316,Abelina Moiane,,,mz,mz
+Q134875395,Amelia Mundondo,,,mz,mz
+Q134875351,Fernanda Arlinda Zavala,,,mz,mz
+Q134875333,Irene Mulhovo,,,mz,mz
+Q134875462,Laura Chipanga,,,mz,mz
+Q134875488,Isabel Mabunda,,,mz,mz
+Q134875435,Raquel Duvane,,,mz,mz
+Q134875513,Josefina Sonia,,,mz,mz
+Q135357253,Zinobia Machanguana,,,mz,mz
