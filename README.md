@@ -86,6 +86,17 @@ output/
   pcthispanic_lookup.json     ← US Census ethnicity data (1.4 MB)
 ```
 
+## Generated State
+
+`models/` and `data/processed/` are local generated state. They are useful for
+retraining and can be recreated from `pipeline.download`, `pipeline.normalize`,
+and `pipeline.merge`.
+
+`output/*.json` is the canonical inference artifact set. Runtime scoring loads
+from these JSON exports, and the web classifier consumes the same files. Do not
+delete or omit them from backups just because `models/` or `data/processed/`
+can be regenerated.
+
 ## Data Sources
 
 | Source | Records | What |

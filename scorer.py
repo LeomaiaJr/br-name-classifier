@@ -12,14 +12,12 @@ Usage:
 
 import json
 import math
-import pickle
 import re
 import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 
 import numpy as np
-import pandas as pd
 
 from constants import (
     PT_STRONG_PREPS, PT_WEAK_PREPS, ALL_PT_PREPS, ES_PATTERNS,
@@ -31,7 +29,6 @@ from constants import (
 
 _BASE = Path(__file__).parent
 _OUTPUT_DIR = _BASE / "output"
-_MODELS_DIR = _BASE / "models"
 
 # Lazy-loaded model cache
 _freq_tables = None
@@ -81,6 +78,65 @@ class ClassificationResult:
     country_entropy: float = 0.0
 
 
+class JsonNgramModel:
+    """Small inference-only predictor for exported TF-IDF + SGD weights."""
+
+    def __init__(self, model: dict):
+        self.classes_ = list(model["classes"])
+        self.vocabulary = model["vocabulary"]
+        self.idf = model["idf"]
+        self.coef_sparse = model["coef_sparse"]
+        self.intercept = model["intercept"]
+        config = model["config"]
+        self.min_n, self.max_n = config["ngram_range"]
+        self.sublinear_tf = bool(config.get("sublinear_tf", False))
+
+    def _extract_char_wb_ngrams(self, text: str) -> dict[str, int]:
+        counts: dict[str, int] = {}
+        for word in text.lower().split():
+            if not word:
+                continue
+            padded = f" {word} "
+            for n in range(self.min_n, self.max_n + 1):
+                for i in range(0, len(padded) - n + 1):
+                    ngram = padded[i : i + n]
+                    counts[ngram] = counts.get(ngram, 0) + 1
+        return counts
+
+    def predict_proba(self, names: list[str]) -> np.ndarray:
+        rows = []
+        for name in names:
+            ngram_counts = self._extract_char_wb_ngrams(name)
+            tfidf: dict[str, float] = {}
+            norm_sq = 0.0
+            for ngram, count in ngram_counts.items():
+                idx = self.vocabulary.get(ngram)
+                if idx is None:
+                    continue
+                tf = 1 + math.log(count) if self.sublinear_tf else count
+                val = tf * self.idf[idx]
+                tfidf[ngram] = val
+                norm_sq += val * val
+
+            norm = math.sqrt(norm_sq)
+            if norm > 0:
+                tfidf = {ngram: val / norm for ngram, val in tfidf.items()}
+
+            z_scores = []
+            for c, cls in enumerate(self.classes_):
+                z = self.intercept[c]
+                for ngram, weight in self.coef_sparse.get(cls, {}).items():
+                    val = tfidf.get(ngram)
+                    if val:
+                        z += val * weight
+                z_scores.append(z)
+
+            sigmoids = [1 / (1 + math.exp(-z)) for z in z_scores]
+            total = sum(sigmoids)
+            rows.append([p / total for p in sigmoids])
+        return np.array(rows)
+
+
 def _load_models():
     global _freq_tables, _ngram_pipeline, _meta_coef, _meta_intercept, _us_census_pcthisp, _country_tables
 
@@ -97,25 +153,17 @@ def _load_models():
     else:
         _country_tables = {}
 
-    with open(_MODELS_DIR / "ngram_pipeline.pkl", "rb") as f:
-        _ngram_pipeline = pickle.load(f)
+    with open(_OUTPUT_DIR / "ngram_model.json") as f:
+        _ngram_pipeline = JsonNgramModel(json.load(f))
 
     with open(_OUTPUT_DIR / "meta_model.json") as f:
         meta = json.load(f)
     _meta_coef = np.array(meta["coef"])
     _meta_intercept = meta["intercept"]
 
-    pcthisp_path = _BASE / "data" / "processed" / "all_surnames.csv"
-    _us_census_pcthisp = {}
-    if pcthisp_path.exists():
-        df = pd.read_csv(pcthisp_path)
-        for _, row in df[df["country"] == "american"].iterrows():
-            try:
-                pct = float(row["pcthispanic"])
-                if pct > 0:
-                    _us_census_pcthisp[str(row["name"])] = pct
-            except (ValueError, TypeError):
-                pass
+    with open(_OUTPUT_DIR / "pcthispanic_lookup.json") as f:
+        pct_data = json.load(f)
+    _us_census_pcthisp = {str(name): float(pct) for name, pct in pct_data.get("data", {}).items()}
 
 
 def _strip_accents(s: str) -> str:
@@ -764,7 +812,7 @@ def _has_definitive_hispanic_evidence(features: dict[str, float]) -> bool:
         or features["spanish_preposition_present"]
         or features.get("definitive_hispanic_surname_count", 0.0) >= 1
         or (
-            features["us_census_pcthispanic"] >= 0.72
+            features["us_census_pcthispanic"] > 0.72
             and features["role_surname_br_prob"] < 0.35
             and features.get("portuguese_shared_surname_count", 0.0) == 0
         )
@@ -787,7 +835,7 @@ def _definitive_hispanic_surname_cap(name: str, features: dict[str, float]) -> t
     if features.get("definitive_hispanic_surname_count", 0.0) >= 1:
         return 40, "definitive_hispanic_surname_cap"
     if (
-        features["us_census_pcthispanic"] >= 0.72
+        features["us_census_pcthispanic"] > 0.72
         and features["role_surname_br_prob"] < 0.35
         and features.get("portuguese_shared_surname_count", 0.0) == 0
     ):
@@ -821,7 +869,7 @@ def _hispanic_evidence_cap(features: dict[str, float]) -> tuple[int, str] | None
         and features["max_firstname_hispanic_prob"] >= 0.85
         and features["max_firstname_br_prob"] < 0.50
     ):
-        if features["ngram_hispanic_prob"] >= 0.60 or features["us_census_pcthispanic"] >= 0.70:
+        if features["ngram_hispanic_prob"] >= 0.60 or features["us_census_pcthispanic"] > 0.70:
             return 10, "hispanic_name_strong_cap"
         return 15, "hispanic_name_dominant_cap"
     if (
@@ -835,7 +883,7 @@ def _hispanic_evidence_cap(features: dict[str, float]) -> tuple[int, str] | None
     ):
         return 40, "hispanic_first_name_cap"
     if (
-        features["us_census_pcthispanic"] >= 0.60
+        features["us_census_pcthispanic"] > 0.60
         and features["max_firstname_br_prob"] < 0.60
         and features["max_surname_br_prob"] < 0.50
         and not features["compound_name_detected"]
@@ -884,7 +932,7 @@ def _no_brazilian_evidence_cap(name: str, features: dict[str, float]) -> tuple[i
     # name (THIAGO-grade, >=0.70) is trusted on its own.
     if known_foreign_surname:
         if (
-            features["us_census_pcthispanic"] >= 0.65
+            features["us_census_pcthispanic"] > 0.65
             or features["max_surname_hispanic_prob"] >= 0.85
             or features["ngram_hispanic_prob"] >= 0.55
         ):
