@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "br-name-classifier"
-version = "1.0.0"
+version = "1.1.0"
 description = "ML classifier for identifying Brazilian names using census data and character n-grams"
 readme = "README.md"
 license = "MIT"
@@ -25,4 +25,4 @@ dev = ["pytest>=7.0"]
 include = ["pipeline*", "tests*"]
 
 [tool.setuptools]
-py-modules = ["scorer", "config", "constants"]
+py-modules = ["scorer", "precision", "config", "constants"]

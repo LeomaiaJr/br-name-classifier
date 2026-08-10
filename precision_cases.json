@@ -1,0 +1,1070 @@
+[
+  {
+    "group": "trusted_positive",
+    "name": "FERREIRA GUSTAVO",
+    "min": 80
+  },
+  {
+    "group": "trusted_positive",
+    "name": "DASILVA THIAGO",
+    "min": 80
+  },
+  {
+    "group": "trusted_positive",
+    "name": "DOS SANTOS JOAO",
+    "min": 70
+  },
+  {
+    "group": "trusted_positive",
+    "name": "FONSECA THIAGO",
+    "min": 70
+  },
+  {
+    "group": "trusted_positive",
+    "name": "DA LUZ JOAO",
+    "min": 70
+  },
+  {
+    "group": "trusted_positive",
+    "name": "OLIVEIRA JOSE CLAUDEMIR",
+    "min": 70
+  },
+  {
+    "group": "surname_only_guard",
+    "name": "DA SILVA",
+    "max": 49
+  },
+  {
+    "group": "surname_only_guard",
+    "name": "DOS SANTOS",
+    "max": 49
+  },
+  {
+    "group": "surname_only_guard",
+    "name": "DA SILVA REVOCABLE TRUST",
+    "max": 49
+  },
+  {
+    "group": "surname_only_guard",
+    "name": "DE SOUZA LIVING TRUST",
+    "max": 49
+  },
+  {
+    "group": "surname_only_guard",
+    "name": "DOS SANTOS FAMILY TR",
+    "max": 49
+  },
+  {
+    "group": "truncated_owner_guard",
+    "name": "& DE OLIVEIRA",
+    "max": 49
+  },
+  {
+    "group": "multi_surname_trust_positive",
+    "name": "FERNANDES NEVES REVOCABLE TRUST",
+    "min": 70
+  },
+  {
+    "group": "merged_surname_only",
+    "name": "DASILVA",
+    "max": 49
+  },
+  {
+    "group": "merged_surname_only",
+    "name": "DACUNHA",
+    "max": 49
+  },
+  {
+    "group": "reported_ood",
+    "name1": "SATURNE ANISE A",
+    "name2": "BELONY VILSON V",
+    "max": 49
+  },
+  {
+    "group": "reported_ood",
+    "name1": "RAI HARDAT",
+    "name2": "RAI TETYANA FRYDRYK",
+    "max": 14
+  },
+  {
+    "group": "reported_ood",
+    "name": "DO MAO THI",
+    "max": 14
+  },
+  {
+    "group": "reported_ood",
+    "name1": "UTILE WILCIDE",
+    "name2": "DESTINE EVELINE",
+    "max": 49
+  },
+  {
+    "group": "particle_conflict",
+    "name": "DAS PAULA",
+    "max": 14
+  },
+  {
+    "group": "api_conflict",
+    "name": "JIANG YAN",
+    "max": 14
+  },
+  {
+    "group": "owner_isolation",
+    "name1": "PLESNIAK ARTUR",
+    "name2": "SILVA JOHN",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_role",
+    "name": "PAULA J REVOCABLE TRUST",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_role",
+    "name1": "PAULA KEANE REVOCABLE TRUST",
+    "name2": "KEANE PAULA TR",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_collision",
+    "name": "DE SILVA D S ANANDA",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_collision",
+    "name": "GUNAWARDANA DE SILVA REV TRUST",
+    "max": 49
+  },
+  {
+    "group": "corroborated_collision",
+    "name": "DE SILVA FERNANDES JOAO",
+    "min": 70
+  },
+  {
+    "group": "ambiguous_collision",
+    "name": "HERRERA AUGUSTO DEJESUS",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_collision",
+    "name": "DACOSTA SIMONE L JADDOO",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_collision",
+    "name": "DECASTRO KHANHAI DECASTRO CELI",
+    "max": 49
+  },
+  {
+    "group": "corroborated_collision",
+    "name": "DEJESUS FERREIRA JOAO",
+    "min": 70
+  },
+  {
+    "group": "ood_negative",
+    "name1": "ZHANG ZHIYONG",
+    "name2": "GAO XIANG",
+    "max": 14
+  },
+  {
+    "group": "ood_negative",
+    "name1": "AFOLABI TUNDE",
+    "name2": "AFOLABI ADESOLA",
+    "max": 49
+  },
+  {
+    "group": "ood_negative",
+    "name": "DIEUJUSTE CLARISSE",
+    "max": 49
+  },
+  {
+    "group": "secondary_conflict",
+    "name": "XAVIER THELUSMA",
+    "max": 49
+  },
+  {
+    "group": "secondary_conflict",
+    "name": "MARTINS OLAWALE ABIODUN",
+    "max": 49
+  },
+  {
+    "group": "secondary_conflict",
+    "name": "XAVIER SHAJI",
+    "max": 49
+  },
+  {
+    "group": "secondary_conflict",
+    "name": "FELIX KENOL JUNIOR",
+    "max": 49
+  },
+  {
+    "group": "organization",
+    "name": "CHIPOLA JUNIOR COLLEGE",
+    "max": 0
+  },
+  {
+    "group": "organization",
+    "name": "CHOI KWANG DO OF NORTH FLORIDA",
+    "max": 0
+  },
+  {
+    "group": "organization",
+    "name": "PEREIRA GROUP REAL ESTATE",
+    "max": 0
+  },
+  {
+    "group": "organization",
+    "name": "MORAIS TRUCKING & DEVELOPMENT",
+    "max": 0
+  },
+  {
+    "group": "organization",
+    "name": "PINHEIRO ALVES CONSTRUCTION SE",
+    "max": 0
+  },
+  {
+    "group": "organization",
+    "name": "NASCIMENTO NASCIMENTO INVESTME",
+    "max": 0
+  },
+  {
+    "group": "organization",
+    "name": "CARNEIRO DE MELO CONSTRUTORA E",
+    "max": 0
+  },
+  {
+    "group": "organization",
+    "name": "XAVIER FINANCIAL &MORTGAGE GRO",
+    "max": 0
+  },
+  {
+    "group": "organization",
+    "name": "PORTO VECCHIO AT MIRASOL POA I",
+    "max": 0
+  },
+  {
+    "group": "person_plus_organization",
+    "name1": "DIAS ANDRE LUIZ",
+    "name2": "8777 ZEN DRIVE LLC",
+    "min": 70
+  },
+  {
+    "group": "confirmed_generalizable_rescue",
+    "name1": "NASCIMENTO WILLIAM D",
+    "name2": "DUMONT NASCIMENTO MARISA VIEIRA",
+    "min": 70
+  },
+  {
+    "group": "immigrant_surname_compound_given_rescue",
+    "name": "PAGOTTO ANA PAULA",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "mixed_hispanic_guard",
+    "name": "SANTOS LISANDRA RUIZ ET AL",
+    "max": 49
+  },
+  {
+    "group": "live_non_portuguese_guard",
+    "name": "COELHO NENO",
+    "max": 49
+  },
+  {
+    "group": "live_false_positive_guard",
+    "name": "APOLINARIO ANTONIO",
+    "max": 49
+  },
+  {
+    "group": "bare_surname_uncorroborated",
+    "name": "COELHO ABELAR P",
+    "max": 49
+  },
+  {
+    "group": "multi_person_field_isolation",
+    "name": "DORAI MADHU & THANKAKRISHNA SA",
+    "max": 49
+  },
+  {
+    "group": "multi_person_field_isolation",
+    "name": "BIRD EMERGENCY AID AND KARE SA",
+    "max": 49
+  },
+  {
+    "group": "multi_person_field_isolation",
+    "name": "PREITZ WALLACE T II & DEMAS SA",
+    "max": 49
+  },
+  {
+    "group": "multi_person_field_isolation",
+    "name": "DE WOLF KELI & SANTOS FREDERIC",
+    "max": 49
+  },
+  {
+    "group": "secondary_conflict_after_rescue",
+    "name": "WITHNEY DORLEAN MENDES CLAREL",
+    "max": 49
+  },
+  {
+    "group": "hispanic_conflict_after_rescue",
+    "name": "ARIAS MOREIRA LUANA",
+    "max": 49
+  },
+  {
+    "group": "hispanic_conflict_after_rescue",
+    "name": "CASTILLO MOREIRA ELDER",
+    "max": 49
+  },
+  {
+    "group": "independent_coowner_positive",
+    "name1": "FERREIRA GUSTAVO",
+    "name2": "GARCIA JUAN",
+    "min": 80
+  },
+  {
+    "group": "independent_coowner_positive",
+    "name1": "GARCIA JUAN",
+    "name2": "FERREIRA GUSTAVO",
+    "min": 80
+  },
+  {
+    "group": "independent_coowner_positive",
+    "name1": "SANTOS MARIANA",
+    "name2": "GONZALEZ SANCHEZ PEDRO JUAN III",
+    "min": 70
+  },
+  {
+    "group": "independent_coowner_positive",
+    "name1": "MARTINEZ JUAN",
+    "name2": "DA SILVA KARINA",
+    "min": 70
+  },
+  {
+    "group": "joint_weak_evidence_no_bonus",
+    "name1": "DA SILVA",
+    "name2": "DOS SANTOS",
+    "max": 69
+  },
+  {
+    "group": "hispanic_structure_guard",
+    "name": "DE LOS SANTOS WILTON",
+    "max": 49
+  },
+  {
+    "group": "hispanic_structure_guard",
+    "name": "MONTEIRO FILIPE AUGUSTO DE LA GUARDIA",
+    "max": 49
+  },
+  {
+    "group": "hispanic_structure_token_boundary",
+    "name": "DE LACERDA JOAO",
+    "min": 70
+  },
+  {
+    "group": "merged_hispanic_structure_guard",
+    "name": "DELOS SANTOS MICHEL",
+    "max": 49
+  },
+  {
+    "group": "merged_hispanic_structure_guard",
+    "name": "DELOS-SANTOS ANA MARIA",
+    "max": 49
+  },
+  {
+    "group": "hispanic_structure_guard",
+    "name": "MELO DELGADO XAVIER",
+    "max": 49
+  },
+  {
+    "group": "organization_guard",
+    "name": "SANTA ROSA BAY BRIDGE",
+    "max": 0
+  },
+  {
+    "group": "organization_stem_collision_recall",
+    "name": "BRIDGETTE M DESOUZA",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "organization_stem_collision_recall",
+    "name": "DE FREITAS BRIDGET A",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "organization_guard",
+    "name": "SANTA ROSA VILLAS TOWNHOUSE AS",
+    "max": 0
+  },
+  {
+    "group": "organization_guard",
+    "name": "24 18TH STREET SANTA ROSA BEACH",
+    "max": 0
+  },
+  {
+    "group": "weak_natural_order_surname",
+    "name": "MATTHEW C FERNANDES",
+    "max": 49
+  },
+  {
+    "group": "weak_natural_order_surname",
+    "name": "SUSAN M CAVALCANTE REVOCABLE TRUST",
+    "max": 49
+  },
+  {
+    "group": "weak_natural_order_surname",
+    "name": "BRIAN OLIVEIRA REVOCABLE TRUST",
+    "max": 49
+  },
+  {
+    "group": "explicit_person_separator_isolation",
+    "name": "PIRES D G + FERNANDA M R",
+    "max": 49
+  },
+  {
+    "group": "explicit_person_separator_isolation",
+    "name": "CORDEIRO DEREK + MARLENE",
+    "max": 49
+  },
+  {
+    "group": "person_plus_organization",
+    "name": "FERREIRA GUSTAVO & ACME LLC",
+    "min": 80
+  },
+  {
+    "group": "supported_suffix_rescue",
+    "name": "NIVALDO FILHO",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "unsupported_suffix_guard",
+    "name": "CAFE FILHO",
+    "max": 49
+  },
+  {
+    "group": "organization_guard",
+    "name": "INVERSIONES FERNANDES GOMES LL",
+    "max": 0
+  },
+  {
+    "group": "organization_guard",
+    "name": "JENIFER SANTOS DMD PLLC",
+    "max": 0
+  },
+  {
+    "group": "organization_guard",
+    "name": "DA COSTA MAR RENTAL RIVER MARI",
+    "max": 0
+  },
+  {
+    "group": "surname_not_organization",
+    "name": "VILLA NOVA DE ANDRADE GABRIEL",
+    "min": 1,
+    "max": 49
+  },
+  {
+    "group": "surname_not_organization",
+    "name": "CASEIRO PAULA VILLAS BOAS",
+    "min": 1,
+    "max": 49
+  },
+  {
+    "group": "cautious_natural_order_rescue",
+    "name": "HOMERO LEITE MEIRA",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "cautious_natural_order_rescue",
+    "name": "DERCY GONCALVES",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "natural_order_model_support_guard",
+    "name": "JHONNY XAVIER LADINES",
+    "max": 49
+  },
+  {
+    "group": "natural_order_model_support_guard",
+    "name": "ELVIS WAREN VARELA",
+    "max": 49
+  },
+  {
+    "group": "natural_order_model_support_guard",
+    "name": "VANESSA MILAGROS PEDROSO",
+    "max": 49
+  },
+  {
+    "group": "country_cluster_collision_guard",
+    "name": "ARNALDO VARELA",
+    "max": 49
+  },
+  {
+    "group": "country_cluster_collision_guard",
+    "name": "MARIANA EVORA",
+    "max": 49
+  },
+  {
+    "group": "competing_model_floor_guard",
+    "name": "CORREA ADRIANA",
+    "max": 49
+  },
+  {
+    "group": "competing_model_floor_guard",
+    "name": "DUTRA DAVID WAGNER",
+    "max": 49
+  },
+  {
+    "group": "unique_surname_corroboration",
+    "name": "LUCY BELL VIEIRA VIEIRA",
+    "max": 69
+  },
+  {
+    "group": "unique_surname_corroboration",
+    "name": "CHRISTIANO CARVALHO CARVALHO",
+    "max": 69
+  },
+  {
+    "group": "organization_suffix_guard",
+    "name": "ANY LOPES ALVES PA",
+    "max": 0
+  },
+  {
+    "group": "trailing_owner_delimiter_guard",
+    "name": "PINTO MARIANO &",
+    "max": 49
+  },
+  {
+    "group": "trailing_owner_delimiter_guard",
+    "name": "SILVA CHARLES FREIRE DA &",
+    "max": 49
+  },
+  {
+    "group": "trailing_owner_delimiter_guard",
+    "name": "MACHADO ROSA M &",
+    "max": 49
+  },
+  {
+    "group": "trailing_owner_delimiter_positive",
+    "name": "FERREIRA GUSTAVO &",
+    "min": 80
+  },
+  {
+    "group": "trailing_plus_delimiter_guard",
+    "name": "SOUZA LAURINALDO ALVES DE +",
+    "max": 49
+  },
+  {
+    "group": "trailing_plus_delimiter_guard",
+    "name": "SILVA DIEGO PEREIRA DA +",
+    "max": 49
+  },
+  {
+    "group": "trailing_plus_delimiter_positive",
+    "name": "FERREIRA GUSTAVO +",
+    "min": 80
+  },
+  {
+    "group": "unspaced_plus_delimiter_guard",
+    "name": "DORAI MADHU+THANKAKRISHNA SA",
+    "max": 49
+  },
+  {
+    "group": "unspaced_plus_delimiter_positive",
+    "name": "FERREIRA GUSTAVO+GARCIA JUAN",
+    "min": 80
+  },
+  {
+    "group": "delimiter_only_input",
+    "name": "&",
+    "max": 0
+  },
+  {
+    "group": "delimiter_only_input",
+    "name": "AND",
+    "max": 0
+  },
+  {
+    "group": "delimiter_only_input",
+    "name": "+",
+    "max": 0
+  },
+  {
+    "group": "delimiter_only_input",
+    "name": "& TR",
+    "max": 0
+  },
+  {
+    "group": "delimiter_only_input",
+    "name": "+ TRUST",
+    "max": 0
+  },
+  {
+    "group": "comma_coowner_isolation",
+    "name": "SOUSA WILLIAM E, SOUSA JANET A",
+    "max": 49
+  },
+  {
+    "group": "comma_coowner_isolation",
+    "name": "MARTINS GEORGE P, MARTINS JENN",
+    "max": 49
+  },
+  {
+    "group": "comma_coowner_isolation",
+    "name": "PEREIRA MARIA F, REIS MARIA L",
+    "max": 49
+  },
+  {
+    "group": "comma_coowner_isolation",
+    "name": "OLIVEIRA MANUEL M, OLIVEIRA AR",
+    "max": 49
+  },
+  {
+    "group": "comma_coowner_isolation",
+    "name": "MARTINS MARIA T, ALMEIDA MANUE",
+    "max": 49
+  },
+  {
+    "group": "comma_truncated_coowner_isolation",
+    "name": "NASCIMENTO SYDNEY, NASCIMENTO",
+    "max": 49
+  },
+  {
+    "group": "comma_truncated_coowner_isolation",
+    "name": "HOFFMANN HENRIQUE,MARIVALDA M",
+    "max": 49
+  },
+  {
+    "group": "comma_truncated_coowner_isolation",
+    "name": "PERUCHI RICARDO VIEIRA,LIVIA P",
+    "max": 49
+  },
+  {
+    "group": "comma_coowner_isolation",
+    "name": "ANDERSON CASTER, SANTOS ROSA D",
+    "max": 49
+  },
+  {
+    "group": "last_first_comma_collision",
+    "name": "VADO SANDINO,ROSA ALBERTINA",
+    "max": 49
+  },
+  {
+    "group": "last_first_comma_collision",
+    "name": "DUQUE SALAZAR,XAVIER JOSE",
+    "max": 49
+  },
+  {
+    "group": "comma_coowner_independent_positive",
+    "name": "MELO DIOMAR A, INACIO SHIRLEY",
+    "min": 70
+  },
+  {
+    "group": "last_first_comma_preserved",
+    "name": "FERREIRA, GUSTAVO",
+    "min": 80
+  },
+  {
+    "group": "ambiguous_comma_no_evidence_pooling",
+    "name": "BARBOSA DE ALMEIDA,RITA S LE",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_comma_recall",
+    "name": "VAN VLIET, RODRIGO MEIRELLES",
+    "min": 30,
+    "max": 49
+  },
+  {
+    "group": "ambiguous_comma_recall",
+    "name": "COMBS ROBERT M,ELIANE SOUZA",
+    "min": 30,
+    "max": 49
+  },
+  {
+    "group": "ambiguous_comma_no_evidence_pooling",
+    "name": "DOS SANTOS CARNEIRO PERES,DALVA APARECIDA",
+    "max": 49
+  },
+  {
+    "group": "strict_last_first_comma_guard",
+    "name": "DE OLIVEIRA SANTOS,LUIZ G",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_comma_no_evidence_pooling",
+    "name": "ALMEIDA DE SOUZA,REGINA CELIA",
+    "max": 49
+  },
+  {
+    "group": "ambiguous_comma_no_evidence_pooling",
+    "name": "LOPES MUNHOZ,PEDRO HENRIQUE",
+    "max": 49
+  },
+  {
+    "group": "strict_last_first_comma_guard",
+    "name": "DE SA OLIVEIRA,FELIPE LIMA",
+    "max": 49
+  },
+  {
+    "group": "source_confirmed_last_first",
+    "name": "BENETTI ROSA,GABRIELA PEDROSA",
+    "comma_mode": "last_first",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "source_confirmed_last_first",
+    "name": "NOGUEIRA CAMPOS,MARIA GABRIELA",
+    "comma_mode": "last_first",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "source_unconfirmed_last_first_guard",
+    "name": "BENETTI ROSA,GABRIELA PEDROSA",
+    "max": 49
+  },
+  {
+    "group": "source_unconfirmed_last_first_guard",
+    "name": "NOGUEIRA CAMPOS,MARIA GABRIELA",
+    "max": 49
+  },
+  {
+    "group": "very_high_model_lead_guard",
+    "name": "HILTON XAVIER L",
+    "max": 69
+  },
+  {
+    "group": "very_high_model_lead_guard",
+    "name": "ADRIANA YSABEL SANTOS",
+    "max": 49
+  },
+  {
+    "group": "very_high_model_lead_guard",
+    "name": "SMITH JHON XAVIER",
+    "max": 69
+  },
+  {
+    "group": "very_high_hispanic_surname_model_conflict",
+    "name": "ROMAY MILENA SANTOS",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "high_hispanic_model_lead_guard",
+    "name": "SANTOS CRUZATA LAZARO L",
+    "max": 49
+  },
+  {
+    "group": "hispanic_conflict_but_brazilian_model_lead_high_only",
+    "name": "MARIANA DE JESUS POVEA",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "very_high_shared_model_positive",
+    "name": "DE BARROS RENATA MARIA BITTENCOURT",
+    "min": 70
+  },
+  {
+    "group": "weak_natural_order_surname",
+    "name": "TONI REIS",
+    "max": 49
+  },
+  {
+    "group": "weak_natural_order_surname",
+    "name": "SARAH MENEZES",
+    "max": 49
+  },
+  {
+    "group": "hispanic_structure_guard",
+    "name": "SERPA Y KAMPIK MARCELLUS CAETANO",
+    "max": 49
+  },
+  {
+    "group": "weak_natural_order_surname",
+    "name": "EMMANUEL Y MOREIRA",
+    "max": 49
+  },
+  {
+    "group": "compound_given_family_conflict",
+    "name": "CARLOS EDUARDO PRATS",
+    "max": 49
+  },
+  {
+    "group": "compound_given_family_conflict",
+    "name": "MELLA MARIA EDUARDA",
+    "max": 49
+  },
+  {
+    "group": "compound_given_family_conflict",
+    "name": "MAGARIO ANA PAULA RIBAS",
+    "max": 49
+  },
+  {
+    "group": "compound_given_family_conflict",
+    "name": "CARLOS EDUARDO WONG",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "BARBOSA RODRIGO ANDRES",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "SANTOS ANDRES MAURICIO",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "ANDRES CORREIA TEIXEIRA",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "RODRIGUES DE BARROS AGUSTIN",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "DE GOUVEIA AIDA MILAGROS",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "NIEVA MARIANO GUSTAVO",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "JOAQUIN DE PAULA MACHIN",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "OLIVER JOAQUIN DE SOUSA BRAVO",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_given_guard",
+    "name": "JOAQUIN DE SOUSA GONCALVES",
+    "max": 49
+  },
+  {
+    "group": "portuguese_given_spelling_positive",
+    "name": "JOAQUIM DE SOUSA GONCALVES",
+    "min": 70
+  },
+  {
+    "group": "leading_hispanic_surname_guard",
+    "name": "SARMIENTO DE DOS SANTOS ALCIRA COROMOTO",
+    "max": 49
+  },
+  {
+    "group": "leading_hispanic_surname_guard",
+    "name1": "DOS SANTOS PARRA JOSE JOAQUIN",
+    "name2": "SARMIENTO DE DOS SANTOS ALCIRA COROMOTO",
+    "max": 49
+  },
+  {
+    "group": "mixed_hispanic_compound_guard",
+    "name": "MARIA NELA DA SILVA PITA",
+    "max": 49
+  },
+  {
+    "group": "mixed_hispanic_compound_guard",
+    "name": "UZCATEGUI ANTONIO JESUS DA COSTA",
+    "max": 49
+  },
+  {
+    "group": "mixed_hispanic_compound_guard",
+    "name": "DA SILVA ALTUVE ELSI ELENA",
+    "max": 49
+  },
+  {
+    "group": "mixed_hispanic_compound_guard",
+    "name": "NORA A OZUNA DE DOS SANTOS LE",
+    "max": 49
+  },
+  {
+    "group": "mixed_hispanic_compound_guard",
+    "name1": "DA SILVA ALTUVE ELSI ELENA",
+    "name2": "ARELLANO MORANDO LEONARDO ANTONIO",
+    "max": 49
+  },
+  {
+    "group": "shared_iberian_compound_positive",
+    "name": "GARCIA DA SILVA JOSE",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "validated_compound_positive",
+    "name": "MARTINHO ALVARES DA SILVA CAMPOS",
+    "min": 70
+  },
+  {
+    "group": "validated_compound_positive",
+    "name": "VERIDIANA DA SILVA PRADO",
+    "min": 70
+  },
+  {
+    "group": "fixed_width_truncation_guard",
+    "name": "DA SILVA THIAGO HENRIQUE MARTI",
+    "min": 70
+  },
+  {
+    "group": "fixed_width_truncation_guard",
+    "name": "DOS SANTOS CARLOS EDUARDO PERE",
+    "min": 70
+  },
+  {
+    "group": "independent_coowner_positive",
+    "name": "CHRISTIANE MARTINS &H ANDRES",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "independent_coowner_positive",
+    "name1": "FERREIRA GUSTAVO",
+    "name2": "ANDRES CORREIA TEIXEIRA",
+    "min": 80
+  },
+  {
+    "group": "shared_lusophone_surname_high_only",
+    "name": "CASTRO FERNANDA RIBEIRO CUNHA",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "shared_lusophone_surname_high_only",
+    "name": "ALMEIDA CAMPOS HELIO",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "shared_lusophone_surname_high_only",
+    "name": "OLIVEIRA DANILO RAMOS",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "unsupported_hispanic_surname_guard",
+    "name": "SILVA MARCOS ALCANTARA E",
+    "max": 49
+  },
+  {
+    "group": "unsupported_hispanic_surname_guard",
+    "name": "CARDOSO MARIANA RIBEIRO RODERO",
+    "max": 49
+  },
+  {
+    "group": "country_dominant_hispanic_surname_guard",
+    "name": "TROYANO MAGDA ROSA MARINA",
+    "max": 49
+  },
+  {
+    "group": "surname_first_supporting_given_high_only",
+    "name": "FERREIRA RITA",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "surname_first_supporting_given_high_only",
+    "name": "TEIXEIRA HELENA",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "surname_first_supporting_given_high_only",
+    "name": "SOARES VANESSA",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "surname_first_supporting_given_guard",
+    "name": "COSSA MARA",
+    "max": 49
+  },
+  {
+    "group": "surname_first_supporting_given_guard",
+    "name": "FERREIRA WASHINGTON",
+    "max": 49
+  },
+  {
+    "group": "life_estate_metadata",
+    "name": "FERNANDES,PAULO LE",
+    "min": 50,
+    "max": 69
+  },
+  {
+    "group": "life_estate_metadata",
+    "name": "DA SILVA,MARCIEL LE H/E",
+    "min": 70
+  },
+  {
+    "group": "life_estate_metadata_guard",
+    "name": "NGUYEN,MINH LE",
+    "max": 14
+  },
+  {
+    "group": "api_conflict_medium_only_recall",
+    "name": "NAIR BELLO",
+    "min": 30,
+    "max": 49
+  },
+  {
+    "group": "api_conflict_medium_only_recall",
+    "name": "BIBI FERREIRA",
+    "min": 30,
+    "max": 49
+  },
+  {
+    "group": "api_conflict_medium_only_recall",
+    "name": "FATIMA BERNARDES",
+    "min": 30,
+    "max": 49
+  },
+  {
+    "group": "api_conflict_medium_only_recall",
+    "name": "YASMIN CURY",
+    "min": 30,
+    "max": 49
+  },
+  {
+    "group": "api_conflict_unresolved",
+    "name": "UM ROMAO",
+    "max": 14
+  },
+  {
+    "group": "api_conflict_unresolved",
+    "name": "CAPISTRANO DE ABREU",
+    "max": 14
+  },
+  {
+    "group": "evidence_cap_order_guard",
+    "name": "MAIA H ESTES JTRS",
+    "max": 49
+  },
+  {
+    "group": "evidence_cap_order_guard",
+    "name": "FERRAZ DE FRANCESCHI DANIELA",
+    "max": 49
+  },
+  {
+    "group": "legal_metadata_not_organization",
+    "name": "ANDREW P VAZ 2010 FMLY TRUST",
+    "min": 1,
+    "max": 49
+  },
+  {
+    "group": "legal_metadata_not_organization",
+    "name": "CHARLOTTE OLIVEIRA 2007 REVOCABLE TRUST",
+    "min": 1,
+    "max": 49
+  }
+]

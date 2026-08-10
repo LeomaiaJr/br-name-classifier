@@ -4,13 +4,15 @@ ML classifier that identifies Brazilian and broader Lusophone name-origin signal
 
 ## How It Works
 
-The classifier combines three layers:
+The classifier combines three model layers and an optional production policy:
 
 1. **Census frequency lookup** — compares name against 260K+ names from IBGE (Brazil), US SSA, US Census, and Spain INE. Computes P(Brazilian|name) using Bayesian probability across countries.
 
 2. **Character n-gram model** — a TF-IDF vectorizer (char_wb, 2-4 grams) + SGDClassifier trained on 600K synthetic names. Catches uncommon names not in any census by learning that character patterns like `-eiro`, `-aldo`, `-inha` are distinctly Portuguese.
 
 3. **Meta-classifier** — a logistic regression that combines 27 features (census probabilities, role-aware name slots, n-gram scores, structural signals like Portuguese prepositions DA/DOS, Brazilian suffixes JUNIOR/NETO, Hispanic indicators) into a final P(Brazilian) score.
+
+4. **Precision policy** — the recommended production API independently scores owners and explicit person segments, rejects organization names, requires corroborated Lusophone evidence for High/Very High, and caps unsupported cross-cultural surname conflicts. This deliberately trades some High/Very High recall for more dependable rankings.
 
 ## Results
 
@@ -43,14 +45,14 @@ python -m pipeline.export
 python scorer.py "FERREIRA GUSTAVO DA SILVA"
 # Score: 100/100 (Very High)
 
-# Run test suite
-python scorer.py
+# Run the production-policy regression suite
+python -m unittest tests.test_precision_policy
 ```
 
 ## Usage as a Library
 
 ```python
-from scorer import classify_name, classify_record
+from precision import classify_name, classify_record
 
 # Single name
 result = classify_name("GENIVALDO DE SOUZA")
@@ -61,8 +63,12 @@ print(result.probabilities) # {"brazilian": 0.999, "hispanic": 0.001, ...}
 
 # Two related name fields
 result = classify_record("FERREIRA GUSTAVO", "FERREIRA JULIANA")
-print(result.score)  # 100 (bonus for both names matching)
+print(result.score)  # strongest independently qualified owner; no evidence pooling
 ```
+
+The broad base model remains available from `scorer` for research and model
+evaluation. Applications that display confidence bands should normally import
+from `precision`.
 
 ## Architecture
 
@@ -76,6 +82,7 @@ pipeline/train_meta.py        ← Train 27-feature meta-classifier
 pipeline/export.py            ← Export models to JSON
 
 scorer.py                     ← Scoring API (classify_name, classify_record)
+precision.py                  ← Conservative production policy over the base model
 config.py                     ← Paths, URLs, hyperparameters
 constants.py                  ← Shared constants (prepositions, suffixes, etc.)
 
@@ -84,6 +91,7 @@ output/
   ngram_model.json            ← Sparse n-gram model weights (298 KB)
   meta_model.json             ← Meta-classifier weights (682 bytes)
   pcthispanic_lookup.json     ← US Census ethnicity data (1.4 MB)
+  surname_conflicts.json      ← Count-guarded cross-cultural surname conflicts
 ```
 
 ## Generated State
